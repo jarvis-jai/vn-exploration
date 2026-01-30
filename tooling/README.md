@@ -50,6 +50,8 @@ VN 開發相關的工具、引擎、框架整理。本目錄涵蓋從創作到�
 
 ### Unity + VN 框架
 
+**詳見：[unity-vn-ecosystem.md](./unity-vn-ecosystem.md)**
+
 **Naninovel**
 - 商業級 VN 框架（付費，$158+）
 - 功能完整：劇本語言、角色系統、存檔、本地化
