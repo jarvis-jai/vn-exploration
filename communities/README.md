@@ -77,6 +77,15 @@ VN 相關的社群、論壇、討論區整理。本目錄作為找尋資源與�
   - 巴哈姆特、PTT
   - 漢化組生態
 
+### 實況與串流文化
+
+- **VN 實況文化** → 詳見 [streaming-culture.md](./streaming-culture.md)
+  - 發行商的實況ガイドライン
+  - VTuber 與 VN 的交會
+  - 「一緒に読もう」文化
+  - Spoiler 管理與「看完就不想玩」問題
+  - 實況向け設計與官方合作策略
+
 ### 批評話語與討論文化
 
 - **社群討論文化** → 詳見 [discourse-and-criticism.md](./discourse-and-criticism.md)
