@@ -24,6 +24,7 @@
 | [parasocial-dynamics.md](parasocial-dynamics.md) | 擬社會關係與玩家-角色動態 |
 | [music-and-sound-design.md](music-and-sound-design.md) | 音樂與聲音設計 |
 | [visual-storytelling.md](visual-storytelling.md) | 視覺敘事與美術設計 |
+| [replayability-design.md](replayability-design.md) | 重玩價值設計 |
 
 ---
 
