@@ -75,11 +75,15 @@ VN 開發相關的工具、引擎、框架整理。本目錄涵蓋從創作到�
 
 ### Godot + 插件
 
+**詳見：[godot-ecosystem.md](./godot-ecosystem.md)**
+
 - 開源、免費的完整遊戲引擎
 - VN 專用插件生態發展中：
-  - **Dialogic**：主流 VN 對話插件（https://github.com/coppolaemilio/dialogic）
+  - **Dialogic**：主流 VN 對話插件（https://github.com/dialogic-godot/dialogic）
   - **Rakugo**：較完整的 VN 框架
+  - **Dialogue Manager**：腳本式對話系統
 - 需要更多設定，但引擎本身功能強大
+- 適合需要混合玩法的專案
 - 官網：https://godotengine.org/
 
 ### RPG Maker（VN 模式）
