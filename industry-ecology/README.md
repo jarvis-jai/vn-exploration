@@ -26,6 +26,7 @@
 - `vn-composers.md` - VN 作曲家文化：聲音的作者性
 - `western-indie-scene.md` - 西方獨立 VN 開發場景：OELVN 的歷史、工具鏈、美學光譜、代表作品
 - `localization-translation.md` - 翻譯與在地化：粉絲翻譯史、官方翻譯崛起、翻譯挑戰與爭議
+- `crowdfunding-patronage.md` - 眾籌與贊助：Kickstarter 時代、Patreon 模式、資金結構轉變、開發者與贊助者視角
 - `studio-identities.md` - 主要製作公司的風格辨識（待建立）
 - `development-team-structure.md` - 開發團隊的人員組成（待建立）
 
