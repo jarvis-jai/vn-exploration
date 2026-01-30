@@ -67,6 +67,17 @@
 
 ## 相關文件
 
+### [links.md](./links.md)
+
+**外部資源連結索引**
+
+- 資料庫與追蹤（VNDB、AniList、MAL 關聯）
+- 新聞與公告來源
+- 討論社群與論壇
+- Drama CD 購買與追蹤
+- FMV / 真人互動劇資源
+- 經典 IP 跨媒體研究入口
+
 ### [anime-adaptation.md](./anime-adaptation.md)
 
 **動畫化的結構、挑戰與案例**
