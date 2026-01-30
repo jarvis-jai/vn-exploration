@@ -21,6 +21,7 @@
 - 美少女遊戲（Bishoujo）
 - 百合（Yuri）
 - BL / 耽美（Boys' Love）→ 詳見 [bl-boys-love.md](./bl-boys-love.md)
+- 純愛系（Junai / Pure Love）→ 詳見 [junai-pure-love.md](./junai-pure-love.md)
 
 ### 懸疑／推理類
 - 推理解謎（Mystery）
