@@ -63,4 +63,16 @@ VN 相關的社群、論壇、討論區。
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [player-experience/](../player-experience/) | 社群如何塑造玩家體驗 |
+| [localization/](../localization/) | 翻譯社群與粉絲漢化 |
+| [artifacts/](../artifacts/) | 社群討論的原始摘錄 |
+| [emerging-frontiers/community-creation-and-mods.md](../emerging-frontiers/community-creation-and-mods.md) | MOD 與 UGC 社群 |
+| [failure-modes/](../failure-modes/) | 社群反應與爭議案例 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

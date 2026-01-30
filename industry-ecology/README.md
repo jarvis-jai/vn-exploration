@@ -50,4 +50,16 @@
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [monetization/](../monetization/) | 商業模式與定價策略 |
+| [failure-modes/](../failure-modes/) | 產業壓力下的失敗模式 |
+| [tooling/](../tooling/) | 開發工具與技術選擇 |
+| [communities/](../communities/) | 開發者與玩家社群 |
+| [artifacts/scenario-writer-discussions.md](../artifacts/scenario-writer-discussions.md) | 脚本家相關討論摘錄 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

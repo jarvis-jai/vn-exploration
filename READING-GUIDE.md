@@ -53,20 +53,20 @@
 
 | 目錄 | 狀態 | 說明 |
 |------|------|------|
-| `genres/` | ██████████ 密集 | 14 篇類型專文，內容豐富 |
-| `narrative-structures/` | ████████░░ 密集 | 13 篇敘事設計文章 |
-| `player-experience/` | ████████░░ 密集 | 15 篇玩家體驗分析 |
-| `communities/` | ███████░░░ 中等 | 日/西/中社群 + 實況文化 |
-| `industry-ecology/` | ███████░░░ 中等 | 產業生態各面向 |
-| `failure-modes/` | █████░░░░░ 中等 | 失敗模式 + 案例 |
-| `artifacts/` | █████░░░░░ 中等 | 原始素材收集 |
-| `adaptation/` | ████░░░░░░ 基本 | 改編相關 |
-| `localization/` | ████░░░░░░ 基本 | 在地化 |
-| `monetization/` | ███░░░░░░░ 骨架 | 商業模式基礎 |
-| `tooling/` | ███░░░░░░░ 骨架 | 主要是 Ren'Py |
-| `representative-works/` | ███░░░░░░░ 骨架 | 作品清單 |
-| `adjacent-genres/` | ███░░░░░░░ 骨架 | 鄰近類型 |
-| `emerging-frontiers/` | ██░░░░░░░░ 骨架 | AI、保存等新興議題 |
+| `genres/` | ██████████ 密集 | 14 篇類型專文 + links.md |
+| `narrative-structures/` | █████████░ 密集 | 13 篇敘事設計文章 + links.md |
+| `player-experience/` | █████████░ 密集 | 15 篇玩家體驗分析 + links.md |
+| `communities/` | ████████░░ 中等 | 日/西/中社群 + 實況文化 + links.md |
+| `industry-ecology/` | ████████░░ 中等 | 產業生態各面向 + links.md |
+| `failure-modes/` | ███████░░░ 中等 | 失敗模式 + 案例 + links.md |
+| `artifacts/` | ██████░░░░ 中等 | 5 篇原始素材收集 |
+| `adaptation/` | ██████░░░░ 中等 | 改編相關 + links.md |
+| `localization/` | ██████░░░░ 中等 | 在地化 + links.md |
+| `monetization/` | █████░░░░░ 基本 | 商業模式 + links.md |
+| `tooling/` | █████░░░░░ 基本 | Ren'Py/Unity/Godot + links.md |
+| `representative-works/` | █████░░░░░ 基本 | 作品清單 + links.md |
+| `adjacent-genres/` | █████░░░░░ 基本 | 鄰近類型 + links.md |
+| `emerging-frontiers/` | ████░░░░░░ 骨架 | AI、保存、社群創作 + links.md |
 
 ---
 

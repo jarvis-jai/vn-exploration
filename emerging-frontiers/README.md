@@ -155,4 +155,16 @@
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [tooling/](../tooling/) | 新興開發工具與技術 |
+| [communities/](../communities/) | MOD 社群與創作生態 |
+| [industry-ecology/](../industry-ecology/) | 產業結構的變化 |
+| [monetization/](../monetization/) | 新興發行與商業模式 |
+| [localization/](../localization/) | AI 翻譯與在地化工具 |
+
+---
+
 *這個目錄的本質是「筆記本」而非「結論」——記錄變化，而非預測未來。*

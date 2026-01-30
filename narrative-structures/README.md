@@ -94,4 +94,16 @@ VN 敘事設計的各種模式。
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [genres/](../genres/) | 不同類型的敘事慣例 |
+| [player-experience/](../player-experience/) | 敘事選擇對玩家體驗的影響 |
+| [failure-modes/](../failure-modes/) | 敘事設計的常見問題 |
+| [tooling/](../tooling/) | 分支管理與腳本工具 |
+| [artifacts/scenario-writer-discussions.md](../artifacts/scenario-writer-discussions.md) | 脚本家的創作討論 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

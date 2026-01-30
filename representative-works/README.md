@@ -103,6 +103,18 @@
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [genres/](../genres/) | 各類型的定義與特徵 |
+| [narrative-structures/](../narrative-structures/) | 代表作品的敘事分析 |
+| [industry-ecology/](../industry-ecology/) | 商業成功案例的市場脈絡 |
+| [localization/](../localization/) | 代表作品的翻譯歷史 |
+| [artifacts/](../artifacts/) | 代表作品的社群討論摘錄 |
+
+---
+
 > This section may remain empty for a long time.
 > Emptiness indicates unexplored space, not missing work.
 

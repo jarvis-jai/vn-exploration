@@ -103,4 +103,16 @@ VN 開發常見的問題與陷阱。從錯誤中學習。
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [narrative-structures/](../narrative-structures/) | 敘事設計問題的根源 |
+| [monetization/](../monetization/) | 定價與發行決策 |
+| [localization/](../localization/) | 翻譯品質問題 |
+| [artifacts/steam-review-patterns.md](../artifacts/steam-review-patterns.md) | 玩家負評的典型模式 |
+| [industry-ecology/](../industry-ecology/) | 產業結構與開發壓力 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

@@ -247,4 +247,16 @@
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [representative-works/](../representative-works/) | 經典改編案例的原作介紹 |
+| [player-experience/](../player-experience/) | 原作與改編的體驗差異 |
+| [industry-ecology/](../industry-ecology/) | 跨媒體企劃的產業脈絡 |
+| [communities/](../communities/) | 原作黨 vs 改編黨的社群動態 |
+| [genres/](../genres/) | 不同類型 VN 的改編適性 |
+
+---
+
 *狀態：索引建立完成，持續累積案例*

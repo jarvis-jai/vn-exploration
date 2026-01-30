@@ -92,4 +92,16 @@ VN 的類型分類。
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [narrative-structures/](../narrative-structures/) | 各類型的敘事結構特徵 |
+| [player-experience/](../player-experience/) | 不同類型的玩家體驗分析 |
+| [representative-works/](../representative-works/) | 各類型代表作品清單 |
+| [adjacent-genres/](../adjacent-genres/) | 鄰近類型（互動小說、育成、輕小說） |
+| [communities/](../communities/) | 各類型的玩家社群 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

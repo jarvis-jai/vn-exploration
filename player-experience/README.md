@@ -92,4 +92,16 @@ VN 如何被閱讀、感受、記憶。
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [narrative-structures/](../narrative-structures/) | 敘事設計如何影響體驗 |
+| [genres/](../genres/) | 不同類型的體驗特徵 |
+| [communities/](../communities/) | 玩家社群與討論文化 |
+| [artifacts/](../artifacts/) | 玩家評論與討論原始摘錄 |
+| [adaptation/](../adaptation/) | 跨媒體的體驗差異 |
+
+---
+
 > 空白代表尚未探索，不是遺漏。

@@ -345,4 +345,16 @@ VN 開發相關的工具、引擎、框架整理。本目錄涵蓋從創作到�
 
 ---
 
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [monetization/](../monetization/) | 發行平台與上架工具 |
+| [localization/](../localization/) | 本地化工具與翻譯流程 |
+| [industry-ecology/](../industry-ecology/) | 開發團隊規模與工具選擇 |
+| [failure-modes/](../failure-modes/) | 技術問題與工具限制 |
+| [emerging-frontiers/](../emerging-frontiers/) | AI 工具與新興技術 |
+
+---
+
 *狀態：初步填充，持續累積中*
