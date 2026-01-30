@@ -23,6 +23,7 @@
 - `competitors-and-threats.md` - VN 的競爭者與生存威脰分析
 - `fandisc-culture.md` - ファンディスク文化：補充內容經濟學
 - `scenario-writers.md` - 脚本家文化與作家主義的產業結構
+- `vn-composers.md` - VN 作曲家文化：聲音的作者性
 - `western-indie-scene.md` - 西方獨立 VN 開發場景：OELVN 的歷史、工具鏈、美學光譜、代表作品
 - `studio-identities.md` - 主要製作公司的風格辨識（待建立）
 - `development-team-structure.md` - 開發團隊的人員組成（待建立）
