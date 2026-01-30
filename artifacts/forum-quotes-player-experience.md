@@ -263,6 +263,149 @@
 
 ---
 
+## 「重開」與「多周目」相關發言
+
+### 強迫症式重玩
+
+> "I've done 7 playthroughs and I'm still finding new dialogue options I missed."
+
+> 「CG 全收集強迫症犯了，結果發現漏了一張要重打整條線。」
+
+> "Achievement hunting in this VN is making me question my life choices."
+
+### 多周目體驗變化
+
+> "First playthrough: 'This is so sad.' Third playthrough: 'Oh wait, THIS is what they meant.'"
+
+> 「二周目的伏筆回收感太強了，根本是另一個遊戲。」
+
+> "Knowing the twist makes the early scenes hit completely different."
+
+### 「True End 解鎖」的折磨
+
+> "I've been trying to unlock the true end for 3 hours. No guide, pure stubbornness."
+
+> 「沒攻略硬找 True End，結果發現要先打 Bad End 才能解鎖，心態崩了。」
+
+> "Why do they make true end conditions so obscure? Just let me have the full experience."
+
+---
+
+## 「比較」相關發言
+
+### 與其他作品比較
+
+> "If you liked [作品A], you'll probably like this, but don't expect the same impact."
+
+> 「拿這個和 [作品B] 比不公平，年代不一樣，要求的東西也不一樣。」
+
+> "Stop comparing everything to [經典作品]. Let things be their own thing."
+
+### 與其他媒介比較
+
+> "The anime adaptation doesn't do it justice. Read the source."
+
+> 「動畫黨說劇情沒邏輯，因為他們沒看到原作刪掉的部分。」
+
+> "I watched the anime first and loved it. Then I played the VN and realized I missed so much."
+
+### 版本比較
+
+> "Steam version vs original Japanese: any differences I should know about?"
+
+> 「全年齡版刪的內容影響劇情理解嗎？」
+
+> "The fan translation is better than the official one. Fight me."
+
+---
+
+## 「等待」相關發言
+
+### 等翻譯
+
+> "Any updates on the English localization? Been waiting 3 years."
+
+> 「官中遙遙無期，感謝漢化組續命。」
+
+> "At this point I might just learn Japanese. Faster than waiting."
+
+### 等續作
+
+> "[公司] please, we need a sequel. It's been 10 years."
+
+> 「雖然知道不會有續作但還是想再看到這些角色。」
+
+> "I'd take a spinoff, a side story, anything at this point."
+
+### 等完結
+
+> "Still following this episodic release. Chapter 3 when?"
+
+> 「等最終章等到都忘記前面劇情了。」
+
+> "I've learned my lesson. Never buy episodic VNs until they're complete."
+
+---
+
+## 「社群認同」相關發言
+
+### 身份宣言
+
+> "This is my 100th VN. AMA."
+
+> 「入坑十年，終於可以說自己是老玩家了吧？」
+
+> "I'm not a weeb, I just have refined taste in interactive fiction."
+
+### 防衛性陳述
+
+> "Yes, I play visual novels. No, they're not all dating sims. No, I don't want to explain the difference again."
+
+> 「VN 不是 galgame 的同義詞，拜託。」
+
+> "People who dismiss VNs as 'just reading' haven't played the good ones."
+
+### 社群自嘲
+
+> "We're all degenerates here. It's fine."
+
+> 「在座的各位都是 DD（誰都大好き）吧。」
+
+> "VN players have two moods: post-game depression and searching for the next one."
+
+---
+
+## 論壇資源入口
+
+### Reddit 相關
+
+| 社群 | 連結 | 特點 |
+|------|------|------|
+| r/visualnovels | https://www.reddit.com/r/visualnovels/ | 主社群 |
+| r/vns | https://www.reddit.com/r/vns/ | 較小，討論取向 |
+| r/vndevs | https://www.reddit.com/r/vndevs/ | 開發者社群 |
+| r/otomegames | https://www.reddit.com/r/otomegames/ | 乙女遊戲專門 |
+
+### 中文社群
+
+| 社群 | 特點 |
+|------|------|
+| 機核 GCORES | 深度討論、長文 |
+| B站評論區 | 即時反應、彈幕文化 |
+| NGA AVG 版 | 討論熱烈 |
+| 巴哈姆特 | 台灣主要社群 |
+| PTT C_Chat / Galgame 版 | 老牌討論區 |
+
+### 日文社群
+
+| 社群 | 特點 |
+|------|------|
+| ErogameScape (EGS) | 評分與評論資料庫 |
+| 5ch（原 2ch）| 匿名討論 |
+| Twitter/X | 即時反應、創作者互動 |
+
+---
+
 ## 收集說明
 
 以上發言為基於常見論壇語言模式的典型化呈現，非逐字引用。
