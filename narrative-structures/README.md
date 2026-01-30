@@ -67,6 +67,7 @@
 - **[time-manipulation.md](time-manipulation.md)** — 時間操控與時間敘事：循環系、時間跳躍、世界線/平行世界、預知系、回憶倒敘；具體作品機制收集（Steins;Gate、ひぐらし、Ever17 等）；時間主題的設計模式與哲學背景
 - **[narrative-deception.md](narrative-deception.md)** — 敘事欺騙與真相揭露：不可靠敘事者、敘事詭計類型、玩家預期操弄、真相揭露的設計
 - **[endings-and-termination.md](endings-and-termination.md)** — 結局設計的藝術：Good/Bad/True End 類型學、多結局的存在論問題、攻略順序設計、結局的心理學與商業面向
+- **[taboo-and-controversy.md](taboo-and-controversy.md)** — 禁忌題材與爭議敘事：VN 處理禁忌的媒介特性、常見禁忌類型（性、暴力、心理、政治）、敘事功能、平台審查、倫理辯論、案例分析
 
 ---
 
