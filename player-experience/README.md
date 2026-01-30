@@ -28,6 +28,8 @@
 | [replayability-design.md](replayability-design.md) | 重玩價值設計 |
 | [meta-reading-literacy.md](meta-reading-literacy.md) | メタ読み：後設閱讀素養 |
 | [iconic-scenes-collection.md](iconic-scenes-collection.md) | 名場面收藏：VN 史上的經典瞬間 |
+| [collection-and-preservation.md](collection-and-preservation.md) | 收藏、典藏與保存文化 |
+| [re-evaluation-and-cult-status.md](re-evaluation-and-cult-status.md) | 再評價現象與經典地位的形成 |
 
 ---
 
