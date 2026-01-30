@@ -77,6 +77,14 @@ VN 相關的社群、論壇、討論區整理。本目錄作為找尋資源與�
   - 巴哈姆特、PTT
   - 漢化組生態
 
+### 批評話語與討論文化
+
+- **社群討論文化** → 詳見 [discourse-and-criticism.md](./discourse-and-criticism.md)
+  - VN 特有的批評術語
+  - 評分與排名文化
+  - 劇透倫理與討論慣例
+  - 跨文化討論差異
+
 - **西方**
   - r/visualnovels（Reddit）
   - Fuwanovel
