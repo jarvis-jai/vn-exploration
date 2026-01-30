@@ -102,4 +102,7 @@ VN 在地化相關的考量因素整理。本目錄不做決策建議，僅列�
 
 ---
 
+> This section may remain empty for a long time.
+> Emptiness indicates unexplored space, not missing work.
+
 *狀態：骨架結構，待填充*

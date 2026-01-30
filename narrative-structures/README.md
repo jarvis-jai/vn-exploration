@@ -65,4 +65,7 @@
 
 ---
 
+> This section may remain empty for a long time.
+> Emptiness indicates unexplored space, not missing work.
+
 *狀態：骨架結構，待填充*

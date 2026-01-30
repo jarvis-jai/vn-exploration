@@ -92,4 +92,7 @@ VN 開發中常見的問題與陷阱。本目錄整理這些失敗模式，作�
 
 ---
 
+> This section may remain empty for a long time.
+> Emptiness indicates unexplored space, not missing work.
+
 *狀態：骨架結構，待填充*

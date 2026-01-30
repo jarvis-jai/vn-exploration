@@ -1,5 +1,17 @@
 # VN Exploration（視覺小說探索）
 
+## How to use this repo
+
+This repository is an evolving knowledge base for learning and building Visual Novels (VN).
+
+- This is NOT a tutorial.
+- This is NOT a decision document.
+- This is a growing index of references, examples, themes, and design patterns.
+
+Each section may be incomplete. Gaps are intentional.
+
+---
+
 這是一個用於探索視覺小說（Visual Novel, VN）領域的知識庫。目的是建立一個結構化的索引，涵蓋 VN 的各個面向——從類型與敘事結構，到工具、社群、發行模式等。
 
 本 repo 是**地圖式的參考資料**，不是決策文件。這裡不做推薦、不下結論、不排名。純粹整理「VN 世界裡有什麼」，方便日後查閱與深入研究。
@@ -27,6 +39,17 @@ vn-exploration/
 ## 使用方式
 
 每個目錄內都有 `README.md`，說明該分類的範圍與應收錄的內容。目前為骨架結構，待後續填充。
+
+---
+
+## Working Principles
+
+> 這是寫給「未來的 Jones & Jarvis」看的工作原則。
+
+- **Do not finalize conclusions.** 不要下定論。
+- **Do not rank ideas unless explicitly asked.** 除非明確要求，不要排名。
+- **Prefer collecting examples, links, quotes, and contrasts.** 優先收集範例、連結、引述、對比。
+- **Open questions are more valuable than answers.** 開放性問題比答案更有價值。
 
 ---
 

@@ -98,4 +98,7 @@ VN 開發相關的工具、引擎、框架整理。本目錄涵蓋從創作到�
 
 ---
 
+> This section may remain empty for a long time.
+> Emptiness indicates unexplored space, not missing work.
+
 *狀態：骨架結構，待填充*

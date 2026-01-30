@@ -95,4 +95,7 @@ VN 的商業模式、定價策略、發行管道整理。本目錄不做建議�
 
 ---
 
+> This section may remain empty for a long time.
+> Emptiness indicates unexplored space, not missing work.
+
 *狀態：骨架結構，待填充*
