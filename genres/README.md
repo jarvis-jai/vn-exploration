@@ -24,7 +24,7 @@
 - 純愛系（Junai / Pure Love）→ 詳見 [junai-pure-love.md](./junai-pure-love.md)
 
 ### 懸疑／推理類
-- 推理解謎（Mystery）
+- 推理懸疑（Mystery / Suspense）→ 詳見 [mystery-suspense.md](./mystery-suspense.md)
 - 犯罪驚悚（Crime Thriller）
 - 法庭劇（Courtroom Drama）
 
