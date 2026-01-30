@@ -29,9 +29,12 @@
 - 法庭劇（Courtroom Drama）
 
 ### 恐怖類
-- 心理恐怖（Psychological Horror）
-- 生存恐怖（Survival Horror）
-- 怪談／都市傳說（Urban Legend）
+- **恐怖系光譜（Horror Spectrum）** → 詳見 [horror-spectrum.md](./horror-spectrum.md)
+  - 心理恐怖（Psychological Horror）
+  - 宇宙恐怖（Cosmic Horror）
+  - 怪談／都市傳說（Urban Legend）
+  - 生存恐怖（Survival Horror）
+  - 後設恐怖（Meta Horror）
 
 ### 奇幻／科幻類
 - 奇幻冒險（Fantasy）
