@@ -23,7 +23,7 @@ Each section may be incomplete. Gaps are intentional.
 ```
 vn-exploration/
 ├── genres/                 # 類型與子類型
-├── narrative-structures/   # 敘事結構（含選擇設計專論）
+├── narrative-structures/   # 敘事結構（含選擇設計、套路慣例）
 ├── player-experience/      # 玩家體驗模式
 │   ├── emotional-engagement.md   # 情感投入機制
 │   ├── voice-performance.md      # 聲優與語音演出
@@ -33,7 +33,7 @@ vn-exploration/
 ├── failure-modes/          # 常見失敗模式
 ├── representative-works/   # 代表作品
 ├── communities/            # 社群與討論區
-├── tooling/                # 工具與引擎
+├── tooling/                # 工具與引擎（含 Ren'Py 深度剖析）
 ├── monetization/           # 商業模式與發行（含定價策略、平台比較）
 ├── localization/           # 在地化考量（含 VN 特有挑戰專論）
 └── adjacent-genres/        # 鄰近類型（含互動小說專論）
