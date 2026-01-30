@@ -100,6 +100,20 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 - `itch.io pay what you want VN`
 - `visual novel launch discount`
 - `indie game pricing psychology`
+- `steam sale timing visual novel`
+- `VN bundle worth it`
+
+### 促銷策略討論
+
+| 主題 | 搜尋關鍵字 | 說明 |
+|------|-----------|------|
+| 首發折扣 | `launch discount indie game` | 首發是否打折的爭論 |
+| 季節促銷參與 | `steam seasonal sale VN` | 參與大促的影響 |
+| 長尾定價 | `price drop timing indie` | 何時降價 |
+| Bundle 參與 | `humble bundle visual novel` | 進入合集的利弊 |
+| 免費 Demo | `steam demo conversion rate VN` | Demo 對轉化的影響 |
+| Early Access | `visual novel early access` | EA 模式適合 VN 嗎 |
+| Next Fest | `steam next fest visual novel` | 展會曝光效果 |
 
 ---
 
@@ -146,6 +160,82 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 - `sekai project kickstarter track record`
 - `visual novel kickstarter delivery rate`
 
+### 眾籌以外的預購/資金來源
+
+| 模式 | 說明 | 搜尋關鍵字 |
+|------|------|-----------|
+| Steam 預購 | Steam 內預購功能 | `steam early access visual novel` |
+| itch.io 預購 | 開發中預購 | `itch.io devlog pre-purchase` |
+| Patreon 開發 | 開發期間持續資助 | `VN patreon development` |
+| 政府補助 | 各國文化補助 | `game development grant` |
+| 發行商預付 | 發行商前期投資 | `VN publisher advance` |
+
+### 眾籌 Stretch Goal 設計
+
+| 類型 | 說明 | 案例/搜尋 |
+|------|------|----------|
+| 語言追加 | 新語言翻譯 | `kickstarter localization stretch` |
+| 語音追加 | 全語音/部分語音 | `VN voice acting stretch goal` |
+| 內容追加 | 新路線/新角色 | `VN route stretch goal` |
+| 實體周邊 | 設定集/音樂CD | `kickstarter physical goods` |
+| 平台追加 | Switch/主機版 | `console port stretch goal` |
+
+---
+
+## DLC 與追加內容策略
+
+### DLC 類型
+
+| 類型 | 說明 | 案例/搜尋 |
+|------|------|----------|
+| 劇情 DLC | 追加路線/故事 | `visual novel story DLC` |
+| 角色 DLC | 新可攻略角色 | `VN character DLC` |
+| R18 補丁 | 成人內容還原 | `adult patch steam` |
+| Fan Disc | 後日談/番外 | `fan disc visual novel` |
+| 服裝 DLC | 角色服裝變更 | `costume DLC VN` |
+| 音樂/美術 | OST、設定集 | `soundtrack DLC` |
+
+### DLC 定價討論
+
+| 主題 | 搜尋關鍵字 |
+|------|-----------|
+| DLC 值不值 | `visual novel DLC worth it` |
+| 切割內容爭議 | `cut content DLC controversy` |
+| 免費 DLC 策略 | `free DLC marketing` |
+| Season Pass | `visual novel season pass` |
+
+### 成功 DLC 案例
+
+| 作品 | DLC 策略 | 說明 |
+|------|----------|------|
+| Our Life | 角色 DLC | 免費本體 + 付費內容 |
+| Clannad | Side Stories | 番外故事包 |
+| Steins;Gate | Phenogram | 視點切換 DLC |
+| 乙女遊戲系列 | After Stories | 後日談販售 |
+
+---
+
+## 免費遊戲商業模式
+
+### F2P VN 策略
+
+| 策略 | 說明 | 案例 |
+|------|------|------|
+| 免費 + Donation | 自願贊助 | Katawa Shoujo |
+| 免費 + 付費 DLC | 本體免費 | Our Life |
+| 免費 + 周邊 | 實體商品販售 | DDLC（官方周邊） |
+| 免費 → 商業續作 | 建立粉絲基礎 | 部分同人轉商業 |
+| 試玩免費 | Demo → 購買 | Steam 常見模式 |
+
+### 搜尋關鍵字
+
+```
+free visual novel monetization
+DDLC business model
+free to play VN success
+donation supported visual novel
+```
+
 ---
 
 ## 發行商資訊
@@ -179,6 +269,107 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 | 方塊遊戲 | [cubejoy.com](https://www.cubejoy.com/) | 中國 VN 發行 |
 | 騰訊 WeGame | — | 主流遊戲平台 |
 | 嗶哩嗶哩遊戲 | — | B站遊戲發行 |
+| TapTap | [taptap.io](https://www.taptap.io/) | 手遊平台（含 VN） |
+
+### 韓國市場
+
+| 平台/發行商 | 說明 |
+|------------|------|
+| Steam 韓國區 | 價格敏感市場 |
+| Moe App | 韓國美少女遊戲平台 |
+| 韓國 VN 發行商 | Cherry Kiss Games 有韓文版 |
+
+### 發行商合作 vs 自發行
+
+| 主題 | 搜尋關鍵字 | 說明 |
+|------|-----------|------|
+| 自發行經驗 | `self publish visual novel` | 獨立發行經驗 |
+| 發行商分潤 | `VN publisher revenue share` | 合作條件討論 |
+| 發行商選擇 | `choosing VN publisher` | 如何評估發行商 |
+| 合約陷阱 | `VN publisher contract` | 合約注意事項 |
+| 發行商追蹤 | `sekai project track record` | 發行商口碑追蹤 |
+
+---
+
+## 主機平台發行
+
+### Nintendo Switch
+
+| 資源 | 說明 |
+|------|------|
+| [Nintendo Developer Portal](https://developer.nintendo.com/) | 官方開發者申請 |
+| `visual novel switch port` | 搜尋移植經驗 |
+| `VN switch sales japan` | 日本 Switch VN 銷量 |
+
+### Switch VN 發行觀察
+
+| 主題 | 說明 |
+|------|------|
+| 審查標準 | 比 Steam 嚴格，需要全年齡版 |
+| 日本市場 | Switch 為日本 VN 重要平台 |
+| 移植成本 | Ren'Py → Switch 需要特殊處理 |
+| 實體版 | Limited Run Games 等限量發行 |
+
+### PlayStation / Xbox
+
+| 平台 | VN 友善度 | 說明 |
+|------|----------|------|
+| PlayStation | 中等 | 審查趨嚴，日本 VN 常有刪改 |
+| Xbox | 低 | VN 上架極少 |
+
+### 主機移植服務商
+
+| 服務 | 說明 |
+|------|------|
+| Ratalaika Games | 獨立遊戲移植到主機 |
+| EastAsiaSoft | 亞洲遊戲西方主機發行 |
+| Limited Run Games | 限量實體版發行 |
+| Play-Asia | 亞洲版實體遊戲販售 |
+
+---
+
+## 手機 VN 市場
+
+### 平台概覽
+
+| 平台 | 特色 | VN 生態 |
+|------|------|---------|
+| iOS App Store | 審查嚴格 | 多為全年齡改編版 |
+| Google Play | 略寬鬆 | 有成人內容限制 |
+| Amazon Appstore | 較小眾 | VN 選擇少 |
+| Qoo App | 亞洲非官方 | 可下載日本 VN |
+| TapTap | 中國/國際 | 中文 VN 較多 |
+
+### 手機 VN 商業模式
+
+| 模式 | 說明 | 案例搜尋 |
+|------|------|----------|
+| 買斷制 | 一次購買 | `premium visual novel mobile` |
+| 章節購買 | 免費開頭 + 付費後續 | `episodic VN mobile` |
+| 內購解鎖 | 免費玩 + 內購內容 | `visual novel IAP` |
+| 抽卡/gacha | 角色/劇情抽取 | `gacha visual novel` |
+| 票券制 | 每日免費讀取限額 | `ticket system otome` |
+
+### 乙女遊戲手機市場（重要參考）
+
+| 資源 | 說明 |
+|------|------|
+| [Otome Obsessed](https://otomeobsessed.com/) | 乙女遊戲評論與新聞 |
+| [r/otomegames](https://www.reddit.com/r/otomegames/) | 乙女遊戲社群 |
+| `mobile otome game revenue` | 手機乙女營收討論 |
+| Voltage Inc. | 乙女遊戲手機發行大廠 |
+| Cybird | Love 365 等乙女平台 |
+| NTT Solmare | Shall We Date 系列 |
+
+### 搜尋關鍵字
+
+```
+visual novel mobile market
+VN iOS release
+android visual novel sales
+mobile VN port
+free to play visual novel monetization
+```
 
 ---
 
@@ -253,6 +444,18 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 | OPUS 系列 | Steam/Switch | 台灣團隊敘事遊戲 |
 | 文字遊戲 | Steam | 實驗性文字 VN |
 | 完美的一天 | Steam | 獨立敘事 VN |
+| 赤燭 返校/還願 | Steam/GOG | 台灣恐怖 VN 風格作品 |
+| 失落迷城 | Steam | 中國獨立懸疑 |
+| 波西亞時光 | Steam | 含 VN 元素的模擬 |
+
+### 台灣/香港開發者資源
+
+| 資源 | 說明 |
+|------|------|
+| [巴哈姆特 獨立開發者板](https://forum.gamer.com.tw/B.php?bsn=60599) | 台灣獨立開發討論 |
+| [Taiwan Game Dev](https://www.facebook.com/groups/gamedev.tw/) | Facebook 社群 |
+| 台北遊戲開發者論壇 | 線下活動資訊 |
+| 文策院 TAICCA | 台灣遊戲補助計畫 |
 
 ---
 
@@ -274,6 +477,27 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 - [Ko-fi](https://ko-fi.com/) — 小額贊助
 - [Patreon](https://www.patreon.com/) — 訂閱贊助模式
 - [SubscribeStar](https://www.subscribestar.com/) — Patreon 替代（成人內容友善）
+- [Gumroad](https://gumroad.com/) — 數位產品販售
+- [Itch.io](https://itch.io/) — 獨立遊戲發行 + 社群
+
+### 行銷與曝光
+
+| 工具/平台 | 用途 |
+|-----------|------|
+| [Keymailer](https://www.keymailer.co/) | 媒體/實況主 key 發送 |
+| [Woovit](https://woovit.com/) | 實況主媒合 |
+| [Twitter/X](https://twitter.com/) | 開發日誌、社群經營 |
+| [Discord](https://discord.com/) | 社群建立 |
+| [Steam Curator Connect](https://store.steampowered.com/curator/) | Steam 策展人連繫 |
+
+### 法務與商業
+
+| 資源 | 說明 |
+|------|------|
+| [Video Game Attorney](https://videogameattorney.com/) | 遊戲法律諮詢（美國） |
+| `indie game contract template` | 合約範本搜尋 |
+| `game developer LLC vs sole proprietor` | 公司型態選擇 |
+| `visual novel copyright` | 版權相關討論 |
 
 ---
 
