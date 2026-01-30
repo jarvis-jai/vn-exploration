@@ -37,6 +37,7 @@
 - 科幻（Science Fiction）
 - 蒸氣龐克（Steampunk）
 - 賽博龐克（Cyberpunk）
+- 世界系（Sekai-kei）→ 詳見 [sekai-kei.md](./sekai-kei.md)
 
 ### 日常／治癒類
 - 日常系（Slice of Life）

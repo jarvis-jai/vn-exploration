@@ -22,7 +22,7 @@ Each section may be incomplete. Gaps are intentional.
 
 ```
 vn-exploration/
-├── genres/                 # 類型與子類型
+├── genres/                 # 類型與子類型（含世界系專論）
 ├── narrative-structures/   # 敘事結構（含選擇設計、套路慣例）
 ├── player-experience/      # 玩家體驗模式
 │   ├── emotional-engagement.md   # 情感投入機制
