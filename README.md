@@ -28,6 +28,7 @@ vn-exploration/
 │   ├── emotional-engagement.md   # 情感投入機制
 │   ├── voice-performance.md      # 聲優與語音演出
 │   ├── parasocial-dynamics.md    # 擬社會關係與玩家-角色動態
+│   ├── player-typology.md        # 玩家類型學與消費行為
 │   ├── music-and-sound-design.md # 音樂與聲音設計
 │   └── visual-storytelling.md    # 視覺敘事與美術設計
 ├── failure-modes/          # 常見失敗模式
