@@ -56,17 +56,15 @@
 
 ### 里程碑作品
 
-- **1996** — 屍體派對（RPG Maker 恐怖 VN 先驅）
-- **2000** — 月姬（同人達商業級品質）
-- **2001** — 逆轉裁判（法庭推理 ADV 定義）
-- **2002** — Ever17（敘事詭計標竿）
-- **2004** — Clannad / Fate/stay night（Key / TM 巔峰）
-- **2006** — Muv-Luv Alternative（VNDB 長期榜首）
-- **2009** — Steins;Gate（科學冒險系列）
-- **2012** — Katawa Shoujo（西方協作 VN 典範）
-- **2013** — 君と彼女と彼女の恋。（DDLC 前驅）
-- **2017** — DDLC（西方後設 VN 爆發）
-- **2019** — 隱形守護者（中國真人 VN 突破）
+**詳見：[milestones.md](./milestones.md)**
+
+按年份整理影響 VN 發展的關鍵作品與事件，包含：
+- 1990 年代（同級生、弟切草、YU-NO、ONE、Kanon）
+- 2000 年代（月姬、逆轉裁判、Ever17、Fate/stay night、Steins;Gate）
+- 2010 年代（DDLC、VA-11 Hall-A、隱形守護者）
+- 2020 年代（Slay the Princess、1000xRESIST）
+- 技術 / 工具里程碑（Ren'Py、吉里吉里、Live2D）
+- 商業 / 市場里程碑（Steam、Kickstarter、Patreon）
 
 ---
 
