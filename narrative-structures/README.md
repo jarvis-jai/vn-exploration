@@ -68,6 +68,7 @@
 - **[narrative-deception.md](narrative-deception.md)** — 敘事欺騙與真相揭露：不可靠敘事者、敘事詭計類型、玩家預期操弄、真相揭露的設計
 - **[endings-and-termination.md](endings-and-termination.md)** — 結局設計的藝術：Good/Bad/True End 類型學、多結局的存在論問題、攻略順序設計、結局的心理學與商業面向
 - **[taboo-and-controversy.md](taboo-and-controversy.md)** — 禁忌題材與爭議敘事：VN 處理禁忌的媒介特性、常見禁忌類型（性、暴力、心理、政治）、敘事功能、平台審查、倫理辯論、案例分析
+- **[heroine-archetypes.md](heroine-archetypes.md)** — 女主角原型論：關係定位型（青梅竹馬、妹系、姐系）與性格屬性型（傲嬌、病嬌、天然呆、元氣）原型、視覺設計信號、類型組合與反差萌、類型系統批評與歷史演變
 
 ---
 
