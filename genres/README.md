@@ -43,6 +43,9 @@
 - 日常系（Slice of Life）
 - 治癒系（Iyashikei）
 
+### 情感類型
+- 泣きゲー／鬱ゲー（Nakige / Utsuge）→ 詳見 [nakige-utsuge-spectrum.md](./nakige-utsuge-spectrum.md)
+
 ### 實驗性／後設類
 - 後設敘事（Meta-narrative）→ 詳見 [meta-narrative.md](./meta-narrative.md)
 - 第四面牆破壞
