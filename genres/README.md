@@ -20,7 +20,7 @@
 - 乙女遊戲（Otome）→ 詳見 [otome-games.md](./otome-games.md)
 - 美少女遊戲（Bishoujo）
 - 百合（Yuri）
-- BL / 耽美（Boys' Love）
+- BL / 耽美（Boys' Love）→ 詳見 [bl-boys-love.md](./bl-boys-love.md)
 
 ### 懸疑／推理類
 - 推理解謎（Mystery）
