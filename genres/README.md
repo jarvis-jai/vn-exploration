@@ -52,8 +52,14 @@
 
 ### 實驗性／後設類
 - 後設敘事（Meta-narrative）→ 詳見 [meta-narrative.md](./meta-narrative.md)
+- **電波系（Denpa-kei）** → 詳見 [denpa-kei.md](./denpa-kei.md)
 - 第四面牆破壞
 - 實驗性互動
+
+### 燃系／中二病系
+- **中二病系（Chuunige）** → 詳見 [chuunige-chunibyo.md](./chuunige-chunibyo.md)
+- 熱血戰鬥
+- 能力覺醒物語
 
 ### 其他
 - 歷史劇
