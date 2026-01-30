@@ -420,6 +420,111 @@ VN 高度依賴敘事驚喜。劇透管理失當會嚴重傷害玩家體驗與�
 - 「劇情反轉」引發玩家憤怒（更多具體案例）
 - 遊戲結束後的支援問題
 - 語音 / 配音相關爭議
+- 定價策略失誤的具體案例
+- 首發 bug 導致評價崩盤的案例
+- 「更新後反而變糟」的案例
+
+---
+
+## 案例研究資源入口
+
+### 眾籌追蹤
+
+**Reddit 眾籌狀態追蹤：**
+- [r/visualnovels 搜尋 "kickstarter status"](https://www.reddit.com/r/visualnovels/search?q=kickstarter+status&restrict_sr=1&sort=new)
+- [r/visualnovels 搜尋 "crowdfunding update"](https://www.reddit.com/r/visualnovels/search?q=crowdfunding+update&restrict_sr=1)
+- 定期有社群成員整理眾籌專案的履約狀況
+
+**Kickstarter VN 專案：**
+- [Kickstarter Games - Visual Novel 標籤](https://www.kickstarter.com/discover/advanced?category_id=35&tag_id=47)
+- 檢查 "Updates" 區域最後更新日期
+- 觀察 Comments 區的贊助者反應
+
+**Fuwanovel 眾籌追蹤：**
+- https://forums.fuwanovel.net/
+- 歷史上有完整的眾籌專案追蹤文章
+- 包含已取消/延遲專案的紀錄
+
+### 翻譯爭議紀錄
+
+**r/visualnovels 翻譯討論：**
+- [搜尋 "translation quality"](https://www.reddit.com/r/visualnovels/search?q=translation+quality&restrict_sr=1)
+- [搜尋 "localization controversy"](https://www.reddit.com/r/visualnovels/search?q=localization+controversy&restrict_sr=1)
+- [搜尋 "censorship"](https://www.reddit.com/r/visualnovels/search?q=censorship&restrict_sr=1)
+
+**具體作品的翻譯比較：**
+- YouTube 搜尋「[作品名] translation comparison」
+- 部分作品有多個翻譯版本可比較
+
+### 公司倒閉與專案取消
+
+**日本 VN 公司動態：**
+- ErogameScape 的 Brand 頁面追蹤活動狀態
+- Twitter 搜尋公司名稱 + 「解散」「活動休止」
+- 2ch/5ch エロゲネタ&業界板
+
+**已知倒閉/停止活動的公司（搜尋參考）：**
+- minori（2019 解散）
+- OVERDRIVE（2019 解散）
+- propeller（衰退）
+- Frontwing（業務縮小）
+- 各種同人團體的活動停止
+
+### Steam 評價追蹤
+
+**Steam 評價變化觀察：**
+- SteamDB 可查看評價歷史變化
+- 注意首發後評價驟降的作品
+- 注意更新後評價變化的作品
+
+**Steam 負評集中的作品類型：**
+- Early Access 長期未更新
+- 翻譯品質爭議
+- 首發重大 bug
+- DLC 定價爭議
+
+### 社群討論存檔
+
+**4chan /vn/ Archive：**
+- https://warosu.org/jp/ — 搜尋「disaster」「trainwreck」
+- 匿名環境的直接評價
+- 注意時間點與脈絡
+
+**Fuwanovel 歷史討論：**
+- 論壇有多年的作品評價累積
+- 搜尋特定作品可找到當時的反應
+
+---
+
+## 搜尋關鍵字索引
+
+**英文：**
+- `visual novel kickstarter failed / delayed / canceled`
+- `VN translation disaster`
+- `visual novel company closed / bankrupt`
+- `worst visual novel ending`
+- `VN controversy reddit`
+
+**日文：**
+- `ノベルゲーム 炎上`
+- `エロゲ会社 倒産 / 解散`
+- `クソゲー ノベルゲー`
+- `地雷 ギャルゲー`
+
+**中文：**
+- `視覺小說 眾籌 跳票`
+- `galgame 翻譯 機翻 災難`
+- `VN 公司倒閉`
+- `Steam VN 差評原因`
+
+---
+
+## 相關連結
+
+- [player-complaints-patterns.md](./player-complaints-patterns.md) — 玩家抱怨模式分析
+- [abandoned-projects.md](./abandoned-projects.md) — 未竟之作紀錄
+- [links.md](./links.md) — 更多外部資源
+- [production-economics.md](./production-economics.md) — 製作經濟學問題
 
 ---
 

@@ -311,12 +311,146 @@
 
 ---
 
+## 外部資源入口
+
+### Steam 負評挖掘
+
+**搜尋策略：**
+1. 前往 [Steam Visual Novel Tag](https://store.steampowered.com/tags/en/Visual%20Novel/)
+2. 按「使用者評論」排序，找「褒貶不一」或「多半負評」的作品
+3. 進入評論區，選擇「最有價值的負評」
+
+**常見低評價 VN 類型（供觀察）：**
+- 廉價 Unity/Ren'Py 素材拼湊作品
+- 翻譯爭議的移植版
+- Early Access 停止更新的作品
+- 價格與內容量明顯不符的作品
+
+**Steam 評論搜尋關鍵字：**
+- `not recommended machine translation`
+- `too short not worth`
+- `abandoned unfinished`
+- `misleading false advertising`
+- `translation quality terrible`
+- `crashes bugs unplayable`
+
+### VNDB 低分研究
+
+**VNDB 低分作品入口：**
+- [VNDB 按評分升序排列](https://vndb.org/v?f=&s=rating&o=a) — 找評分最低的作品
+- 進入作品頁面 → Votes/Reviews 區域
+- 觀察 1-5 分評論的具體內容
+
+**VNDB 搜尋技巧：**
+- 按投票數排序可找到樣本量大的作品
+- 評分中位數與平均數差異大的作品往往有爭議
+- 注意日文評論與英文評論的差異
+
+### Reddit 討論串
+
+**r/visualnovels 相關討論搜尋：**
+- [搜尋 "disappointing"](https://www.reddit.com/r/visualnovels/search?q=disappointing&restrict_sr=1)
+- [搜尋 "overhyped"](https://www.reddit.com/r/visualnovels/search?q=overhyped&restrict_sr=1)
+- [搜尋 "worst VN"](https://www.reddit.com/r/visualnovels/search?q=worst+VN&restrict_sr=1)
+- [搜尋 "translation controversy"](https://www.reddit.com/r/visualnovels/search?q=translation+controversy&restrict_sr=1)
+- [搜尋 "regret buying"](https://www.reddit.com/r/visualnovels/search?q=regret+buying&restrict_sr=1)
+- [搜尋 "unpopular opinion"](https://www.reddit.com/r/visualnovels/search?q=unpopular+opinion&restrict_sr=1)
+
+**經典抱怨討論串類型：**
+- 「What VN did you drop and why?」
+- 「Controversial opinions about popular VNs」
+- 「VNs that didn't live up to the hype」
+- 「What's wrong with [specific VN]?」
+
+### 日本社群
+
+**批評空間（ErogameScape）：**
+- [EGS 低分作品搜尋](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/kensaku.php) — 可按評分篩選
+- 日本玩家評論傾向直接指出問題
+- 注意「地雷」一詞的使用
+
+**5ch / 2ch 相關板：**
+- 搜尋「エロゲ 地雷」「クソゲー」
+- 匿名環境的評論通常更直接
+- Archive: [warosu.org/jp/](https://warosu.org/jp/)
+
+**Twitter/X 搜尋：**
+- `ノベルゲーム 期待外れ`
+- `エロゲ 地雷`
+- `#クソゲーオブザイヤー`
+
+### 中文社群
+
+**Bangumi（番組計劃）：**
+- https://bgm.tv/game/browser?sort=rank&page=last — 排名靠後的遊戲
+- 中文玩家的詳細短評
+- 注意「棄坑」「刀」等特有詞彙
+
+**機核（GCores）：**
+- https://www.gcores.com/
+- 搜尋「galgame 踩雷」「視覺小說 避雷」
+- 評測文章通常較深入
+
+**NGA 單機遊戲版：**
+- https://bbs.nga.cn/thread.php?fid=414
+- 搜尋「galgame 翻車」「爛作」
+
+**Bilibili：**
+- 搜尋「galgame 踩雷盤點」「視覺小說 差評」
+- 視頻評測往往配合具體畫面說明問題
+
+**Steam 中文負評：**
+- 直接在 Steam 評論區篩選「中文」+ 「不推薦」
+- 中文玩家對翻譯品質特別敏感
+
+---
+
+## 常見爭議關鍵字索引
+
+**翻譯相關：**
+- 機翻 / MTL / Machine Translation
+- 翻譯爭議 / Localization controversy
+- 刪減 / Censorship
+- 意譯 vs 直譯
+
+**劇情相關：**
+- 爛尾 / Bad ending
+- 虎頭蛇尾
+- 強行展開 / Forced plot
+- 機械降神 / Deus ex machina
+- 為虐而虐
+
+**技術相關：**
+- 閃退 / Crash
+- 相容性問題 / Compatibility issues
+- DRM 問題
+- 效能問題 / Performance issues
+
+**商業相關：**
+- 定價過高 / Overpriced
+- 內容太短 / Too short
+- DLC 割韭菜
+- 虛假宣傳 / False advertising
+
+---
+
 ## 待進一步研究
 
 - 特定作品的負評分析（匿名化案例研究）
 - 抱怨模式隨時間的變化（早期 VN vs 現代 VN）
 - 抱怨與實際銷量的相關性
 - 開發者回應抱怨的常見策略與效果
+- 「救回來」的案例——負評作品如何透過更新/補丁改善評價
+- 翻譯爭議後的市場反應（銷量變化、退款率）
+
+---
+
+## 相關連結
+
+- [case-studies.md](./case-studies.md) — 具體失敗案例研究
+- [links.md](./links.md) — 更多外部資源連結
+- [/artifacts/steam-review-patterns.md](../artifacts/steam-review-patterns.md) — Steam 評論模式分析
+- [/artifacts/vndb-discussions.md](../artifacts/vndb-discussions.md) — VNDB 討論摘錄
 
 ---
 
