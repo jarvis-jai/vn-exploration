@@ -33,6 +33,7 @@
 | [solitary-reading-ritual.md](solitary-reading-ritual.md) | 獨處儀式：VN 作為私密閱讀空間 |
 | [generational-memory.md](generational-memory.md) | 世代記憶：不同年代玩家的原風景 |
 | [pilgrimage-seichi-junrei.md](pilgrimage-seichi-junrei.md) | 聖地巡禮：虛構與實境的交疊 |
+| [memory-and-nostalgia.md](memory-and-nostalgia.md) | 記憶與懷舊：VN 消費的時間性體驗 |
 
 ---
 
