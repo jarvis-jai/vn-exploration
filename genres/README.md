@@ -43,7 +43,7 @@
 - 治癒系（Iyashikei）
 
 ### 實驗性／後設類
-- 後設敘事（Meta-narrative）
+- 後設敘事（Meta-narrative）→ 詳見 [meta-narrative.md](./meta-narrative.md)
 - 第四面牆破壞
 - 實驗性互動
 
