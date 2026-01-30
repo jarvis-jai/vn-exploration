@@ -239,6 +239,105 @@ SCA-自的後續作品，被認為是《終ノ空》的精神續作。
 
 ---
 
+## VNDB 資源與作品連結
+
+### 核心作品 VNDB 頁面
+
+| 作品 | VNDB 連結 | 備註 |
+|------|-----------|------|
+| 沙耶の唄 | https://vndb.org/v97 | 商業英文化已發行 |
+| 終ノ空 | https://vndb.org/v28 | 無官方英譯 |
+| 素晴らしき日々 | https://vndb.org/v3144 | 官方英文版已發行 |
+| さよならを教えて | https://vndb.org/v1200 | 無官方英譯，有民間翻譯 |
+| CROSS†CHANNEL | https://vndb.org/v66 | 多版本英譯存在 |
+
+### VNDB 相關標籤
+
+電波系相關的 VNDB 標籤可用於探索更多作品：
+
+- [Denpa (電波系)](https://vndb.org/g/denpa)
+- [Unreliable Narrator](https://vndb.org/g1313) — 不可靠敘述者
+- [Psychological](https://vndb.org/g/psychological) — 心理系
+- [Mind Screw](https://vndb.org/g1190) — 腦洞/認知扭曲
+
+### 按評分探索
+
+- [VNDB 電波系標籤作品（按評分排序）](https://vndb.org/v?q=&ch=&f=4owin02N28N5Mg4owin03N6bN5Mg&s=34w)
+
+---
+
+## 社群討論資源
+
+### Reddit 討論串（可搜尋）
+
+典型討論主題（搜尋 r/visualnovels）：
+- "denpa recommendations"
+- "games like Subahibi"
+- "mindfuck visual novels"
+- "unreliable narrator VNs"
+
+### 常見社群問題
+
+**「電波系入門該從哪開始？」**
+
+社群常見回答模式：
+- 保守派：「先玩 Saya no Uta，最短也最容易取得」
+- 進階派：「直接挑戰 Subahibi，但要有心理準備」
+- 警告派：「Sayooshi 不適合當入門，太核了」
+
+**「電波和鬱有什麼不同？」**
+
+這是反覆出現的問題，說明這兩個類型的界線確實模糊。
+
+---
+
+## 延伸作品推薦
+
+### 帶有電波元素的其他 VN
+
+（不一定被歸類為純電波系，但有類似特質）
+
+| 作品 | VNDB | 電波元素說明 |
+|------|------|--------------|
+| 書淵の世界 (Shore of the World) | https://vndb.org/v12320 | 死後世界與記憶操作 |
+| ぬりかべ (Nurikabe) | https://vndb.org/v31048 | 實驗性敘事，日常異化 |
+| Totono (You and Me and Her) | https://vndb.org/v7738 | 後設元素與現實崩解 |
+| Chaos;Head | https://vndb.org/v382 | 妄想與現實的邊界 |
+| ジサツのための101の方法 | https://vndb.org/v6475 | 極端心理狀態描寫 |
+
+### 西方獨立場景
+
+帶有電波特質的 OELVN / 獨立遊戲：
+- **OMORI** — 創傷與記憶扭曲（RPG，但有 VN 敘事特質）
+- **Doki Doki Literature Club** — 後設 + 心理崩壞元素
+- **The Static Speaks My Name** — 極短篇，異化的日常
+- **Presentable Liberty** — 孤立與資訊不可靠
+
+---
+
+## 關鍵字索引
+
+**日文搜尋用：**
+- 電波系 / 電波ゲー / 電波ノベル
+- 狂気 / 精神崩壊
+- 不条理 / 世界崩壊
+- ループ系 + 電波
+
+**英文搜尋用：**
+- denpa visual novel / denpa game
+- psychological horror VN
+- unreliable narrator game
+- mindfuck visual novel
+- existential horror game
+
+**中文搜尋用：**
+- 電波系 galgame
+- 致鬱神作
+- 意識流視覺小說
+- 黑深殘（黑暗、深刻、殘酷）
+
+---
+
 ## 待探索問題
 
 - 電波系與日本精神醫學史的關係
@@ -246,6 +345,7 @@ SCA-自的後續作品，被認為是《終ノ空》的精神續作。
 - 中文圈是否存在電波系傳統？
 - 電波系與其他媒介（動畫、漫畫）的跨界作品
 - 電波系玩家社群的特殊討論文化
+- 電波系作品的「可玩性」vs「藝術性」討論
 
 ---
 

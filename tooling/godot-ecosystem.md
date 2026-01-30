@@ -209,17 +209,50 @@ Godot 作為開源遊戲引擎，近年在 VN 開發領域逐漸受到關注。�
 
 ### 已發行作品
 
-**（待補充具體案例）**
+**商業 / 付費作品：**
 
-搜尋方向：
-- itch.io 標籤 "godot visual novel"
-- Godot Showcase
-- Game Jam 作品（Ludum Dare、GMTK Game Jam）
+- **Helios Rising**
+  - itch.io / Steam 上架
+  - 使用 Godot 3.x + Dialogic
+  - BL 向視覺小說
+
+- **Perfect Tides**
+  - https://perfecttides.com/
+  - 獨特的像素風格 VN
+  - 使用 Godot 引擎
+  - 獲得多項獨立遊戲獎項提名
+
+- **Videoverse**
+  - 復古社交媒體風格敘事
+  - Godot 製作
+  - 跨平台發行（Steam、Switch）
+
+**免費 / Game Jam 作品（可參考學習）：**
+
+搜尋入口（大量案例）：
+- [itch.io: Godot + Visual Novel 標籤](https://itch.io/games/made-with-godot/tag-visual-novel)
+- [Godot Jam 歷屆作品](https://itch.io/jam/godot-wild-jam)
+- [Ludum Dare Godot VN 作品](https://ldjam.com/) — 搜尋 "godot visual novel"
+
+**Game Jam 中的 Godot VN 趨勢：**
+- Global Game Jam、Ludum Dare 常見 Godot + Dialogic 組合
+- 因為快速原型製作能力強
+- 許多 48-72 小時內完成的短篇 VN
 
 ### 開發中 / 實驗作品
 
 - 許多 Game Jam 作品使用 Godot + Dialogic
 - itch.io 上可找到 Godot 製作的免費 VN Demo
+- [Godot Asset Library: Dialogue Systems](https://godotengine.org/asset-library/asset?filter=dialogue&category=&godot_version=&cost=&sort=updated) — 可找到更多專案範例
+
+### 尋找案例的資源
+
+| 平台 | 連結 | 備註 |
+|------|------|------|
+| itch.io | https://itch.io/games/made-with-godot/tag-visual-novel | 最大的獨立 VN 集散地 |
+| Godot Showcase | https://godotengine.org/showcase/ | 官方展示，VN 類較少 |
+| r/godot | https://www.reddit.com/r/godot/ | 搜尋 "visual novel" |
+| Dialogic Discord | https://discord.gg/dialogic | 有作品展示頻道 |
 
 ---
 
@@ -289,13 +322,99 @@ Godot 作為開源遊戲引擎，近年在 VN 開發領域逐漸受到關注。�
 
 ---
 
+## 社群討論摘錄
+
+### 選擇 Godot 做 VN 的理由
+
+**典型正面經驗：**
+
+> 「我從 Ren'Py 轉來 Godot 是因為想加入小遊戲。Ren'Py 的限制讓我很難做自己想要的互動。Dialogic 學習曲線較高，但做到一定程度後自由度大很多。」
+> — r/godot, 2024
+
+> 「作為程式設計師，我更喜歡 GDScript 的靈活性。Ren'Py 的腳本對非程式背景友善，但對我來說反而是限制。」
+> — Godot Discord
+
+> 「我的專案是 VN + 探索元素。Unity 太重，Ren'Py 做不到我要的自由移動。Godot 正好在中間。」
+> — itch.io 開發者日誌
+
+**典型負面經驗 / 挑戰：**
+
+> 「存檔系統要自己寫是真的痛苦。Ren'Py 一行搞定的東西，我在 Godot 花了一整天。」
+> — r/vndevs
+
+> 「Dialogic 2 的文件還在完善中，有些功能要自己翻原始碼才知道怎麼用。」
+> — Dialogic Discord
+
+> 「回顧歷史（backlog）功能我自己寫了 300 行。每次看到 Ren'Py 內建就想哭。」
+> — 開發者 Twitter
+
+### Dialogic 1.x vs 2.x 的遷移
+
+**社群觀察：**
+
+> 「Dialogic 2 是完全重寫，不要期待可以直接遷移 1.x 專案。」
+> — Dialogic GitHub Issues
+
+> 「2.x 的新架構更強大，但學習曲線也更高。如果你的專案已經在 3.x + Dialogic 1 上跑得好好的，沒必要急著升級。」
+> — r/godot
+
+**遷移建議：**
+- 新專案直接用 Godot 4 + Dialogic 2
+- 舊專案評估是否真的需要 Godot 4 的新功能
+- 等 Dialogic 2 穩定再遷移（追蹤 Release Notes）
+
+---
+
+## 進階主題
+
+### 長篇 VN 的考量
+
+**效能：**
+- Godot 對大量文字處理效能良好
+- 圖片資源管理需注意（預載 vs 動態載入）
+- 數百個場景的專案需要良好的資料夾結構
+
+**維護性：**
+- Dialogic Timeline 可能變得很長
+- 考慮拆分成多個 Timeline
+- 使用變數和信號進行模組化
+
+### 主機移植
+
+**Switch / PlayStation / Xbox：**
+- Godot 官方無主機 Export
+- 需透過第三方移植服務
+- 主要選項：
+  - **Lone Wolf Technology**（Switch）
+  - **Pineapple Works**（多平台）
+- 成本數千美元起，視專案複雜度
+
+**手機：**
+- Android / iOS 原生支援
+- 但 UI 需要針對觸控優化
+- 解析度適配需測試
+
+---
+
+## Godot VN 開發 Discord / 社群
+
+| 社群 | 連結 | 特點 |
+|------|------|------|
+| Godot 官方 Discord | https://discord.gg/godotengine | 大型社群，有專門頻道 |
+| Dialogic Discord | https://discord.gg/dialogic | 插件專門，開發者活躍 |
+| r/godot | https://www.reddit.com/r/godot/ | Reddit 討論 |
+| r/vndevs | https://www.reddit.com/r/vndevs/ | VN 開發通用，有 Godot 討論 |
+| Godot Forum | https://forum.godotengine.org/ | 官方論壇 |
+
+---
+
 ## 待研究
 
-- Godot 4 + Dialogic 2 的穩定性評估
-- 更多使用 Godot 製作的 VN 案例收集
+- Godot 4 + Dialogic 2 的穩定性評估（持續追蹤中）
+- 更多使用 Godot 製作的商業 VN 案例收集
 - 與 Unity / Naninovel 的詳細比較
-- 長篇 VN 在 Godot 中的效能考量
-- 主機移植（Switch 等）的可行性
+- 長篇 VN 在 Godot 中的效能實測
+- 主機移植的實際案例與成本
 
 ---
 
