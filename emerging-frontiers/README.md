@@ -15,6 +15,7 @@
 | [ai-intersection.md](ai-intersection.md) | AI 生成工具、AI 伴侶、互動模式 | 初稿 |
 | [preservation-and-archival.md](preservation-and-archival.md) | 數位保存、軟體相容性、社群存檔 | 初稿 |
 | [community-creation-and-mods.md](community-creation-and-mods.md) | MOD 文化、UGC 平台、開放敘事 | 初稿 |
+| [links.md](links.md) | 外部資源連結索引 | 持續更新 |
 
 ---
 
