@@ -86,6 +86,16 @@ VN 相關的社群、論壇、討論區整理。本目錄作為找尋資源與�
   - Spoiler 管理與「看完就不想玩」問題
   - 實況向け設計與官方合作策略
 
+### 粉絲創作生態
+
+- **同人與二創文化** → 詳見 [fan-creation-ecology.md](./fan-creation-ecology.md)
+  - 粉絲創作的類型光譜（文本、視覺、音樂、遊戲）
+  - 同人即賣會與流通（Comiket、Booth、數位平台）
+  - 法律與默許的灰色地帶
+  - 從同人到商業的路徑（TYPE-MOON 模式）
+  - 二創對原作的正負面影響
+  - 特定 IP 的同人生態
+
 ### 批評話語與討論文化
 
 - **社群討論文化** → 詳見 [discourse-and-criticism.md](./discourse-and-criticism.md)
