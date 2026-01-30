@@ -17,7 +17,7 @@
 
 ### 戀愛類
 - 校園戀愛（School Romance）
-- 乙女遊戲（Otome）
+- 乙女遊戲（Otome）→ 詳見 [otome-games.md](./otome-games.md)
 - 美少女遊戲（Bishoujo）
 - 百合（Yuri）
 - BL / 耽美（Boys' Love）
