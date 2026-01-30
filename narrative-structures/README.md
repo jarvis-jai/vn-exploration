@@ -57,15 +57,19 @@
 
 ---
 
-## 待研究問題
+## 已收錄文件
 
-- 選擇數量與玩家滿意度的關係
-- 「假選擇」（Fake Choice）的使用時機
-- 多結局的呈現方式（解鎖、成就、流程圖）
+- **[choice-design.md](choice-design.md)** — 選擇設計的深度探討：選擇的類型學、假選擇、呈現設計、心理學、路線系統、分支管理技術
 
 ---
 
-> This section may remain empty for a long time.
-> Emptiness indicates unexplored space, not missing work.
+## 待研究問題
 
-*狀態：骨架結構，待填充*
+- 選擇數量與玩家滿意度的關係
+- 多結局的呈現方式（解鎖、成就、流程圖）
+- 章節式發行的敘事結構挑戰
+- 時間迴圈敘事的設計模式
+
+---
+
+*狀態：持續擴展中*
