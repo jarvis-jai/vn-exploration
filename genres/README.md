@@ -42,7 +42,7 @@
 
 ### 日常／治癒類
 - 日常系（Slice of Life）
-- 治癒系（Iyashikei）
+- 治癒系（Iyashikei）→ 詳見 [iyashikei-healing.md](./iyashikei-healing.md)
 
 ### 情感類型
 - 泣きゲー／鬱ゲー（Nakige / Utsuge）→ 詳見 [nakige-utsuge-spectrum.md](./nakige-utsuge-spectrum.md)
