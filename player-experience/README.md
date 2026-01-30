@@ -31,6 +31,7 @@
 | [collection-and-preservation.md](collection-and-preservation.md) | 收藏、典藏與保存文化 |
 | [re-evaluation-and-cult-status.md](re-evaluation-and-cult-status.md) | 再評價現象與經典地位的形成 |
 | [solitary-reading-ritual.md](solitary-reading-ritual.md) | 獨處儀式：VN 作為私密閱讀空間 |
+| [generational-memory.md](generational-memory.md) | 世代記憶：不同年代玩家的原風景 |
 
 ---
 
