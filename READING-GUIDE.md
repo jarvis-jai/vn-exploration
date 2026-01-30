@@ -59,7 +59,7 @@
 | `communities/` | ████████░░ 中等 | 日/西/中社群 + 實況文化 + links.md |
 | `industry-ecology/` | ████████░░ 中等 | 產業生態各面向 + links.md |
 | `failure-modes/` | ███████░░░ 中等 | 失敗模式 + 案例 + links.md |
-| `artifacts/` | ██████░░░░ 中等 | 5 篇原始素材收集 |
+| `artifacts/` | ██████░░░░ 中等 | 5 篇原始素材收集 + links.md |
 | `adaptation/` | ██████░░░░ 中等 | 改編相關 + links.md |
 | `localization/` | ██████░░░░ 中等 | 在地化 + links.md |
 | `monetization/` | █████░░░░░ 基本 | 商業模式 + links.md |

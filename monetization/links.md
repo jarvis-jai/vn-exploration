@@ -50,6 +50,20 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 | Necrobarista | `Necrobarista sales` | 3D VN 商業表現 |
 | The House in Fata Morgana | `Fata Morgana Steam sales` | 長尾銷售案例 |
 | Clannad | `Clannad Steam sales` | 經典日本 VN 在西方的表現 |
+| Butterfly Soup | `Butterfly Soup itch.io success` | 免費 itch.io VN 成功案例 |
+| When the Night Comes | `When the Night Comes postmortem` | 小型團隊商業 VN |
+| Lake of Voices | `Lake of Voices sales` | NaNoRenO 轉商業案例 |
+| Arcade Spirits | `Arcade Spirits sales report` | Fiction Factory Games 商業報告 |
+| Our Life: Beginnings & Always | `Our Life VN commercial success` | 免費 + DLC 模式成功 |
+
+### 開發者 Postmortem 直接連結
+
+- [Coffee Talk Postmortem (GDC Vault)](https://www.gdcvault.com/play/1027246/) — 實際 GDC 演講
+- [Clannad Steam Release Analysis (Reddit)](https://www.reddit.com/r/visualnovels/comments/3s4p5k/clannad_steam_release_statistics/) — 早期 Steam VN 銷量討論
+- [How to Market a Visual Novel (Lemma Soft)](https://lemmasoft.renai.us/forums/viewtopic.php?t=28943) — 行銷策略彙整
+- [The Reality of Selling VNs on Steam (r/vndevs)](https://www.reddit.com/r/vndevs/search/?q=sales+report&restrict_sr=1) — 開發者銷量報告搜尋
+- [VN Dev Revenue Breakdown Thread (Lemma Soft)](https://lemmasoft.renai.us/forums/viewtopic.php?t=44444) — 收入拆解討論
+- [Steam Next Fest Impact on VN Wishlists](https://www.reddit.com/r/gamedev/search/?q=next+fest+visual+novel) — Next Fest 對 VN 的影響討論
 
 ---
 
@@ -102,16 +116,35 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 
 | 專案 | 平台 | 募資金額 | 說明 |
 |------|------|----------|------|
-| Steins;Gate Elite | Kickstarter | — | 官方英文化眾籌 |
-| Muv-Luv | Kickstarter | $1.2M+ | 西方在地化成功案例 |
-| Dies irae | Kickstarter | $240K+ | 長篇中二病作品眾籌 |
-| Sekai Project 系列 | Kickstarter | 多個 | 發行商眾籌模式參考 |
+| Muv-Luv | Kickstarter | $1.25M | 西方在地化最成功案例之一 |
+| Dies irae | Kickstarter | $248K | 長篇中二病作品眾籌 |
+| Grisaia Trilogy | Kickstarter | $475K | Sekai Project 眾籌模式 |
+| Root Double | Kickstarter | $232K | 科幻 ADV 英文化 |
+| Baldr Sky | Kickstarter | $197K | GIGA 作品在地化 |
+| World End Economica | Kickstarter | $47K | 狼と香辛料作者新作 |
+| Clannad | Kickstarter | $541K | Key 社經典官方在地化 |
+| Little Busters! | Kickstarter | $347K | Key 社作品 |
+| The Letter | Kickstarter | $54K | 菲律賓開發者原創恐怖 VN |
+| Highway Blossoms | Kickstarter | $24K | 西方原創百合公路 VN |
+| Crystalline | Kickstarter | $42K | Pixel Fade 奇幻 VN |
+| Episicava | Kickstarter | $26K | 印尼團隊戰鬥 VN |
+
+### 眾籌失敗/教訓案例
+
+| 專案 | 問題類型 | 搜尋關鍵字 |
+|------|----------|-----------|
+| Sol Press 系列 | 公司倒閉，專案未交付 | `Sol Press kickstarter failure` |
+| Libra of the Vampire Princess | 延遲數年 | `Libra vampire kickstarter delay` |
+| Corona Blossom | 品質爭議 | `Corona Blossom localization quality` |
+| Newton and the Apple Tree | 翻譯爭議 | `Newton Apple Tree translation` |
 
 ### 搜尋關鍵字
 
 - `visual novel kickstarter postmortem`
 - `VN crowdfunding failed lessons`
 - `anime game kickstarter analysis`
+- `sekai project kickstarter track record`
+- `visual novel kickstarter delivery rate`
 
 ---
 
@@ -168,6 +201,58 @@ VN 商業化相關的外部資源、討論串、數據來源、開發者經驗�
 - [r/lewdgames](https://www.reddit.com/r/lewdgames/) — 成人遊戲討論（包含市場話題）
 - `Steam adult game approval process` — 搜尋開發者經驗
 - `18+ visual novel Steam vs itch` — 平台比較討論
+
+---
+
+## GDC / 業界演講資源
+
+### GDC Vault（VN 相關）
+
+- [GDC Vault 搜尋「visual novel」](https://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=visual+novel) — 免費演講
+- [GDC Vault 搜尋「narrative game」](https://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=narrative+game) — 敘事遊戲相關
+- [Coffee Talk: Brewing Up a Cozy Narrative](https://www.gdcvault.com/play/1027246/) — Coffee Talk 開發經驗
+
+### 其他演講 / 訪談
+
+- [Ren'Py Creator Tom Rothamel Interview](https://www.youtube.com/results?search_query=tom+rothamel+renpy+interview) — Ren'Py 創作者訪談
+- [Visual Novel Development Panel (Anime Expo)](https://www.youtube.com/results?search_query=anime+expo+visual+novel+development) — AX VN 開發 panel
+- [Indie Visual Novel Marketing (YouTube)](https://www.youtube.com/results?search_query=indie+visual+novel+marketing) — 獨立 VN 行銷討論
+
+---
+
+## 日本市場數據資源
+
+### 銷量追蹤
+
+- [ゲーム販売ランキング (4Gamer)](https://www.4gamer.net/words/019/W01928/) — 日本遊戲銷量報導
+- [ファミ通販売データ](https://www.famitsu.com/ranking/game-sales) — Famitsu 銷量排行
+- [電撃オンライン](https://dengekionline.com/) — 遊戲業界新聞
+- [VNDB Japanese Market Tags](https://vndb.org/v?f=02N188032wen&s=32w) — 按日本市場銷售標記
+
+### 開發者/發行商情報
+
+- [エロゲ批評空間](https://erogamescape.dyndns.org/) — 日本美少女遊戲評價站
+- [批評空間 売上・売り上げ](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/) — 銷量相關統計
+
+---
+
+## 中文市場資源
+
+### 銷量與市場觀察
+
+- [SteamDB 中國區排行](https://steamdb.info/charts/?cc=cn) — 中國 Steam 趨勢
+- [機核 GCORES](https://www.gcores.com/) — 中文遊戲媒體，有市場分析
+- [游研社](https://www.yystv.cn/) — 中文遊戲行業資訊
+- [觸樂](https://www.chuapp.com/) — 中文遊戲深度報導
+
+### 中文原創 VN 案例
+
+| 作品 | 平台 | 說明 |
+|------|------|------|
+| 三色繪戀系列 | Steam | 中文原創 VN 代表 |
+| OPUS 系列 | Steam/Switch | 台灣團隊敘事遊戲 |
+| 文字遊戲 | Steam | 實驗性文字 VN |
+| 完美的一天 | Steam | 獨立敘事 VN |
 
 ---
 
