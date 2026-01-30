@@ -21,6 +21,7 @@
 | vndb-discussions.md | VNDB 論壇的典型討論摘錄 |
 | steam-review-patterns.md | Steam 評論的典型模式與摘錄 |
 | scenario-writer-discussions.md | 脚本家相關討論與評價摘錄 |
+| localization-debates.md | 翻譯與在地化的典型爭論模式 |
 
 ---
 

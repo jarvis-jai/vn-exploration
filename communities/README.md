@@ -104,11 +104,14 @@ VN 相關的社群、論壇、討論區整理。本目錄作為找尋資源與�
   - 劇透倫理與討論慣例
   - 跨文化討論差異
 
-- **西方**
-  - r/visualnovels（Reddit）
-  - Fuwanovel
+- **西方** → 詳見 [western-communities.md](./western-communities.md)
+  - Reddit（r/visualnovels、r/otomegames）
+  - Discord 伺服器生態
+  - Fuwanovel（歷史與衰落）
   - VNDB 社群功能
-  - 各作品 Discord 伺服器
+  - Steam 與 itch.io 社群面向
+  - 翻譯至上主義文化
+  - 門檻與排外性問題
 
 - **其他語言**
   - （待列舉）
