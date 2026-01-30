@@ -14,31 +14,59 @@
 
 ---
 
-## 作品清單（待填充）
+## 作品清單
 
 ### 日本商業作品
 
-- （待列舉）
-- 分類：戀愛、懸疑、奇幻、恐怖...
+**詳見：[japanese-commercial.md](./japanese-commercial.md)**
+
+收錄內容：
+- 戀愛類：Clannad、Fate/stay night、White Album 2、君が望む永遠
+- 懸疑推理：逆轉裁判、Steins;Gate、Ever17、Umineko
+- 奇幻史詩：Muv-Luv Alternative、穢翼的尤斯蒂婭、月姬
+- 日常校園：Little Busters!、School Days
+- 恐怖類：沙耶之歌、屍體派對
 
 ### 西方獨立作品
 
-- （待列舉）
-- 平台：Steam、itch.io
+**詳見：[western-indie.md](./western-indie.md)**
+
+收錄內容：
+- 現象級作品：DDLC、Katawa Shoujo、VA-11 Hall-A、The House in Fata Morgana
+- 選擇導向：Life is Strange、Slay the Princess
+- 獨立精品：Coffee Talk、We Know the Devil、Butterfly Soup
+- Ren'Py 商業化案例：Arcade Spirits、Analogue 系列
 
 ### 中文作品
 
-- （待列舉）
-- 包含繁體與簡體市場
+**詳見：[chinese-works.md](./chinese-works.md)**
+
+收錄內容：
+- 商業成功：隱形守護者、OPUS 系列、文字遊戲、煙火、三色繪戀
+- 台灣作品：寄居隅怪奇事件簿、SIGONO 作品
+- 平台生態：橙光遊戲、Steam 中文 VN 市場
 
 ### 免費 / 同人作品
 
-- （待列舉）
+- 月姬（TYPE-MOON 同人時期）
+- Katawa Shoujo
+- Umineko（07th Expansion）
+- Butterfly Soup
+- Emily is Away 系列
 
 ### 里程碑作品
 
-- （待列舉）
-- 定義或改變了某種類型的作品
+- **1996** — 屍體派對（RPG Maker 恐怖 VN 先驅）
+- **2000** — 月姬（同人達商業級品質）
+- **2001** — 逆轉裁判（法庭推理 ADV 定義）
+- **2002** — Ever17（敘事詭計標竿）
+- **2004** — Clannad / Fate/stay night（Key / TM 巔峰）
+- **2006** — Muv-Luv Alternative（VNDB 長期榜首）
+- **2009** — Steins;Gate（科學冒險系列）
+- **2012** — Katawa Shoujo（西方協作 VN 典範）
+- **2013** — 君と彼女と彼女の恋。（DDLC 前驅）
+- **2017** — DDLC（西方後設 VN 爆發）
+- **2019** — 隱形守護者（中國真人 VN 突破）
 
 ---
 
