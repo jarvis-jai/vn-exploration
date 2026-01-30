@@ -184,47 +184,100 @@
 
 ---
 
-## 代表作品（待擴充）
+## 代表作品
 
-### 日本作品
+### 日本商業作品
 
-- **《planetarian ～ちいさなほしのゆめ～》**
-  - Key 作品，雖有悲傷結局，但過程充滿治癒感
-  - 廢墟中的小小溫暖
-  - 短篇形式
+| 作品 | 開發者 | VNDB | 治癒要素 |
+|------|--------|------|----------|
+| planetarian ～ちいさなほしのゆめ～ | Key | [vndb.org/v34](https://vndb.org/v34) | 廢墟中的小小溫暖，短篇形式 |
+| Summer Pockets | Key | [vndb.org/v20424](https://vndb.org/v20424) | 離島夏日、懷舊感、日常與奇蹟並存 |
+| 星空のメモリア | FAVORITE | [vndb.org/v1474](https://vndb.org/v1474) | 鄉村舞台、星空與追憶的主題 |
+| 天使のいない12月 | Leaf | [vndb.org/v237](https://vndb.org/v237) | 冬日、日常的溫度、文藝氛圍 |
+| 夏空カナタ | ういんどみる | [vndb.org/v1720](https://vndb.org/v1720) | 田舎、夏日、青春記憶 |
+| サクラノ詩 | 枕 | [vndb.org/v562](https://vndb.org/v562) | 藝術、日常的美、文學氛圍（偏文藝治癒） |
+| よつのは | Cube | [vndb.org/v216](https://vndb.org/v216) | 純粹的夏日島嶼回憶 |
+| Palette | Palette | [vndb.org/v492](https://vndb.org/v492) | 音樂、日常、少女的成長 |
+| 水月 | F&C | [vndb.org/v108](https://vndb.org/v108) | 記憶與日常，帶有淡淡哀愁 |
+| ef - a fairy tale of the two. | minori | [vndb.org/v88](https://vndb.org/v88) | 文藝氛圍、日常與戀愛的詩意（部分路線） |
 
-- **《よつのは》（四葉）**
-  - Summer Pockets 之前的夏日島嶼作品
-  - 純粹的夏日回憶
+**補充說明：**
+- 許多 Key 社作品雖有泣きゲー元素，但日常段落本身具有治癒感
+- FAVORITE 作品群普遍有「鄉村日常」的治癒基調
+- 文藝系作品（如枕社）的日常描寫也常被歸類為廣義治癒
 
-- **《星空のメモリア》**
-  - FAVORITE 的鄉村舞台作品
-  - 星空與追憶的主題
+### 日常/治癒混合型作品
+
+某些作品雖非純粹治癒系，但包含大量治癒感日常段落：
+
+| 作品 | 說明 |
+|------|------|
+| CLANNAD（日常部分） | 學園日常段落治癒感極強，家族路線的溫馨 |
+| Rewrite（前半） | Terra 前的日常校園生活 |
+| 千恋＊万花 | ゆずソフト作品，喜劇日常 + 田舎溫馨 |
+| 喫茶ステラと死神の蝶 | ゆずソフト，咖啡廳經營日常 |
+| 金色ラブリッチェ | SAGA PLANETS，日常喜劇的安心感 |
 
 ### 西方 / 英語作品
 
-- **《Coffee Talk》**
-  - 咖啡廳經營 + 傾聽故事
-  - 多元背景角色的生活片段
-  - 夜間咖啡廳的獨特氛圍
+| 作品 | 開發者 | 連結 | 治癒要素 |
+|------|--------|------|----------|
+| Coffee Talk | Toge Productions | [Steam](https://store.steampowered.com/app/914800/Coffee_Talk/) | 深夜咖啡廳經營，傾聽都市奇幻角色的故事 |
+| Coffee Talk Episode 2 | Toge Productions | [Steam](https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/) | 續作，同樣的治癒氛圍 |
+| A Short Hike | adamgryu | [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/) | 非傳統 VN，但治癒感設計典範 |
+| Kind Words | Popcannibal | [Steam](https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/) | 匿名信件交流，互助社群的溫暖 |
+| Spiritfarer | Thunder Lotus Games | [Steam](https://store.steampowered.com/app/972660/Spiritfarer/) | 告別與陪伴的治癒感（帶有溫柔悲傷） |
+| Necrobarista | Route 59 | [Steam](https://store.steampowered.com/app/725270/Necrobarista/) | 墨爾本咖啡廳，生死之間的對話 |
+| Gnosia | Petit Depotto | [Steam](https://store.steampowered.com/app/1574710/Gnosia/) | 部分結局帶有治癒感（日常互動） |
 
-- **《A Little to the Left》**
-  - 雖非傳統 VN，但體現治癒感設計
-  - 整理物品的療癒體驗
+### itch.io 獨立作品
 
-- **《Unpacking》**
-  - 同上，物品整理中的生活痕跡
-  - 無文字的敘事中也有治癒感
+治癒系 VN 在獨立場景有大量小品：
 
-### 相關動畫（參考）
+| 作品 | 連結 | 說明 |
+|------|------|------|
+| Our Life: Beginnings & Always | [itch.io](https://gbpatch.itch.io/our-life) | 青梅竹馬的成長日常 |
+| A Cottage in the Woods | 搜尋 itch.io | 森林小屋、自然療癒 |
+| Cozy Grove | [Steam](https://store.steampowered.com/app/1458140/Cozy_Grove/) | 治癒感生活模擬（帶 VN 元素） |
+
+**搜尋方式：**
+- itch.io 標籤：[Relaxing](https://itch.io/games/tag-relaxing/tag-visual-novel)、[Cozy](https://itch.io/games/tag-cozy/tag-visual-novel)
+- Steam 標籤：Relaxing、Casual、Wholesome
+
+### 中文圈作品
+
+| 作品 | 平台 | 說明 |
+|------|------|------|
+| 鴻源戰紀（部分日常） | Steam | 中國開發，日常段落有治癒感 |
+| 人間之屑 | Steam | 黑色幽默但某些段落帶治癒感 |
+
+*中文圈純粹治癒系作品較少，多為混合類型*
+
+### VNDB 相關標籤
+
+探索更多治癒系作品的 VNDB 標籤：
+
+- [Healing (治癒系)](https://vndb.org/g1024) — 直接標籤
+- [Slice of Life](https://vndb.org/g81) — 日常系
+- [Countryside Setting](https://vndb.org/g1130) — 鄉村舞台
+- [Relaxing](https://vndb.org/g2791) — 放鬆氛圍
+- [Slow Romance](https://vndb.org/g2389) — 慢節奏戀愛
+- [Calm Protagonist](https://vndb.org/g2459) — 冷靜主角（相關氛圍）
+
+### 相關動畫（設計參考）
 
 治癒系 VN 的設計常參考動畫領域的先例：
 
-- **《蟲師》**（Mushishi）
-- **《夏目友人帳》**（Natsume Yuujinchou）
-- **《のんのんびより》**（Non Non Biyori）
-- **《Aria》系列
-- **《ゆるキャン△》**（Yuru Camp）
+| 動畫 | 治癒系特徵 |
+|------|------------|
+| ARIA 系列 | 威尼斯未來都市，緩慢日常，哲學性小對話 |
+| のんのんびより | 鄉村日常，無事件的日常生活 |
+| ゆるキャン△ | 露營、自然、獨處與陪伴並存 |
+| 蟲師 | 靜謐、自然、帶有淡淡哀愁的療癒 |
+| 夏目友人帳 | 妖怪與人類的溫柔互動 |
+| ふらいんぐうぃっち | 鄉村魔女日常 |
+| たまゆら | 攝影、小鎮、記憶與成長 |
+| ばらかもん | 書法家的離島療癒生活 |
 
 ---
 
@@ -370,4 +423,30 @@ Calm、Headspace 等冥想應用的興起，顯示「刻意追求平靜」是一
 
 ---
 
-*狀態：初稿，待補充代表作品分析與更多案例*
+---
+
+## 搜尋關鍵字索引
+
+**日文：**
+- 癒し系 / いやしけい / ヒーリング
+- 日常系 ノベルゲーム
+- まったり ビジュアルノベル
+- ほのぼの ギャルゲー
+- 田舎 ADV
+
+**英文：**
+- iyashikei visual novel
+- healing VN / cozy VN
+- relaxing visual novel
+- slice of life VN
+- wholesome dating sim
+
+**中文：**
+- 治癒系 視覺小說
+- 日常系 galgame
+- 療癒遊戲 推薦
+- 治癒番 類似 VN
+
+---
+
+*狀態：代表作品擴充完成，持續累積中*
