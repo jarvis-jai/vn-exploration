@@ -142,12 +142,32 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 - 技術教學與資源
 
 **代表性 MOD（僅列舉，不評價）：**
-- Purist Mod（早期大型 MOD）
+
+*大型完整 MOD：*
+- Purist Mod（早期大型 MOD，完整四角色路線）
 - Monika After Story（持續更新的 Monika 互動）
-- Blue Skies（完整替代路線）
+- Blue Skies（完整替代路線，高品質製作）
 - Salvation（Sayori 救贖路線）
-- Exit Music（Natsuki 路線，多版本）
+- Exit Music（Natsuki 路線，多版本，Redux 重製）
 - Encore（另一種結局探索）
+- A Brand New Day（日常向，多路線）
+- Relapse（心理恐怖延續）
+- Doki Doki Rainclouds（Sayori 視角重述）
+- World of Dreams（奇幻設定擴展）
+
+*技術/實驗性 MOD：*
+- Doki Doki New Eyes（改變敘事視角）
+- Take Two（meta 敘事實驗）
+- Our Time（Monika 路線完整版）
+
+*惡搞/迷因類：*
+- Buffsuki MOD 系列
+- 各種 meme 替換 MOD
+
+**MOD 規模估計（截至 2025）：**
+- r/DDLCMods 收錄 MOD 數量：1000+
+- 活躍開發中的大型 MOD：數十款
+- 已完成的完整路線 MOD：100+ 款
 
 ### Monika After Story 現象
 
@@ -226,16 +246,40 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 ### 重要同人展會
 
 - **Comiket（Comic Market）**
-  - 每年夏冬兩場
-  - 包含遊戲區塊
+  - https://www.comiket.co.jp/
+  - 每年夏冬兩場（C103、C104...）
+  - 同人遊戲區（東館）
   - 許多知名 VN 起源於此
+  - 參加者需抽選或企業申請
 
 - **M3**
-  - 音樂同人展
-  - VN 音樂相關
+  - 音樂同人展，每年春秋
+  - VN 原聲帶、音樂 CD
+  - BGM 創作者聚集地
+
+- **コミティア（COMITIA）**
+  - 原創作品專門
+  - 較 Comiket 小，但更聚焦原創
+  - https://www.comitia.co.jp/
+
+- **博麗神社例大祭**
+  - 東方 Project 專屬展
+  - 大量東方同人 VN/ADV
 
 - **各種 Only 展**
   - 特定作品專屬展會
+  - 例：Key Only、型月 Only
+
+### 日本同人遊戲發行管道
+
+| 管道 | 特色 | 連結 |
+|------|------|------|
+| DLsite | 最大同人數位發行 | dlsite.com |
+| Booth | pixiv 關聯平台 | booth.pm |
+| メロンブックス | 實體+數位 | melonbooks.co.jp |
+| とらのあな | 實體販售 | toranoana.jp |
+| Steam | 國際發行 | store.steampowered.com |
+| 自社販売 | 社團官網直販 | 各社團 |
 
 ### 從同人到商業的路徑
 
@@ -270,6 +314,28 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 - 部分作品商業化
 - 社群互動活躍
 
+**橙光代表作（獨立發行或改編）：**
+- 《逆襲之星途閃耀》→ 改編電視劇
+- 《遇龍》→ 改編網劇
+- 《暖雪》→ Steam 獨立發行
+- 《執行官》系列
+
+### 其他中文 UGC/創作平台
+
+| 平台 | 特色 | 連結 |
+|------|------|------|
+| 66RPG 論壇 | 橙光相關社群 | 66rpg.com |
+| Bilibili 遊戲區 | 獨立遊戲展示 | game.bilibili.com |
+| TapTap | 獨立遊戲發行與社群 | taptap.io |
+| 機核 (GCORES) | 遊戲評論與創作者社群 | gcores.com |
+| 奶牛關 | 獨立遊戲發現平台 | indienova.com |
+
+**中文圈的 VN 創作工具使用：**
+- Ren'Py（國際主流）
+- 橙光引擎（橙光專用）
+- RPG Maker（部分 VN 風格作品）
+- Unity（進階開發）
+
 ### Twine 與互動小說社群
 
 **Twine：**
@@ -293,16 +359,31 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 - 實驗性作品的溫床
 
 **VN Game Jams：**
-- NaNoRenO（每年三月，Ren'Py VN Jam）
-- Yuri Game Jam
-- Otome Jam
-- 各種主題 Jam
+
+| Jam 名稱 | 時間 | 特色 | 連結 |
+|----------|------|------|------|
+| NaNoRenO | 每年三月 | 最大的 VN Jam，一個月完成 | https://itch.io/jam/nanoreno |
+| Yuri Game Jam | 年度 | 百合主題 | https://itch.io/jam/yuri-game-jam |
+| Otome Jam | 年度 | 乙女向 | https://itch.io/jam/otome-jam |
+| Spooktober VN Jam | 每年十月 | 恐怖主題 | itch.io 搜尋 |
+| Summer VN Jam | 每年夏季 | 無主題限制 | itch.io 搜尋 |
+| BL Game Jam | 年度 | Boys Love 主題 | itch.io 搜尋 |
+| O2A2 | 不定期 | One Background, 2 Characters, 1000 Words | 極簡限制 |
+| Yaoi Jam | 年度 | BL/Yaoi | itch.io 搜尋 |
+| NaNoRenO 以外的迷你 Jam | 全年 | 各種週末 Jam | itch.io jams tag-visual-novel |
+
+**Jam 作品成功案例（從 Jam 發展為完整商業作品）：**
+- *Our Life: Beginnings & Always*（起源於 Jam 概念）
+- *Arcade Spirits*（開發者有 Jam 背景）
+- 多款 NaNoRenO 作品後續擴展為 Steam 正式版
 
 **Jam 的生態作用：**
 - 培養新開發者
 - 實驗新概念
 - 社群建設
 - 部分 Jam 作品後來擴展為完整遊戲
+- 提供作品集素材（對想進入產業的人）
+- 測試市場反應（玩家留言反饋）
 
 ---
 
@@ -394,22 +475,63 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 
 ## 相關連結
 
-**DDLC MOD 社群：**
-- r/DDLCMods：https://www.reddit.com/r/DDLCMods/
-- Monika After Story：https://github.com/Monika-After-Story/MonikaModDev
+### DDLC MOD 社群
 
-**翻譯資源：**
-- VNDB 翻譯狀態：各作品頁面的 Release 區塊
-- Fuwanovel：https://fuwanovel.net/
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| r/DDLCMods | https://www.reddit.com/r/DDLCMods/ | 最大 MOD 社群 |
+| Monika After Story | https://github.com/Monika-After-Story/MonikaModDev | 持續更新專案 |
+| DDLC Modding Wiki | https://ddlcmods.wiki/ | 技術教學 |
+| Doki Mods | https://www.doki-mods.com/ | MOD 索引網站 |
+| DDLC MOD Discord | Discord 搜尋 "DDLC Modding" | 開發者社群 |
 
-**UGC 平台：**
-- 橙光遊戲：https://www.66rpg.com/
-- Twine：https://twinery.org/
-- itch.io VN 標籤：https://itch.io/games/tag-visual-novel
+### 翻譯資源
 
-**Game Jam：**
-- NaNoRenO：https://itch.io/jam/nanoreno-2025（年度）
-- itch.io Jam 列表：https://itch.io/jams
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| VNDB 翻譯狀態 | 各作品頁面 Release 區塊 | 翻譯進度追蹤 |
+| Fuwanovel | https://fuwanovel.net/ | 英語 VN 社群 |
+| GARbro | https://github.com/morkt/GARbro | 資源提取工具 |
+| VNR (Visual Novel Reader) | 社群存檔 | 即時翻譯輔助（已停更） |
+| Textractor | https://github.com/Artikash/Textractor | 文本鉤取工具 |
+
+### UGC 平台
+
+| 平台 | 連結 | 說明 |
+|------|------|------|
+| 橙光遊戲 | https://www.66rpg.com/ | 中國最大 UGC 平台 |
+| Twine | https://twinery.org/ | IF 創作工具 |
+| itch.io | https://itch.io/games/tag-visual-novel | 獨立遊戲平台 |
+| Ink / Inkle | https://www.inklestudios.com/ink/ | 敘事腳本語言 |
+| ChoiceScript | https://www.choiceofgames.com/ | Choice of Games 引擎 |
+
+### Game Jam 資源
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| NaNoRenO | https://itch.io/jam/nanoreno | 年度三月 VN Jam |
+| itch.io Jam 列表 | https://itch.io/jams | 所有 Jam 總覽 |
+| VN Jam Tag | https://itch.io/jams/tag-visual-novel | VN 相關 Jam |
+| Lemma Soft Forums | https://lemmasoft.renai.us/forums/ | Ren'Py 開發者社群 |
+
+### 日本同人資源
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| Comiket 官網 | https://www.comiket.co.jp/ | 同人展資訊 |
+| DLsite | https://www.dlsite.com/ | 同人遊戲販售 |
+| Booth | https://booth.pm/ | pixiv 關聯平台 |
+| Freem! | https://www.freem.ne.jp/ | 免費同人遊戲 |
+| ふりーむ！ | 同上 | 免費遊戲平台 |
+
+### MOD 技術工具
+
+| 工具 | 連結 | 用途 |
+|------|------|------|
+| unrpyc | https://github.com/CensoredUsername/unrpyc | Ren'Py 反編譯 |
+| rpatool | https://github.com/Shizmob/rpatool | RPA 檔案提取 |
+| KirikiriTools | https://github.com/arcusmaximus/KirikiriTools | KiriKiri 引擎工具 |
+| SiglusExtract | GitHub 搜尋 | Siglus 引擎工具 |
 
 ---
 
@@ -418,9 +540,41 @@ Doki Doki Literature Club 的 MOD 社群是 VN 領域最活躍的之一，值得
 - 中文 VN 的 MOD 生態現況
 - 日本同人 VN 的詳細生態地圖
 - MOD 創作者的動機研究
-- 版權糾紛的具體案例收集
+- 版權糾細的具體案例收集
 - Game Jam 作品的後續發展追蹤
+- 西方 vs 日本 MOD 文化的系統比較
+- AI 工具對 MOD 創作的影響（2024-）
+- 橙光平台作品的商業化路徑分析
+- 同人出身開發者的職業軌跡
 
 ---
 
-*狀態：初稿，待補充具體案例與連結驗證*
+## 搜尋用關鍵字
+
+### 英文
+
+```
+DDLC mod, visual novel mod, Ren'Py modding, fan translation patch
+VN game jam, NaNoRenO, visual novel translation project
+doujin visual novel, indie VN, itch.io visual novel
+```
+
+### 日文
+
+```
+同人ゲーム, ノベルゲーム 二次創作, 東方 ADV
+コミケ ゲーム, DLsite 同人, フリーゲーム ADV
+```
+
+### 中文
+
+```
+橙光遊戲, 國產 galgame, 同人 VN
+視覺小說 MOD, galgame 漢化, 獨立遊戲 文字冒險
+```
+
+---
+
+*狀態：初稿，持續補充具體案例與連結*
+
+*最後更新：2026-01*
