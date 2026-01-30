@@ -34,7 +34,7 @@ vn-exploration/
 ├── representative-works/   # 代表作品
 ├── communities/            # 社群與討論區
 ├── tooling/                # 工具與引擎
-├── monetization/           # 商業模式與發行
+├── monetization/           # 商業模式與發行（含定價策略、平台比較）
 ├── localization/           # 在地化考量
 └── adjacent-genres/        # 鄰近類型（含互動小說專論）
 ```
