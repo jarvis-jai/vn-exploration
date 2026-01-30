@@ -39,7 +39,7 @@ vn-exploration/
 ├── localization/           # 在地化考量（含 VN 特有挑戰專論）
 ├── adjacent-genres/        # 鄰近類型（含互動小說專論）
 ├── adaptation/             # 改編與跨媒體（動畫化、漫畫化等）
-└── industry-ecology/       # 產業生態（同人 vs 商業、開發者類型）
+└── industry-ecology/       # 產業生態（同人 vs 商業、平台演進、開發者類型）
 ```
 
 ---
