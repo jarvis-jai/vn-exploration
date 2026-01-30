@@ -18,6 +18,7 @@
 - [互動小說（Interactive Fiction）](./interactive-fiction.md) — IF 與 VN 的譜系、設計借鑑、跨界創作者
 - [輕小說與網路小說（Light Novel / Web Novel）](./light-novel-web-novel.md) — VN 與輕小說/網路小說的關係：共享受眾、敘事風格比較、創作者跨界、改編挑戰、市場生態比較
 - [養成遊戲（Raising Simulation）](./raising-simulation.md) — 從美少女夢工場到心跳回憶：養成機制與 VN 敘事的交匯、設計模式、現代趨勢
+- [手機遊戲與抽卡遊戲（Gacha / Mobile VN）](./gacha-mobile-vn.md) — VN 敘事基因在手遊生態的變異：FGO、明日方舟、原神等案例，商業模式對敘事的影響，角色消費的變異
 
 ---
 
