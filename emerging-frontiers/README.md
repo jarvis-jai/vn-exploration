@@ -34,6 +34,7 @@
 |------|------|
 | ai-intersection.md | 初稿 |
 | preservation-and-archival.md | 初稿 |
+| community-creation-and-mods.md | 初稿 |
 
 ---
 
