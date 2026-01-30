@@ -169,11 +169,225 @@
 | The Completionist | https://www.youtube.com/@TheCompletionist | 偶有 VN 內容 |
 | Zeil Learnings | https://www.youtube.com/@ZeilLearnings | Ren'Py 教學 |
 | BaconBaker | https://www.youtube.com/@BaconBaker | VN 評論 |
+| Angie Gallant | https://www.youtube.com/@AngieGallant | VN 開發教學、Ren'Py 入門 |
+| Visual Novel Design | https://www.youtube.com/@VisualNovelDesign | VN 設計分析 |
+| Archaemedes | https://www.youtube.com/@Archaemedes | VN 評論與分析 |
+| Coffin of Ashes | https://www.youtube.com/@CoffinofAshes | VN 深度評論（日系） |
+| Vestria | https://www.youtube.com/@Vestria | 乙女遊戲評論與介紹 |
+| Otome Obsessed | https://www.youtube.com/@OtomeObsessed | 乙女遊戲專門頻道 |
+
+### Podcast
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| Visual Novel Book Club | Spotify / Apple | VN 閱讀討論 podcast |
+| The Otomecast | https://theotomecast.carrd.co/ | 乙女遊戲專門 podcast |
+| Blerdy Otome | https://blerdyotome.com/podcast/ | 乙女遊戲與 BL 遊戲 |
 
 ### Twitch
 
 - 搜尋標籤：`Visual Novel`
 - https://www.twitch.tv/directory/game/Visual%20Novel
+- 日本實況：https://www.twitch.tv/directory/game/%E3%83%8E%E3%83%99%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0
+
+---
+
+## 韓國社群
+
+### 主要平台
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| Ruliweb | https://bbs.ruliweb.com/ | 韓國最大遊戲論壇，有 VN 板塊 |
+| DCinside 갤러리 | https://gall.dcinside.com/ | 搜尋 galgame / 비주얼노벨 |
+| Naver Cafe | https://cafe.naver.com/ | 各作品專門社群 |
+| Arca.live | https://arca.live/ | 韓國匿名討論區 |
+
+### 韓國 VN 市場
+
+- **Steam 韓文 VN**：韓國市場近年成長，多數日本 VN 有韓文版
+- **Mango PRESS**：韓國本土 VN 發行商
+- **乙女遊戲韓國社群**：Twitter/X 搜尋 #을메게 #여성향게임
+
+---
+
+## 特定作品/系列專門社群
+
+### TYPE-MOON / Fate
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| Beast's Lair | https://forums.nrvnqsr.com/ | 最大英語 TM 社群 |
+| r/fatestaynight | https://www.reddit.com/r/fatestaynight/ | Reddit 社群（200k+） |
+| r/grandorder | https://www.reddit.com/r/grandorder/ | FGO 專門（900k+） |
+| TYPE-MOON Wiki | https://typemoon.fandom.com/ | 作品資料庫 |
+| FGO Gamepress | https://gamepress.gg/grandorder/ | FGO 攻略與社群 |
+
+### Key 社作品
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| Kazamatsuri | https://forum.kazamatsuri.org/ | Key 社專門論壇 |
+| r/Key_Fans | https://www.reddit.com/r/Key_Fans/ | Reddit Key 社群 |
+| Key Official | https://key.visualarts.gr.jp/ | 官方網站 |
+| r/Clannad | https://www.reddit.com/r/Clannad/ | Clannad 專門 |
+
+### 科學 ADV（5pb./MAGES.）
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| r/steinsgate | https://www.reddit.com/r/steinsgate/ | Steins;Gate（100k+） |
+| r/chaoshead | https://www.reddit.com/r/chaoshead/ | Chaos;Head / Child |
+| r/Roboticsnotesanime | https://www.reddit.com/r/Roboticsnotesanime/ | Robotics;Notes |
+| Science Adventure Wiki | https://steins-gate.fandom.com/ | 系列資料庫 |
+| Committee of Zero | https://sonome.dareno.me/ | 翻譯補丁製作團隊 |
+
+### 07th Expansion
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| r/Higurashinonakakoroni | https://www.reddit.com/r/Higurashinonakakoroni/ | Higurashi |
+| r/umineko | https://www.reddit.com/r/umineko/ | Umineko（70k+） |
+| 07th Expansion Wiki | https://07th-expansion.fandom.com/ | 系列資料庫 |
+| Rokkenjima | https://rokkenjima.org/ | 07th Expansion 粉絲社群 |
+
+### 其他知名作品社群
+
+| 作品 | Reddit | 說明 |
+|------|--------|------|
+| DDLC | r/DDLC（200k+） | Mod 社群活躍 |
+| Katawa Shoujo | r/katawashoujo（50k+） | 長青粉絲社群 |
+| Muv-Luv | r/MuvLuv | 軍事 SF 粉絲 |
+| 彈丸論破 | r/danganronpa（400k+） | 大型社群 |
+| Zero Escape | r/ZeroEscape | 極限脫出系列 |
+| VA-11 Hall-A | r/va11halla | 賽博龐克酒吧 |
+
+---
+
+## 乙女遊戲專門社群
+
+### 綜合社群
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| r/otomegames | https://www.reddit.com/r/otomegames/ | 最大英語乙女社群（60k+） |
+| Otome Obsessed | https://otomeobsessed.com/ | 乙女遊戲評論網站 |
+| Blerdy Otome | https://blerdyotome.com/ | 評論與資源彙整 |
+| Otome Amino | Amino 搜尋 | 行動端社群 |
+
+### Discord
+
+- **Otomemes** — 乙女遊戲 meme 與討論
+- **Otome Games Discord** — r/otomegames 官方 Discord
+- 搜尋 "otome games discord" 在 Disboard
+
+### 日本乙女社群
+
+- **Twitter/X**：#乙女ゲーム #乙女ゲー
+- **Pixiv**：乙女遊戲同人創作
+- **B's-LOG**（雜誌）：官方乙女遊戲媒體
+
+### 作品專門
+
+| 作品/系列 | 資源 |
+|-----------|------|
+| Ikemen 系列 | r/IkemenPrince, r/IkemenSerie |
+| 薄櫻鬼 | r/HakuokiGame |
+| Collar x Malice | Discord 搜尋 |
+| Code: Realize | r/CodeRealize |
+
+---
+
+## BL / 耽美遊戲社群
+
+### 綜合社群
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| r/boyslove（遊戲相關） | https://www.reddit.com/r/boyslove/ | BL 綜合，含遊戲討論 |
+| r/yaoi | https://www.reddit.com/r/yaoi/ | 含 BL 遊戲討論 |
+| Blerdy Otome BL 區 | https://blerdyotome.com/category/bl-games/ | BL 遊戲評論 |
+| itch.io BL Games | https://itch.io/games/tag-bl | BL 遊戲集合 |
+
+### 日本 BL 遊戲
+
+- **Chil-Chil**：https://www.chil-chil.net/ — 日本 BL 遊戲資料庫與評論
+- **Twitter/X**：#BLゲーム #ボーイズラブゲーム
+- **Pixiv**：BL 遊戲同人創作
+
+---
+
+## Game Jam 與活動
+
+### 定期活動
+
+| 名稱 | 連結 | 時間 | 說明 |
+|------|------|------|------|
+| NaNoRenO | https://itch.io/jam/nanoreno | 每年三月 | 一個月 VN 開發挑戰 |
+| Otome Jam | https://itch.io/jam/otome-jam | 年度 | 乙女遊戲 Jam |
+| Yuri Game Jam | https://itch.io/jam/yuri-game-jam | 年度 | 百合遊戲 Jam |
+| BL Game Jam | itch.io 搜尋 | 不定期 | BL 遊戲 Jam |
+| Visual Novel Jam | https://itch.io/jam/vnjam | 不定期 | 一般 VN Jam |
+| Spooktober | https://itch.io/jam/spooktober | 十月 | 恐怖 VN Jam |
+| O2A2 | https://itch.io/jam/o2a2 | 年度 | 單背景單角色挑戰 |
+| Summer Novel Festival | itch.io 搜尋 | 夏季 | 夏日 VN Jam |
+
+### itch.io Jam 日曆
+
+- **itch.io Jams 頁面**：https://itch.io/jams
+- 搜尋 "visual novel" 可找到當前與即將舉辦的 Jam
+
+### Lemma Soft 活動
+
+- **NaNoRenO 討論串**：Lemma Soft Forums 每年三月有專區
+- **Lemma Soft Game Jam**：論壇偶爾舉辦
+
+---
+
+## 收藏家社群
+
+### 實體版收藏
+
+| 平台 | 說明 |
+|------|------|
+| r/visualnovels 收藏串 | 定期有收藏展示串 |
+| Twitter/X #VNcollection | 收藏展示 hashtag |
+| MFC (MyFigureCollection) | https://myfigurecollection.net/ — 週邊收藏追蹤 |
+
+### 日本實體收藏
+
+- **Suruga-ya**：https://www.suruga-ya.jp/ — 中古遊戲收購/販售
+- **Mandarake**：https://www.mandarake.co.jp/ — 中古動漫遊戲專門
+- **駿河屋**：https://www.suruga-ya.com/ — 國際配送
+
+### 收藏情報
+
+- **Getchu 特典情報**：https://www.getchu.com/ — 店舖特典整理
+- **限定版追蹤**：各作品官方 Twitter
+
+---
+
+## 學術與研究
+
+### 學術討論
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| DiGRA | https://digra.org/ | 數位遊戲研究協會，有 VN 相關論文 |
+| Academia.edu | https://www.academia.edu/ | 搜尋 "visual novel" 學術論文 |
+| Google Scholar | https://scholar.google.com/ | 搜尋 "visual novel" "eroge" "dating sim" |
+| JSTOR | https://www.jstor.org/ | 學術期刊，有日本流行文化研究 |
+
+### 日本學術
+
+- **CiNii**：https://cini.nii.ac.jp/ — 日本學術資料庫
+- 搜尋：ビジュアルノベル、ノベルゲーム、美少女ゲーム
+
+### 重要學術著作
+
+- Marc Steinberg《Anime's Media Mix》— 日本跨媒體研究
+- Patrick Galbraith — 日本萌文化研究
+- DiGRA Japan — 日本遊戲研究協會
 
 ---
 
@@ -199,15 +413,99 @@
 
 ---
 
+## 翻譯組與粉絲翻譯社群
+
+### 英語翻譯組
+
+| 名稱 | 連結 | 代表作 |
+|------|------|--------|
+| Committee of Zero | https://sonome.dareno.me/ | 科學 ADV 系列補丁 |
+| GareJei | VNDB 搜尋 | 多部日 VN 英譯 |
+| Moogy / Ixrec | 傳奇譯者 | 多部經典作品 |
+| Amaterasu Translations | http://amaterasu.tindabox.net/ | 多部作品（已較不活躍） |
+
+### 翻譯進度追蹤
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| VNDB Releases | https://vndb.org/r | 官方與粉絲翻譯資訊 |
+| Fuwanovel 翻譯追蹤 | https://fuwanovel.net/ | 進度更新 |
+| r/visualnovels Translation 串 | Reddit 搜尋 "translation status" | 月度翻譯狀態更新 |
+
+### 中文漢化組
+
+| 名稱 | 說明 |
+|------|------|
+| 澄空學園 | 老牌漢化組（較不活躍） |
+| 星空漢化組 | 多部作品漢化 |
+| LKGAL | Galgame 漢化 |
+| Bangumi 漢化追蹤 | 各作品條目有漢化資訊 |
+
+### 翻譯品質討論
+
+- **r/visualnovels** — 搜尋 "translation quality" "localization"
+- **VNDB 討論區** — 各作品翻譯評價
+- **Fuwanovel Forums** — 翻譯討論專區
+
+---
+
+## 新聞與媒體彙整
+
+### 英語新聞
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| Siliconera | https://www.siliconera.com/ | 日本遊戲新聞，VN 報導多 |
+| Gematsu | https://www.gematsu.com/ | 日本遊戲公告與新聞 |
+| VN Game Den | https://vngameden.com/ | VN 專門評論媒體 |
+| Noisy Pixel | https://noisypixel.net/ | 含 VN 評論 |
+
+### 日本新聞
+
+| 名稱 | 連結 | 說明 |
+|------|------|------|
+| 4Gamer | https://www.4gamer.net/ | 日本遊戲媒體 |
+| 電撃オンライン | https://dengekionline.com/ | 電擊系媒體 |
+| ファミ通 | https://www.famitsu.com/ | Famitsu 官網 |
+| インサイド | https://www.inside-games.jp/ | 日本遊戲新聞 |
+
+### 社群新聞彙整
+
+- **r/visualnovels** — News flair 可追蹤新聞
+- **VNDB 首頁** — 最新發行與公告
+- **Twitter Lists** — 建立 VN 發行商/媒體列表追蹤
+
+---
+
 ## 搜尋用關鍵字
 
 **Reddit 搜尋：**
 - `site:reddit.com/r/visualnovels [主題]`
 - `[作品名] discussion reddit`
+- `flair:Discussion [作品名]`
+- `flair:Translation [語言]`
 
 **Discord 搜尋：**
 - https://disboard.org/search?keyword=visual+novel
 - https://discord.me/servers/tag/visual-novel
+- https://top.gg/servers/search?q=visual%20novel
+
+**VNDB 搜尋技巧：**
+- 高級搜尋：https://vndb.org/v?q=
+- 標籤組合篩選：https://vndb.org/v?f=
+- Staff 搜尋：https://vndb.org/s?q=
+
+**日文搜尋：**
+- `ビジュアルノベル [主題]`
+- `ノベルゲーム おすすめ`
+- `エロゲ 評価`
+- `[作品名] 感想`
+
+**中文搜尋：**
+- `Galgame [主題]`
+- `視覺小說 推薦`
+- `[作品名] 評價 site:bangumi.tv`
+- `[作品名] 心得 site:gamer.com.tw`
 
 **一般搜尋：**
 - `[作品名] vndb`
