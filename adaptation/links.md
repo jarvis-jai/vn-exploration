@@ -269,4 +269,305 @@
 
 ---
 
-*狀態：初版建立，持續補充中*
+## 動畫製作公司（常做 VN 改編）
+
+### 主要製作公司
+
+| 公司 | 官網 | 代表改編 |
+|------|------|----------|
+| Kyoto Animation | https://www.kyotoanimation.co.jp/ | Clannad, AIR, Kanon, Little Busters! |
+| ufotable | https://www.ufotable.com/ | Fate 系列（UBW, Heaven's Feel, Zero） |
+| A-1 Pictures | https://www.a1p.jp/ | Sword Art Online, Saekano |
+| CloverWorks | https://cloverworks.co.jp/ | Rascal Does Not Dream 系列 |
+| P.A.Works | https://www.paworks.co.jp/ | Angel Beats!, Charlotte |
+| J.C.Staff | https://www.jcstaff.co.jp/ | Little Busters!, Toradora |
+| SILVER LINK. | https://www.silverlink.co.jp/ | Non Non Biyori, Fate/kaleid |
+| feel. | https://www.feel-ing.jp/ | Oregairu 系列 |
+| 8bit | https://8bit-studio.co.jp/ | Rewrite |
+| Passione | https://passione-anime.jp/ | Higurashi (2020 remake) |
+| WHITE FOX | https://www.w-fox.co.jp/ | Steins;Gate, Re:Zero |
+| MAPPA | https://www.mappa.co.jp/ | Zombieland Saga |
+| Lerche | https://lerche.jp/ | Danganronpa 3 |
+| Production I.G | https://www.production-ig.co.jp/ | Psycho-Pass |
+| Shaft | https://www.shaft-web.co.jp/ | Madoka Magica, Monogatari 系列 |
+| deen | https://www.deen.co.jp/ | Fate/stay night (2006), Higurashi (original) |
+| WIT STUDIO | https://www.wit-studio.co.jp/ | Great Pretender |
+
+### 製作公司評價搜尋
+
+- [r/anime 製作公司討論](https://www.reddit.com/r/anime/search/?q=studio+adaptation)
+- [ANN Studio Database](https://www.animenewsnetwork.com/encyclopedia/company.php)
+- [Anime Studio Wiki](https://animestudio.fandom.com/)
+
+---
+
+## Drama CD 製作與聲優資源
+
+### Drama CD 廠牌與發行
+
+| 廠牌 | 官網 | 說明 |
+|------|------|------|
+| Lantis | https://www.lantis.jp/ | Bandai Namco 旗下，大量 VN 相關音樂/Drama |
+| Frontier Works | https://www.fwinc.co.jp/ | BL/乙女 Drama CD 大廠 |
+| Rejet | https://rejetshop.jp/ | 女性向 Drama CD 大廠 |
+| Honey Bee | https://honeybee-cd.com/ | Starry☆Sky 系列 |
+| 5pb. / MAGES. | https://www.mages.co.jp/ | 科學 ADV 系列 Drama CD |
+| Otomate | https://www.otomate.jp/ | 乙女遊戲 + Drama CD |
+| Marine Entertainment | https://www.marine-e.net/ | 音聲作品發行 |
+
+### 聲優資訊
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| Seiyuu.moe | https://seiyuu.moe/ | 聲優出演作品交叉比對工具 |
+| ANN People | https://www.animenewsnetwork.com/encyclopedia/people.php | 聲優資料庫 |
+| Behind The Voice Actors | https://www.behindthevoiceactors.com/ | 配音員資料庫（含日配） |
+| 聲優 Wiki | https://ja.wikipedia.org/wiki/Category:日本の声優 | 日本維基百科聲優分類 |
+
+### Drama CD 購買與試聽
+
+| 平台 | 連結 | 說明 |
+|------|------|------|
+| Animate Online | https://www.animate-onlineshop.jp/ | 日本 ACG 商品最大通路 |
+| Stellaworth | https://www.stellaworth.co.jp/ | 女性向 + Drama CD 專門店 |
+| CDJapan | https://www.cdjapan.co.jp/ | 海外購買 Drama CD |
+| Amazon Japan | https://www.amazon.co.jp/ | 日本亞馬遜 CD 區 |
+| HMV Japan | https://www.hmv.co.jp/ | 日本 CD 零售 |
+| Toranoana | https://ec.toranoana.jp/ | 同人 + 商業 Drama CD |
+
+---
+
+## 具體改編系列深入資源
+
+### Fate 系列改編
+
+| 資源 | 連結 |
+|------|------|
+| r/fatestaynight | https://www.reddit.com/r/fatestaynight/ |
+| r/grandorder | https://www.reddit.com/r/grandorder/ |
+| Beast's Lair Forums | https://forums.nrvnqsr.com/ |
+| Type-Moon Wiki | https://typemoon.fandom.com/ |
+| Fate/complete Material 資料集 | 搜尋「Fate complete material」 |
+| ufotable Fate 製作紀錄片 | YouTube 搜尋「ufotable fate making」 |
+
+### Steins;Gate 系列改編
+
+| 資源 | 連結 |
+|------|------|
+| r/steinsgate | https://www.reddit.com/r/steinsgate/ |
+| 科學 ADV Wiki | https://steins-gate.fandom.com/ |
+| 5pb./MAGES. 官方 | https://www.mages.co.jp/title/steinsgate/ |
+| Steins;Gate 世界線圖解 | 搜尋「steins gate worldline chart」 |
+
+### Key 社作品改編（Clannad, AIR, Kanon, Little Busters!）
+
+| 資源 | 連結 |
+|------|------|
+| Kazamatsuri Forums | https://forum.kazamatsuri.org/ |
+| r/Key_Fans | https://www.reddit.com/r/Key_Fans/ |
+| r/Clannad | https://www.reddit.com/r/Clannad/ |
+| Key Official | https://key.visualarts.gr.jp/ |
+| Kyoto Animation Blog | https://www.kyotoanimation.co.jp/information/ |
+
+### Higurashi / Umineko 改編
+
+| 資源 | 連結 |
+|------|------|
+| r/Higurashinonakakoroni | https://www.reddit.com/r/Higurashinonakakoroni/ |
+| r/umineko | https://www.reddit.com/r/umineko/ |
+| 07th Expansion Wiki | https://07th-expansion.fandom.com/ |
+| Witch Hunt (翻譯組) | https://witch-hunt.com/ |
+| 07th Expansion 官方 | https://07th-expansion.net/ |
+
+### Muv-Luv 系列改編
+
+| 資源 | 連結 |
+|------|------|
+| r/MuvLuv | https://www.reddit.com/r/MuvLuv/ |
+| Muv-Luv Wiki | https://muvluv.fandom.com/ |
+| âge Official | https://www.age-soft.jp/ |
+| Muv-Luv Alternative 動畫官網 | https://muv-luv-alternative-anime.com/ |
+
+### White Album 2 改編
+
+| 資源 | 連結 |
+|------|------|
+| r/WhiteAlbum2 | https://www.reddit.com/r/WhiteAlbum2/ |
+| White Album 2 Wiki | https://whitealbum2.fandom.com/ |
+| Leaf/Aquaplus Official | https://leaf.aquaplus.jp/ |
+
+### Grisaia 系列改編
+
+| 資源 | 連結 |
+|------|------|
+| r/grisaia | https://www.reddit.com/r/grisaia/ |
+| Grisaia Wiki | https://grisaia.fandom.com/ |
+| Frontwing Official | https://www.frontwing.jp/ |
+
+### 科學 ADV 系列（Chaos;Head, Robotics;Notes 等）
+
+| 資源 | 連結 |
+|------|------|
+| r/steinsgate（系列共用） | https://www.reddit.com/r/steinsgate/ |
+| 科學 ADV Wiki | https://steins-gate.fandom.com/ |
+| MAGES./5pb. | https://www.mages.co.jp/ |
+| Committee of Zero (翻譯/改進補丁) | https://sonome.dareno.me/ |
+
+---
+
+## 改編評分與比較工具
+
+### 評分聚合與比較
+
+| 工具 | 連結 | 說明 |
+|------|------|------|
+| Anime Planet Adaptation Tag | https://www.anime-planet.com/anime/tags/based-on-a-visual-novel | VN 改編動畫列表 |
+| AniList Advanced Search | https://anilist.co/search/anime | 可篩選「source: Visual Novel」 |
+| VNDB → AniDB 交叉查詢 | 各作品頁面 Relations 區 | VN → 動畫評分比對 |
+| Anitrack | https://anitrack.app/ | 個人觀看/遊玩追蹤 |
+
+### 社群評價彙整
+
+| 來源 | 搜尋建議 |
+|------|----------|
+| r/anime 討論串 | 搜尋「adaptation discussion」+作品名 |
+| r/visualnovels | 搜尋「anime」或「adaptation」 |
+| VNDB Discussions | 各作品的 discussions tab |
+| 4chan /a/ Archive | 搜尋 archive.moe 或 desuarchive 的討論串 |
+
+---
+
+## YouTube 頻道與影片資源
+
+### 改編分析頻道
+
+| 頻道 | 連結 | 說明 |
+|------|------|------|
+| Gigguk | https://www.youtube.com/@Gigguk | 常做 VN/動畫比較影片 |
+| Mother's Basement | https://www.youtube.com/@mothersbasement | 動畫深度分析 |
+| Super Eyepatch Wolf | https://www.youtube.com/@SuperEyepatchWolf | 長篇深度分析 |
+| Hiding in Public | https://www.youtube.com/@HidinginPublic | VN 與動畫評論 |
+| The Canipa Effect | https://www.youtube.com/@TheCanipaEffect | 動畫產業分析 |
+| Aleczandxr | https://www.youtube.com/@Aleczandxr | 角色與敘事分析 |
+
+### 日本 YouTube 資源
+
+| 頻道類型 | 搜尋建議 |
+|----------|----------|
+| 原作比較影片 | 搜尋「原作との違い」+作品名 |
+| 製作秘話 | 搜尋「制作秘話」「メイキング」+作品名 |
+| 聲優インタビュー | 搜尋「声優 インタビュー」+作品名 |
+
+### 搜尋建議
+
+- `[作品名] VN vs anime comparison`
+- `[作品名] adaptation analysis`
+- `[作品名] what the anime cut`
+- `fate adaptation ufotable making`
+- `key visual novel kyoto animation`
+
+---
+
+## 改編失敗/爭議案例討論
+
+### 常見爭議案例
+
+| 作品 | 討論搜尋建議 |
+|------|-------------|
+| Tsukihime (2003 動畫) | 搜尋「tsukihime anime doesn't exist」（梗） |
+| Fate/stay night (2006 DEEN) | 搜尋「fate 2006 vs ufotable」 |
+| Umineko no Naku Koro ni 動畫 | 搜尋「umineko anime adaptation」 |
+| Grisaia no Kajitsu 動畫 | 搜尋「grisaia anime pacing」 |
+| Chaos;Head 動畫 | 搜尋「chaoshead anime」 |
+| Rewrite 動畫 | 搜尋「rewrite anime 8bit」 |
+| Island 動畫 | 搜尋「island anime feel」 |
+| Dies irae 動畫 | 搜尋「dies irae anime」 |
+
+### 討論彙整處
+
+| 來源 | 連結 |
+|------|------|
+| r/visualnovels worst adaptations | [搜尋連結](https://www.reddit.com/r/visualnovels/search/?q=worst+adaptation) |
+| r/anime worst adaptations | [搜尋連結](https://www.reddit.com/r/anime/search/?q=worst+visual+novel+adaptation) |
+| 「改編動畫做壞了」知乎話題 | 搜尋「galgame动画改编 失败」 |
+| 巴哈姆特改編討論 | 搜尋「動畫化 原作」 |
+
+---
+
+## 官方商店與周邊商品
+
+### 日本官方商店
+
+| 商店 | 連結 | 說明 |
+|------|------|------|
+| Animate | https://www.animate.co.jp/ | 日本最大 ACG 連鎖店 |
+| Gamers | https://www.gamers.co.jp/ | ACG 專門店 |
+| Toranoana | https://www.toranoana.jp/ | 同人 + 商業 ACG |
+| Stellaworth | https://www.stellaworth.co.jp/ | 女性向專門店 |
+| Sofmap | https://www.sofmap.com/ | 秋葉原電器 + ACG |
+| Melonbooks | https://www.melonbooks.co.jp/ | 同人誌 + 周邊 |
+| BOOTH | https://booth.pm/ | pixiv 商店平台 |
+
+### 海外購買管道
+
+| 平台 | 連結 | 說明 |
+|------|------|------|
+| AmiAmi | https://www.amiami.com/ | 海外配送 ACG 商品 |
+| Solaris Japan | https://solarisjapan.com/ | 海外配送 |
+| Big in Japan | https://biginjap.com/ | 海外配送 |
+| Play-Asia | https://www.play-asia.com/ | 亞洲遊戲/周邊 |
+| CDJapan | https://www.cdjapan.co.jp/ | CD/DVD/周邊海外配送 |
+| HLJ (HobbyLink Japan) | https://www.hlj.com/ | 模型/周邊海外配送 |
+
+### 限定版與特典追蹤
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| MFC (MyFigureCollection) | https://myfigurecollection.net/ | 周邊/手辦資料庫 |
+| ACDB (Anime Characters Database) | https://www.animecharactersdatabase.com/ | 角色周邊搜尋 |
+| 限定版比較網站 | 搜尋「[作品名] 限定版 比較」 | 各版本特典對比 |
+
+---
+
+## 真人改編資源
+
+### 實寫版追蹤
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| Dorama World | https://doramaworld.com/ | 日劇資料庫 |
+| MyDramaList | https://mydramalist.com/ | 亞洲戲劇資料庫 |
+| IMDB Japan | https://www.imdb.com/search/title/?countries=jp | 日本電影搜尋 |
+| AsianWiki | https://asianwiki.com/ | 亞洲戲劇/電影 Wiki |
+
+### 真人改編討論
+
+| 來源 | 搜尋建議 |
+|------|----------|
+| r/JDorama | 搜尋「visual novel」或「game adaptation」 |
+| r/AsianDrama | 搜尋具體作品名 |
+| Douban 電影 | 搜尋「游戏改编」「视觉小说」 |
+
+---
+
+## 學術與研究資源
+
+### 改編研究
+
+| 資源 | 連結 | 說明 |
+|------|------|------|
+| JSTOR | https://www.jstor.org/ | 搜尋「transmedia」「adaptation studies」 |
+| Google Scholar | https://scholar.google.com/ | 搜尋「visual novel adaptation」 |
+| DiGRA | https://digra.org/ | 遊戲研究學會 |
+
+### 推薦閱讀
+
+| 書籍/論文 | 作者 | 說明 |
+|----------|------|------|
+| Anime's Media Mix | Marc Steinberg | 日本跨媒體模式研究 |
+| Convergence Culture | Henry Jenkins | 跨媒體敘事理論 |
+| Adapting Superheroes | 多位作者 | 改編研究（漫畫→電影，可參考方法論） |
+
+---
+
+*狀態：第二版。新增動畫公司、Drama CD、具體案例、評分工具、失敗案例、周邊商店等區塊。連結有效性最後確認：2026-01*
