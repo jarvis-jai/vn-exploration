@@ -89,6 +89,20 @@
 
 ---
 
+## 外部資源
+
+**詳見：[links.md](./links.md)**
+
+收錄內容：
+- VNDB 排行與統計連結
+- Steam / Itch.io VN 分類頁
+- Reddit 推薦討論串
+- 日本 ErogameScape 資源
+- 中文社群資料庫
+- 搜尋關鍵字索引
+
+---
+
 > This section may remain empty for a long time.
 > Emptiness indicates unexplored space, not missing work.
 
