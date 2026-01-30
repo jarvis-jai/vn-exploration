@@ -27,7 +27,8 @@ vn-exploration/
 ├── player-experience/      # 玩家體驗模式
 │   ├── emotional-engagement.md   # 情感投入機制
 │   ├── voice-performance.md      # 聲優與語音演出
-│   └── parasocial-dynamics.md    # 擬社會關係與玩家-角色動態
+│   ├── parasocial-dynamics.md    # 擬社會關係與玩家-角色動態
+│   └── music-and-sound-design.md # 音樂與聲音設計
 ├── failure-modes/          # 常見失敗模式
 ├── representative-works/   # 代表作品
 ├── communities/            # 社群與討論區

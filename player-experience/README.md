@@ -11,6 +11,18 @@
 - 氛圍導向 vs 劇情導向
 - 情感體驗類型
 - 重玩價值設計
+- 聲音與音樂設計
+
+---
+
+## 已有文件
+
+| 文件 | 說明 |
+|------|------|
+| [emotional-engagement.md](emotional-engagement.md) | 情感投入機制 |
+| [voice-performance.md](voice-performance.md) | 聲優與語音演出 |
+| [parasocial-dynamics.md](parasocial-dynamics.md) | 擬社會關係與玩家-角色動態 |
+| [music-and-sound-design.md](music-and-sound-design.md) | 音樂與聲音設計 |
 
 ---
 
