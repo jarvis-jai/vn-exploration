@@ -13,6 +13,7 @@
 - [Development](https://vndb.org/t?b=de) — 開發者討論
 - [Visual Novels](https://vndb.org/t?b=v) — 個別作品討論
 - [Tags](https://vndb.org/t?b=ta) — 標籤定義與爭論
+- [Database](https://vndb.org/t?b=db) — 資料庫收錄與分類討論
 
 ### 常見討論類型
 
@@ -20,6 +21,18 @@
 - [評分標準討論](https://vndb.org/t?q=rating+criteria)
 - [翻譯品質爭論](https://vndb.org/t?q=translation+quality)
 - [R18 vs All-ages 辯論](https://vndb.org/t?q=all+ages)
+- [Top VN 排名爭論](https://vndb.org/t?q=best+of+all+time) — 經典作品討論
+- [VN vs ADV vs Game 分類](https://vndb.org/t?q=genre) — 分類爭論
+
+### 經典 VNDB 討論串（供考古）
+
+| 討論主題 | 搜尋關鍵字 | 說明 |
+|----------|-----------|------|
+| 哪些作品「不算 VN」 | `inclusion criteria` | 收錄標準爭論 |
+| 評分膨脹 / 通貨膨脹 | `score inflation` | 新作評分偏高現象 |
+| 翻譯 vs 原文體驗 | `reading Japanese` | 語言原教旨主義爭論 |
+| 老作品被遺忘 | `underrated classic` | 老作品推廣 |
+| H 場景的價值 | `H scenes necessary` | 成人內容必要性辯論 |
 
 ### VNDB 統計與資料
 
@@ -46,12 +59,34 @@
 - Discussion threads — 完讀後討論
 - Translation announcements — 翻譯公告
 
+### Reddit 經典討論串類型
+
+| 討論類型 | 說明 | 特徵 |
+|----------|------|------|
+| Tier List | 作品排名討論 | 必有爭論，觀點多元 |
+| Unpopular Opinion | 非主流觀點分享 | 有價值的反面意見 |
+| Hot Take | 激進觀點 | 引戰但有啟發 |
+| Hidden Gem | 冷門作品推薦 | 發掘非主流佳作 |
+| Controversial Endings | 結局爭議 | 敘事分析素材 |
+| Translation Drama | 翻譯爭議 | 在地化案例 |
+
+### Reddit 經典討論串（直接連結範例）
+
+- [What VN has the best writing?](https://www.reddit.com/r/visualnovels/search/?q=best+writing) — 寫作品質討論
+- [Most overrated/underrated VN](https://www.reddit.com/r/visualnovels/search/?q=overrated+underrated) — 評價爭議
+- [VN that changed your perspective](https://www.reddit.com/r/visualnovels/search/?q=changed+perspective) — 影響深遠的作品
+- [Why do people hate X?](https://www.reddit.com/r/visualnovels/search/?q=why+hate) — 爭議作品討論
+- [VN with best villain](https://www.reddit.com/r/visualnovels/search/?q=best+villain) — 角色分析
+- [Most emotional VN moments](https://www.reddit.com/r/visualnovels/search/?q=emotional+moment) — 情感高峰
+
 ### Reddit 搜尋技巧
 
 ```
 site:reddit.com/r/visualnovels "作品名"
 site:reddit.com/r/visualnovels flair:Discussion
 site:reddit.com "visual novel" "postmortem"
+site:reddit.com/r/visualnovels "unpopular opinion"
+site:reddit.com/r/visualnovels "hot take"
 ```
 
 ---
@@ -97,10 +132,42 @@ site:reddit.com "visual novel" "postmortem"
 
 ### 日本社群術語
 
-- ネタバレ — 劇透
-- 批評 — 評論
-- クリア感想 — 完讀感想
-- ルート — 路線
+| 術語 | 意思 | 使用場景 |
+|------|------|----------|
+| ネタバレ | 劇透 | 警告標記 |
+| 批評 | 評論 | 長篇評論 |
+| クリア感想 | 完讀感想 | 通關後心得 |
+| ルート | 路線 | 分支路徑 |
+| シナリオ | 劇本 | 故事/脚本 |
+| ライター | 編劇 | 脚本家 |
+| 原画 | 原畫 | 角色設計師 |
+| BGM | 背景音樂 | 音樂評價 |
+| 立ち絵 | 立繪 | 角色立繪 |
+| 一枚絵 / CG | 事件 CG | 特殊場景圖 |
+| 鬱ゲー | 致鬱遊戲 | 悲劇作品 |
+| 泣きゲー | 催淚遊戲 | 感人作品 |
+| 抜きゲー | 擼管遊戲 | 偏重 H 場景 |
+| 燃えゲー | 熱血遊戲 | 熱血戰鬥向 |
+| 地雷 | 地雷 | 爛作警告 |
+| 神ゲー | 神作 | 極高評價 |
+
+### 日本論壇經典討論類型
+
+| 討論類型 | 搜尋關鍵字 | 說明 |
+|----------|-----------|------|
+| 年度 Best | `20XX年 ベスト` | 年度最佳討論 |
+| 脚本家評價 | `ライター名 評価` | 特定編劇評價 |
+| 公司評價 | `会社名 評判` | 開發商口碑 |
+| 續作希望 | `続編 希望` | 續作期望 |
+| 移植希望 | `移植 Steam` | 移植請願 |
+
+### 2ch/5ch 相關板塊
+
+| 板塊 | 說明 | URL 格式 |
+|------|------|----------|
+| 美少女ゲー板 | 主要 VN 討論 | pug.5ch.net/gal/ |
+| 同人ゲー板 | 同人遊戲 | pug.5ch.net/gameama/ |
+| エロゲネタ板 | 成人遊戲雜談 | mercury.bbspink.com/erog/ |
 
 ---
 
@@ -152,6 +219,28 @@ site:bangumi.tv "作品名" "評論"
 - 行銷策略分析
 - 技術問題經驗
 
+### Postmortem 搜尋關鍵字
+
+```
+"visual novel" postmortem
+"VN" "sales report"
+"indie VN" "revenue"
+"visual novel" "lessons learned"
+site:gamedeveloper.com "visual novel"
+site:reddit.com/r/gamedev "visual novel" "sales"
+```
+
+### 知名 Postmortem 案例（搜尋用）
+
+| 作品 | 搜尋關鍵字 | 說明 |
+|------|-----------|------|
+| VA-11 Hall-A | `VA-11 Hall-A postmortem` | 獨立成功案例 |
+| Coffee Talk | `Coffee Talk development` | GDC 演講 |
+| Doki Doki Literature Club | `DDLC behind the scenes` | 免費遊戲模式 |
+| Katawa Shoujo | `Katawa Shoujo development history` | 4chan 起源開發 |
+| Highway Blossoms | `Highway Blossoms postmortem` | 西方百合 VN |
+| Butterfly Soup | `Butterfly Soup success itch.io` | 免費 itch.io 成功 |
+
 ---
 
 ## 脚本家（Scenario Writer）資源
@@ -197,6 +286,97 @@ site:bangumi.tv "作品名" "評論"
 
 ---
 
+## Discord 伺服器資源
+
+### 主要 VN 社群
+
+| 伺服器 | 說明 | 尋找方式 |
+|--------|------|----------|
+| Visual Novel Discord | 主要 VN 社群 | 搜尋 Discord Server List |
+| r/visualnovels Discord | Reddit 社群伺服器 | subreddit sidebar |
+| VN Developer Discord | 開發者社群 | r/vndevs 連結 |
+| Ren'Py Discord | Ren'Py 開發者 | Ren'Py 官網連結 |
+| Lemma Soft Discord | 開發者社群 | 論壇連結 |
+
+### 作品專屬 Discord
+
+許多熱門作品有專屬 Discord：
+- Fate 系列、Steins;Gate、Umineko、Key 社作品等
+- 通常從 VNDB、Reddit 討論串或 Fandom Wiki 找連結
+
+### 發行商 Discord
+
+| 發行商 | 說明 |
+|--------|------|
+| MangaGamer | 官方公告與社群 |
+| NekoNyan | 翻譯進度更新 |
+| Sekai Project | 眾籌與發行資訊 |
+
+---
+
+## 新聞與媒體資源
+
+### 英文媒體
+
+| 媒體 | 說明 |
+|------|------|
+| [Siliconera](https://www.siliconera.com/) | 日本遊戲新聞（含 VN） |
+| [Gematsu](https://www.gematsu.com/) | 日本遊戲新聞 |
+| [Niche Gamer](https://nichegamer.com/) | 小眾遊戲報導 |
+| [Hardcore Gamer](https://hardcoregamer.com/) | 遊戲評論（偶有 VN） |
+| [Rice Digital](https://ricedigital.co.uk/) | 日本遊戲/ACG 新聞 |
+
+### 日文媒體
+
+| 媒體 | 說明 |
+|------|------|
+| [4Gamer.net](https://www.4gamer.net/) | 日本遊戲綜合媒體 |
+| [電撃オンライン](https://dengekionline.com/) | ASCII Media Works 旗下 |
+| [ファミ通.com](https://www.famitsu.com/) | Famitsu 網站 |
+| [Game Watch](https://game.watch.impress.co.jp/) | Impress Watch 遊戲 |
+| [AUTOMATON](https://automaton-media.com/) | 獨立遊戲新聞 |
+
+### 中文媒體
+
+| 媒體 | 說明 |
+|------|------|
+| [機核 GCORES](https://www.gcores.com/) | 遊戲深度報導 |
+| [游研社](https://www.yystv.cn/) | 中國遊戲媒體 |
+| [觸樂](https://www.chuapp.com/) | 中國遊戲深度報導 |
+| [巴哈姆特 GNN](https://gnn.gamer.com.tw/) | 台灣遊戲新聞 |
+
+### RSS / 新聞聚合
+
+- [Feedly](https://feedly.com/) — 訂閱上述媒體 RSS
+- Google News 搜尋 "visual novel"
+
+---
+
+## 圖像與美術資源
+
+### 官方美術存檔
+
+- [Konachan](https://konachan.com/) — Anime 風格圖庫（含 VN）
+- [Danbooru](https://danbooru.donmai.us/) — 動漫圖庫（tagging 完整）
+- [Gelbooru](https://gelbooru.com/) — 類似 Danbooru
+- [Pixiv](https://www.pixiv.net/) — 原創與同人插畫
+
+### 官方素材
+
+- 各作品官網的「Special」或「Download」區
+- 發行商提供的 Press Kit
+
+### 搜尋技巧
+
+```
+site:danbooru.donmai.us 作品名
+site:pixiv.net 作品名 公式
+作品名 official art
+作品名 key visual
+```
+
+---
+
 ## Archive 與保存資源
 
 ### 網頁存檔
@@ -208,6 +388,162 @@ site:bangumi.tv "作品名" "評論"
 
 - [Visual Novel Preservation Society](https://vndb.org/t14012) — VNDB 討論串
 - r/visualnovels 不定期的保存討論
+
+---
+
+## YouTube 評論與分析頻道
+
+### 英文評論頻道
+
+| 頻道 | 類型 | 說明 |
+|------|------|------|
+| [SuuperCub](https://www.youtube.com/@SuuperCub) | 評論/分析 | 深度 VN 評論，有長篇分析 |
+| [Kastel](https://www.youtube.com/@Kastel_) | 評論/討論 | VN 評論與社群話題 |
+| [The VN Community](https://www.youtube.com/@TheVNCommunity) | 社群/訪談 | VN 社群內容 |
+| [Zaka](https://www.youtube.com/@ZakaHD) | 評論 | 長篇 VN 評論 |
+| [Zakamutt](https://www.youtube.com/@zakamutt) | 評論/翻譯討論 | 翻譯品質分析 |
+| [Fuwanovel](https://www.youtube.com/@Fuwanovel) | 社群/新聞 | VN 新聞與公告 |
+
+### 日文評論頻道
+
+| 頻道 | 類型 | 說明 |
+|------|------|------|
+| [ゲームさんぽ](https://www.youtube.com/@gamesanpo) | 分析 | 專家解說遊戲（偶有 VN） |
+
+### 搜尋技巧
+
+```
+site:youtube.com "visual novel review"
+site:youtube.com "VN analysis"
+site:youtube.com "Steins;Gate analysis"
+site:youtube.com ビジュアルノベル レビュー
+```
+
+---
+
+## Podcast 資源
+
+### VN 相關 Podcast
+
+| 名稱 | 平台 | 說明 |
+|------|------|------|
+| [Visual Novel Book Club](https://podcasts.apple.com/) | Apple/Spotify | VN 讀書會討論（搜尋標題） |
+| [The Visual Novel Podcast](https://soundcloud.com/) | SoundCloud | VN 社群討論 |
+
+### 日本遊戲 Podcast（偶有 VN 內容）
+
+| 名稱 | 說明 |
+|------|------|
+| ゲーム関連 Podcast | 日本遊戲 Podcast（需搜尋各平台） |
+
+### 搜尋技巧
+
+```
+"visual novel" podcast
+ビジュアルノベル ポッドキャスト
+site:spotify.com "visual novel"
+```
+
+---
+
+## 學術研究資源
+
+### 論文資料庫
+
+- [Google Scholar](https://scholar.google.com/) — 搜尋 "visual novel" / "bishoujo game" / "dating simulation"
+- [JSTOR](https://www.jstor.org/) — 學術期刊（需機構帳號或部分免費）
+- [Academia.edu](https://www.academia.edu/) — 研究者分享平台
+- [ResearchGate](https://www.researchgate.net/) — 學術社群網絡
+- [DiGRA Digital Library](http://www.digra.org/digital-library/) — 遊戲研究學會論文庫
+
+### 搜尋關鍵字
+
+**英文學術：**
+- `visual novel game studies`
+- `bishoujo game research`
+- `Japanese adventure game`
+- `dating simulation narrative`
+- `eroge cultural studies`
+- `galge player identity`
+
+**日文學術：**
+- `ビジュアルノベル 研究`
+- `美少女ゲーム 論文`
+- `ノベルゲーム 物語論`
+- `ギャルゲー 文化研究`
+
+### 相關學術領域
+
+| 領域 | 關聯主題 |
+|------|----------|
+| Game Studies | 遊戲敘事、互動設計 |
+| Japanese Studies | 日本次文化、御宅文化 |
+| Media Studies | 跨媒體改編、粉絲文化 |
+| Gender Studies | 美少女遊戲的性別表現 |
+| Fan Studies | 同人文化、二次創作 |
+| Narrative Theory | 互動敘事、分岐結構 |
+
+### 經典學術論文/書籍（供搜尋）
+
+| 作品/作者 | 主題 | 說明 |
+|-----------|------|------|
+| Patrick W. Galbraith | Otaku Studies | 御宅文化研究先驅 |
+| Azuma Hiroki 東浩紀 | Database Animals | 後現代消費理論 |
+| Carl Li | VN translation studies | VN 翻譯研究 |
+| DiGRA Japan | 日本遊戲研究 | 學會論文集 |
+
+---
+
+## Twitter/X 資源
+
+### 開發者與發行商帳號
+
+| 類型 | 搜尋方式 |
+|------|----------|
+| 發行商官方 | MangaGamer, JAST, NekoNyan, Sekai Project |
+| 開發者個人 | 通常從 VNDB Staff 頁面連結 |
+| 社群帳號 | r/visualnovels 推特帳號 |
+
+### 日本脚本家 Twitter
+
+- 從 VNDB 的 Staff 頁面找連結
+- 日文搜尋：`作品名 ライター Twitter`
+- 許多脚本家活躍於 Twitter
+
+### 搜尋技巧
+
+```
+"visual novel" "announcement" site:twitter.com
+"VN" "localization" site:twitter.com
+作品名 公式 site:twitter.com
+```
+
+---
+
+## Wiki 與百科資源
+
+### 專門 Wiki
+
+- [The Visual Novel Database (VNDB)](https://vndb.org/) — 最完整的 VN 資料庫
+- [Visual Novel Info](https://visualnovelinfo.fandom.com/) — Fandom VN Wiki
+- [Type-Moon Wiki](https://typemoon.fandom.com/) — TYPE-MOON 作品專門
+- [Key (Visual Arts) Wiki](https://key.fandom.com/) — Key 社作品專門
+- [Umineko Wiki](https://umineko.fandom.com/) — 海貓鳴泣時專門
+- [When They Cry Wiki](https://whentheycry.fandom.com/) — 07th Expansion 作品
+- [Danganronpa Wiki](https://danganronpa.fandom.com/) — 彈丸論破專門
+- [Ace Attorney Wiki](https://aceattorney.fandom.com/) — 逆轉裁判專門
+- [Steins;Gate Wiki](https://steins-gate.fandom.com/) — 命運石之門專門
+
+### 日文 Wiki
+
+- [Wikipedia 日本語版 — ビジュアルノベル](https://ja.wikipedia.org/wiki/ビジュアルノベル)
+- [Pixiv Encyclopedia](https://dic.pixiv.net/) — Pixiv 百科（ACG 用語）
+- [ニコニコ大百科](https://dic.nicovideo.jp/) — Niconico 百科
+
+### 中文 Wiki
+
+- [萌娘百科](https://zh.moegirl.org.cn/) — 中文 ACG 百科
+- [Bangumi 番組計劃](https://bangumi.tv/) — 中文 ACG 資料庫
 
 ---
 
