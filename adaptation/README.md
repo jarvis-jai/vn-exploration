@@ -21,6 +21,7 @@
 - `anime-adaptation.md` - 動畫化的特徵與挑戰
 - `manga-adaptation.md` - 漫畫化的媒介轉換與獨特挑戰
 - `drama-cd-adaptation.md` - Drama CD 與聲音敘事的跨媒體形式
+- `live-action-adaptation.md` - 真人影像與 VN 的交會：從改編到原生互動影劇
 
 ---
 
