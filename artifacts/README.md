@@ -20,6 +20,7 @@
 | forum-quotes-player-experience.md | 玩家對 VN 體驗的論壇發言摘錄 |
 | vndb-discussions.md | VNDB 論壇的典型討論摘錄 |
 | steam-review-patterns.md | Steam 評論的典型模式與摘錄 |
+| scenario-writer-discussions.md | 脚本家相關討論與評價摘錄 |
 
 ---
 
