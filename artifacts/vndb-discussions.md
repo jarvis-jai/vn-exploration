@@ -292,13 +292,306 @@ VNDB 的標籤系統複雜且不斷演進：
 
 ---
 
+## 作品閱讀順序爭論
+
+VN 系列作品的閱讀順序是高頻爭論話題：
+
+### Fate 系列
+
+> "Do I need to read Fate/stay night before Fate/Zero? Or can I start with Zero?"
+
+> "Anime-only watchers miss so much. The VN is the definitive experience."
+
+> "You absolutely need to do all three routes in order: Fate → UBW → HF. Don't skip."
+
+> "Hollow Ataraxia is fanservice but also essential if you loved the characters."
+
+### Science Adventure 系列
+
+> "Chaos;Head → Steins;Gate → Robotics;Notes → Chaos;Child. That's the intended order."
+
+> "Steins;Gate works standalone but you'll miss references."
+
+> "The anime adaptations vary wildly in quality. C;H anime is basically unwatchable."
+
+### Muv-Luv 系列
+
+> "You MUST play Extra before Unlimited before Alternative. No exceptions."
+
+> "Yes, Extra is slow. Yes, it's necessary. The payoff in Alternative depends on it."
+
+> "People who skip to Alternative are missing the entire point."
+
+### Key 作品
+
+> "No specific order needed for Key games, but chronological release is fine."
+
+> "Air → Kanon → Clannad → Little Busters → Rewrite if you want to see the evolution."
+
+---
+
+## H 內容相關討論
+
+成人內容是 VNDB 上的常設話題：
+
+### 「H 場景必要嗎」
+
+> "The H scenes in [作品] add nothing. Just forced in for sales."
+
+> "Some H scenes are genuinely character development. Not all are gratuitous."
+
+> "I play all-ages versions when available. The story is the same."
+
+> "The original R18 version is the 'real' version. All-ages is censored."
+
+### 「All-ages vs R18」
+
+> "Which version should I play? I don't want censored content but also don't need porn."
+
+> "For [作品], the all-ages version actually has additional content and better pacing."
+
+> "Steam version + R18 patch is the standard approach now."
+
+### 「H 場景品質」
+
+> "Bad H scenes can ruin immersion. Good ones enhance the relationship."
+
+> "[作家名] writes terrible H scenes. Just skip them."
+
+> "The H scenes in [作品] were clearly written by a different person."
+
+### 標籤爭議
+
+> "Should [特定 fetish] be a top-level tag? It's getting out of hand."
+
+> "The sexual content warnings are either too vague or too specific."
+
+> "Spoiler-tagging H content: some people want to know in advance, others don't."
+
+---
+
+## 作品長度討論
+
+### 「這作品多長？」
+
+> "VNDB says 50+ hours but I finished in 30. Do people read that slowly?"
+
+> "The length estimates are for reading everything. If you skip bad routes..."
+
+> "Japanese text reads faster for native speakers. English estimates are inflated."
+
+### 「太長/太短」
+
+> "[作品] overstayed its welcome. Could've been 20 hours shorter."
+
+> "Short VNs can be just as impactful. Saya no Uta is under 10 hours."
+
+> "I prefer longer VNs. More time with the characters."
+
+### 長度分類爭論
+
+> "Where's the cutoff between 'medium' and 'long'? 30 hours? 50?"
+
+> "The length categories on VNDB need revision. A '50+ hours' range is too broad."
+
+---
+
+## 語音 / 配音討論
+
+### 「該開語音嗎」
+
+> "Full voice adds so much. I can't imagine playing without it."
+
+> "Partial voice is worse than no voice. Inconsistent experience."
+
+> "I read faster than they speak. Voice slows me down."
+
+> "The JP voice acting is the authentic experience even if you don't understand."
+
+### 配音評價
+
+> "[聲優名]'s performance as [角色] is legendary."
+
+> "Why did they recast [角色] in the remake? The original was perfect."
+
+> "Some routes have better voice direction than others. [路線] felt phoned in."
+
+### 英語配音
+
+> "OELVN voice acting has come a long way. [作品] is fully voiced and good."
+
+> "Japanese VNs should stay Japanese. English dub feels wrong."
+
+> "I'd pay extra for a good English dub option."
+
+---
+
+## 老作品 vs 新作品
+
+### 「經典值得玩嗎」
+
+> "[90年代作品] holds up surprisingly well. The writing is timeless."
+
+> "Older VNs have pacing issues by modern standards. Be prepared."
+
+> "You can feel the budget limitations in older titles but the heart is there."
+
+### 系統比較
+
+> "Modern QoL features spoiled me. Going back to [老作品] without skip-to-choice is painful."
+
+> "Some old engines had features that newer ones lack. Regression."
+
+> "The art style evolution is fascinating. Compare [年代A] to [年代B]."
+
+### 懷舊 vs 客觀
+
+> "Be careful of nostalgia goggles. [作品] was groundbreaking THEN."
+
+> "First VN bias is real. Your first tends to be your favorite."
+
+> "Some classics really are that good. Others are just historical artifacts."
+
+---
+
+## OELVN vs JVN 比較
+
+### 文化差異
+
+> "OELVN often handle [主題] better because of different cultural norms."
+
+> "JVN have that 'something' that OELVN can't replicate. Hard to explain."
+
+> "The gap is closing. Best OELVN now compete with mid-tier JVN."
+
+### 製作價值
+
+> "JVN have bigger budgets, more voice acting, more CGs on average."
+
+> "OELVN compensate with different strengths: diverse settings, shorter dev cycles."
+
+> "Ren'Py games all look the same. We need more engine variety."
+
+### 融合趨勢
+
+> "Chinese VNs are a whole other category. Neither JVN nor OELVN."
+
+> "Korean VNs (manhwa-style) are growing. Different aesthetic."
+
+> "The lines are blurring. Some JVN are made with Western audiences in mind."
+
+---
+
+## 社群獨有的迷因與內部梗
+
+### 常見梗
+
+- **"Now there is!"** — 某人問某功能是否存在，隨即有人實現
+- **"Recommendation list copypasta"** — 相同推薦名單被反覆貼出
+- **"Clannad is the greatest VN ever made"** — 半諷刺的老生常談
+- **"Just read it"** — 對過度猶豫者的標準回覆
+
+### 作品特有梗
+
+- **Muv-Luv Extra** — "The suffering"（指強制日常段落）
+- **Dies irae** — "The common route filter"（共通線太長讓人放棄）
+- **Umineko** — "Without love, it cannot be seen"（台詞變成 meme）
+- **Saya no Uta** — 作為「入門推薦的反例」出現
+
+### VNDB 系統梗
+
+> "VNDB says I have 200 games in my wishlist. My backlog is eternal."
+
+> "My average score is 7.2. Am I too generous or too harsh?"
+
+> "The 'Dropped' category is where good intentions go to die."
+
+---
+
+## 爭議性話題
+
+### 政治與審查
+
+> "[作品] was censored for Western release. Unacceptable."
+
+> "Some content deserved to be cut. Not everything is worth preserving."
+
+> "Vote with your wallet. Buy uncensored versions when available."
+
+### AI 與創作
+
+> "AI-generated assets are appearing in VNDB entries. Should they be tagged?"
+
+> "AI translation vs. human translation: the quality gap is shrinking."
+
+> "Some devs are using AI for backgrounds. Is that okay if they're upfront?"
+
+### 盜版相關
+
+> "Can we discuss how to obtain [作品]?" — 通常被刪除或警告
+
+> "If it's not available legitimately, preservation becomes complicated."
+
+> "VNDB doesn't host or link to downloads. Period."
+
+---
+
+## 外部資源連結
+
+### VNDB 官方
+
+- **主站**：https://vndb.org/
+- **論壇**：https://vndb.org/t
+- **開發討論**：https://vndb.org/t/db
+
+### 相關社群
+
+- **Reddit VN 版**：https://www.reddit.com/r/visualnovels/
+- **Fuwanovel**：https://fuwanovel.net/
+- **ErogameScape (EGS)**：https://erogamescape.dyndns.org/（日本類似站）
+- **Bangumi**：https://bgm.tv/（中文 ACG 資料庫）
+
+### 搜尋關鍵字
+
+**VNDB 站內搜尋技巧：**
+- `t/[數字]` — 直接訪問特定討論串
+- `v/all` + 標籤過濾 — 作品搜尋
+- `u/[用戶名]/votes` — 查看特定用戶評分
+
+**外部搜尋：**
+- `site:vndb.org [關鍵字]` — Google 搜尋 VNDB 內容
+- `vndb [作品名] reddit` — 尋找 Reddit 上的相關討論
+
+---
+
+## VNDB 的文化地位
+
+### 在 VN 社群中的角色
+
+- **權威資料來源**：發行資訊、角色資料、長度估算
+- **社群共識形成地**：排名反映集體評價
+- **翻譯進度追蹤中心**：TL 進度的主要記錄點
+- **歷史檔案館**：即使作品消失，VNDB 條目保留資訊
+
+### 影響力
+
+> "If it's not on VNDB, does it really exist?"
+
+> "VNDB ranking doesn't mean quality, but it does mean visibility."
+
+> "Developers track their VNDB scores. It affects morale and marketing."
+
+---
+
 ## 待收集
 
 - 特定爭議討論串的匿名化摘要
 - VNDB 排名歷史變化
 - 論壇討論的語言風格量化
 - 與其他資料庫（EGS、Bangumi）的比較
+- 版主政策與執行案例
+- VNDB 功能演進歷史
 
 ---
 
-*狀態：初稿，著重討論模式觀察*
+*狀態：補充中，著重討論模式與常見話題*
