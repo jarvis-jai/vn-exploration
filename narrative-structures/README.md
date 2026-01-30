@@ -69,6 +69,7 @@
 - **[endings-and-termination.md](endings-and-termination.md)** — 結局設計的藝術：Good/Bad/True End 類型學、多結局的存在論問題、攻略順序設計、結局的心理學與商業面向
 - **[taboo-and-controversy.md](taboo-and-controversy.md)** — 禁忌題材與爭議敘事：VN 處理禁忌的媒介特性、常見禁忌類型（性、暴力、心理、政治）、敘事功能、平台審查、倫理辯論、案例分析
 - **[heroine-archetypes.md](heroine-archetypes.md)** — 女主角原型論：關係定位型（青梅竹馬、妹系、姐系）與性格屬性型（傲嬌、病嬌、天然呆、元氣）原型、視覺設計信號、類型組合與反差萌、類型系統批評與歷史演變
+- **[opening-sequences.md](opening-sequences.md)** — 開場設計與「鉤子」機制：VN 開場的結構性挑戰、設計模式（in medias res、日常漸進、謎團開場、角色登場秀、世界觀浸泡）、常見陷阱、OP 動畫的角色、成功與失敗案例分析
 
 ---
 
