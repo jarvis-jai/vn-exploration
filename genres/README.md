@@ -57,6 +57,9 @@
 - 運動題材
 - 音樂／偶像題材
 
+### 歷史與源流
+- Sound Novel vs Visual Novel 起源 → 詳見 [sound-novel-origins.md](./sound-novel-origins.md)
+
 ---
 
 ## 待研究問題
