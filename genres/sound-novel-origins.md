@@ -337,6 +337,143 @@ VN 作為媒體類型的誕生，涉及兩個不同但相關的源流：Chunsoft
 
 ---
 
+## VNDB 資源與作品連結
+
+### Chunsoft Sound Novel 作品
+
+| 作品 | VNDB 連結 | 發售年 | 平台 | 英文化 |
+|------|-----------|--------|------|--------|
+| 弟切草 | https://vndb.org/v1842 | 1992 | SFC→PS/SS | 無官方英譯 |
+| かまいたちの夜 | https://vndb.org/v2 | 1994 | SFC→多平台 | 無官方英譯 |
+| かまいたちの夜2 | https://vndb.org/v3350 | 2002 | PS2 | 無官方英譯 |
+| 街 | https://vndb.org/v3679 | 1998 | SS→PS/PSP | 無官方英譯 |
+| 428 〜封鎖された渋谷で〜 | https://vndb.org/v1299 | 2008 | Wii→多平台 | 官方英文版 |
+| 忌火起草 | https://vndb.org/v6093 | 2005 | PS2→PS3/Wii | 官方英文版 |
+
+### Leaf Visual Novel Series
+
+| 作品 | VNDB 連結 | 發售年 | 英文化 |
+|------|-----------|--------|--------|
+| 雫 | https://vndb.org/v235 | 1996 | 無官方英譯 |
+| 痕 | https://vndb.org/v113 | 1996 | 無官方英譯 |
+| To Heart | https://vndb.org/v18 | 1997 | 無官方英譯 |
+| To Heart 2 | https://vndb.org/v20 | 2004 | 無官方英譯 |
+| WHITE ALBUM | https://vndb.org/v236 | 1998 | 無官方英譯 |
+
+### 相關里程碑作品
+
+| 作品 | VNDB 連結 | 重要性 |
+|------|-----------|--------|
+| Kanon | https://vndb.org/v33 | Key 社代表作，泣きゲー先驅 |
+| AIR | https://vndb.org/v36 | Key 社代表作 |
+| CLANNAD | https://vndb.org/v4 | VN 敘事巔峰之一 |
+| 月姬 | https://vndb.org/v7 | 同人→商業的轉型代表 |
+| ひぐらしのなく頃に | https://vndb.org/v67 | Sound Novel 精神的同人繼承 |
+
+---
+
+## 社群討論資源
+
+### Reddit 相關討論
+
+**可搜尋的討論主題：**
+- `site:reddit.com/r/visualnovels "sound novel"`
+- `site:reddit.com/r/visualnovels "chunsoft"`
+- `site:reddit.com/r/visualnovels "kamaitachi"`
+- `site:reddit.com/r/visualnovels "visual novel history"`
+
+**常見討論串類型：**
+- "What's the difference between Sound Novel and Visual Novel?"
+- "Recommendations for Sound Novel style games"
+- "History of the VN genre"
+- "428 Shibuya Scramble discussion"
+
+### 日本社群
+
+**Wikipedia 條目：**
+- [サウンドノベル](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%8E%E3%83%99%E3%83%AB) — 日文維基百科
+- [ビジュアルノベル](https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB) — 日文維基百科
+
+**回顧與討論：**
+- 5ch（舊2ch）的エロゲ板、ゲーム板有歷史討論
+- note.com 上有玩家撰寫的回顧文章
+- 搜尋：`サウンドノベル 歴史` `ビジュアルノベル 起源`
+
+### 英語歷史資源
+
+**Hardcore Gaming 101**：
+- 有 Chunsoft 作品與早期 VN 的專題文章
+- https://www.hardcoregaming101.net/
+
+**VNDB 討論區**：
+- 偶有歷史相關的討論串
+- https://vndb.org/t
+
+---
+
+## 關鍵字索引
+
+**日文搜尋用：**
+- サウンドノベル / サウンドノベルシリーズ
+- ビジュアルノベル / ビジュアルノベルシリーズ
+- チュンソフト / Chunsoft
+- リーフ / Leaf / LVNS
+- ノベルゲーム 起源 / 歴史
+- 弟切草 / かまいたちの夜
+
+**英文搜尋用：**
+- sound novel vs visual novel
+- chunsoft history
+- visual novel origins
+- VN genre history
+- Otogirisou / Kamaitachi no Yoru
+- Leaf Visual Novel Series
+
+**中文搜尋用：**
+- 聲音小說 視覺小說 區別
+- VN 起源 / 視覺小說歷史
+- Chunsoft 歷史
+- galgame 發展史
+
+---
+
+## 延伸閱讀與資源
+
+### 公司官網
+
+| 公司 | 官網 | 備註 |
+|------|------|------|
+| Spike Chunsoft | https://www.spike-chunsoft.co.jp/ | Chunsoft 合併後 |
+| Aquaplus (Leaf) | https://aquaplus.jp/ | Leaf 母公司 |
+| Key (Visual Arts) | https://key.visualarts.gr.jp/ | VN 發展關鍵公司 |
+
+### 學術與深度文章
+
+**Game Studies 相關：**
+- 搜尋 `visual novel academic paper`
+- DiGRA（數位遊戲研究協會）的會議論文
+
+**遊戲歷史書籍：**
+- 各種日本遊戲產業史書籍中有 Chunsoft 相關章節
+- 《ゲームの歴史》等綜合性著作
+
+### 開發者訪談
+
+**Chunsoft 關鍵人物：**
+- 中村光一（Chunsoft 創辦人）
+- 我孫子武丸（かまいたち劇本）
+
+**Leaf/Key 關鍵人物：**
+- 高橋龍也（Leaf 劇本家，後參與 Key）
+- 麻枝准（Key 核心）
+
+訪談可在：
+- Famitsu 雜誌存檔
+- 電撃系雜誌存檔
+- 各種遊戲媒體網站（4Gamer.net 等）
+
+---
+
 ## 待深入研究
 
 - Chunsoft 早期 staff 的後續動向
@@ -345,6 +482,8 @@ VN 作為媒體類型的誕生，涉及兩個不同但相關的源流：Chunsoft
 - 「NVL 模式」在 Ren'Py 等引擎中的實作傳統
 - 其他「○○ノベル」商標的使用（如「キネティックノベル」）
 - 同人與商業界線的早期形成
+- 《街》與《428》的 Zapping System 設計分析
+- Sound Novel 美學在獨立遊戲場景的復興
 
 ---
 

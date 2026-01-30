@@ -311,6 +311,158 @@ Nitro+ 作品。以「劍」為主題，融合日本劍術傳統與中二病美�
 
 ---
 
+## VNDB 資源與作品連結
+
+### 核心作品 VNDB 頁面
+
+| 作品 | VNDB 連結 | 英文化狀態 | 備註 |
+|------|-----------|------------|------|
+| Fate/stay night | https://vndb.org/v11 | 官方英文版（Realta Nua） | 中二病系里程碑 |
+| Dies irae | https://vndb.org/v548 | 官方英文版（Steam、GOG） | 「正統中二」代表 |
+| 装甲悪鬼村正 | https://vndb.org/v2016 | 官方英文版（JAST） | 戰鬥美學巔峰 |
+| CHAOS;HEAD | https://vndb.org/v382 | 官方英文版（Steam） | 科學ADV系列 |
+| 3days | https://vndb.org/v1483 | 無官方英譯 | 瀬戸口廉也代表作 |
+| 相州戦神館學園 八命陣 | https://vndb.org/v12392 | 無官方英譯 | light 社作品 |
+| 神咒神威神楽 | https://vndb.org/v6871 | 無官方英譯 | Dies irae 系列 |
+| Vermillion | https://vndb.org/v5843 | 無官方英譯 | light 社作品 |
+| 東京バベル | https://vndb.org/v9205 | 有民間翻譯 | PropellerTeam 作品 |
+| Silverio Vendetta | https://vndb.org/v16134 | 無官方英譯 | light 社作品 |
+
+### VNDB 相關標籤
+
+探索更多中二病系作品的標籤：
+
+- [Chuuni (中二病)](https://vndb.org/g542) — 中二病標籤
+- [Superpowers (超能力)](https://vndb.org/g29) — 超能力設定
+- [Swords (劍)](https://vndb.org/g116) — 劍術戰鬥
+- [Magic (魔法)](https://vndb.org/g59) — 魔法系統
+- [Battle Royale (大逃殺)](https://vndb.org/g1052) — 大逃殺式對決
+
+### 按評分探索
+
+- [VNDB 中二病標籤作品（按評分排序）](https://vndb.org/v?q=&ch=&f=80542&s=34w)
+
+---
+
+## 社群討論資源
+
+### Reddit 相關討論
+
+**r/visualnovels 常見討論主題**（可搜尋）：
+- "chuunige recommendations"
+- "games like Dies irae"
+- "best battle visual novels"
+- "Fate/stay night discussion"
+- "chunibyo VN"
+
+**代表性討論串範例：**
+- 搜尋 `site:reddit.com/r/visualnovels chuunige` 可找到定期的推薦討論
+- Fate 系列有獨立 subreddit：r/fatestaynight（200k+ 訂閱）
+
+### Discord 社群
+
+| 名稱 | 說明 | 連結/備註 |
+|------|------|----------|
+| TYPE-MOON Discord | TM 作品討論 | 搜尋 "type-moon discord" |
+| Beast's Lair Discord | TM 粉絲社群 | https://forums.nrvnqsr.com/ 論壇關聯 |
+| Dies irae Discord | 系列專屬 | 搜尋 "dies irae discord" |
+| Visual Novel Info Hub | 綜合 VN Discord，有中二病討論區 | 搜尋 "visual novel discord" |
+
+### 日本社群
+
+**Twitter/X**：
+- 開發者帳號：light 社、TYPE-MOON 官方
+- 搜尋標籤：`#厨二ゲー` `#中二ゲー` `#ディエスイレ`
+
+**5ch/2ch**：
+- エロゲネタ＆雑談板中有專門討論串
+- 作品個別討論串
+
+### 中文社群
+
+**Bangumi**：
+- 作品條目有評論與討論
+- 搜尋「中二病」「燃系」標籤
+
+**Bilibili**：
+- 搜尋「中二gal」「燃系galgame」
+- 有大量戰鬥場景剪輯與解說
+
+---
+
+## 延伸作品推薦
+
+### 帶有中二病元素的相鄰作品
+
+（不是純中二病系，但有類似美學）
+
+| 作品 | VNDB | 中二元素說明 |
+|------|------|--------------|
+| Steins;Gate | https://vndb.org/v2002 | 科學冒險 + 厨二主角設定 |
+| Rewrite | https://vndb.org/v751 | Key 社作品，有超能力戰鬥 |
+| 白き鋼鉄のX | https://vndb.org/v33178 | Inti Creates 機器人動作 |
+| 月姬 | https://vndb.org/v7 | TM 原點，吸血鬼 + 魔術 |
+| Baldr Sky | https://vndb.org/v1306 | 機甲 + 戰鬥系統 |
+| Comyu | https://vndb.org/v1896 | 能力者對決 |
+| 穢翼のユースティア | https://vndb.org/v3770 | 世界觀設定濃厚 |
+| euphoria（部分） | https://vndb.org/v6540 | 後段有類似展開 |
+
+### 西方作品中的中二病美學
+
+西方獨立場景較少純粹中二病系，但有相似元素：
+- **Slay the Princess** — 宿命對決、宣言式對話
+- **1000xRESIST** — 宏大設定、信念衝突
+- **VA-11 Hall-A** — 世界觀設定的精心設計
+
+---
+
+## 關鍵字索引
+
+**日文搜尋用：**
+- 厨二ゲー / 中二ゲー / 中二病系
+- 燃えゲー / 燃え系
+- バトルADV / バトルノベル
+- 異能バトル / 能力者バトル
+- 熱血 / 決意 / 覚醒
+
+**英文搜尋用：**
+- chuunige / chunibyo visual novel
+- battle visual novel
+- action VN with powers
+- epic visual novel
+- Fate-like VN
+
+**中文搜尋用：**
+- 中二病 galgame / 中二gal
+- 燃系視覺小說 / 燃系 VN
+- 熱血gal / 戰鬥gal
+- 超能力galgame
+- 厨二 / 厨力
+
+---
+
+## 開發者與公司資源
+
+### 中二病系代表公司官網
+
+| 公司 | 官網 | 代表作 |
+|------|------|--------|
+| TYPE-MOON | https://www.typemoon.com/ | Fate、月姬 |
+| Nitro+ | https://www.nitroplus.co.jp/ | 装甲悪鬼村正、CHAOS; 系列 |
+| light | https://www.light.gr.jp/ | Dies irae、Silverio 系列 |
+| Liar-soft | https://liar-soft.jp/ | Forest、Steampunker 系列 |
+
+### 音樂相關
+
+中二病系 BGM 是重要組成，相關資源：
+- **与猶啓至**（Dies irae 作曲）
+- **深澤秀行**（TYPE-MOON 系列）
+- **ZIZZ STUDIO**（多款中二病系配樂）
+
+OST 可在 VGMdb 查詢：https://vgmdb.net/
+
+---
+
 ## 待探索問題
 
 - 中二病美學的跨文化接受度
@@ -318,6 +470,8 @@ Nitro+ 作品。以「劍」為主題，融合日本劍術傳統與中二病美�
 - 中二病系與「ネット右翼」文化的關係
 - 中二病系玩家的年齡分佈與變遷
 - 西方獨立遊戲中類似中二病的美學傾向
+- light 社停止新作後的中二病系市場變化
+- 中二病系在手遊時代的生存狀態（FGO 現象）
 
 ---
 
