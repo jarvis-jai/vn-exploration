@@ -16,6 +16,7 @@
 ## 目錄
 
 - [互動小說（Interactive Fiction）](./interactive-fiction.md) — IF 與 VN 的譜系、設計借鑑、跨界創作者
+- [輕小說與網路小說（Light Novel / Web Novel）](./light-novel-web-novel.md) — VN 與輕小說/網路小說的關係：共享受眾、敘事風格比較、創作者跨界、改編挑戰、市場生態比較
 
 ---
 

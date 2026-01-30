@@ -63,6 +63,7 @@
 - **[nichijou-daily-life.md](nichijou-daily-life.md)** — 日常描寫與生活感的營造：時間循環感、空間場所、日常與主線的關係、描寫技巧、文化脈絡差異、經典作品分析
 - **[common-tropes.md](common-tropes.md)** — 常見敘事套路與慣例
 - **[temporal-structures.md](temporal-structures.md)** — 敘事時間結構：故事時間/閱讀時間/系統時間的三層次、線性與非線性、時間循環敘事、閃回與框架敘事、時間的視覺語言
+- **[protagonist-design.md](protagonist-design.md)** — 主角設計模式：透明主角與個性主角的光譜、外貌/配音/獨白設計、主角成長弧線、常見批評模式、後設主角設計、文化差異觀察
 
 ---
 
