@@ -181,6 +181,97 @@
 
 ---
 
+### 山海旅人
+
+- **發行年份：** 2021
+- **開發者：** Soulframe（中國）
+- **平台：** PC（Steam）
+- **類型：** 志怪、橫向卷軸、冒險
+- **長度：** 6-10 小時
+- **Steam 連結：** https://store.steampowered.com/app/1189490
+
+**背景與意義：**
+- 以《山海經》志怪元素為基底
+- 敘事與橫向卷軸探索結合
+- 中國獨立遊戲節獲獎
+- 傳統文化與現代敘事的融合嘗試
+
+---
+
+### 他人世界末
+
+- **發行年份：** 2020
+- **開發者：** 方塊遊戲
+- **平台：** PC（Steam）、Switch
+- **類型：** 劇情、角色扮演、輕科幻
+- **長度：** 4-6 小時
+- **Steam 連結：** https://store.steampowered.com/app/1235140
+
+**背景與意義：**
+- 角色扮演與 VN 敘事的混合
+- 世界末日設定的獨特處理
+- 多結局與角色關係變化
+
+---
+
+### 完美的一天
+
+- **發行年份：** 2021
+- **開發者：** 北京五十一區科技
+- **平台：** PC（Steam）
+- **類型：** 時間迴圈、恐怖、校園
+- **長度：** 8-12 小時
+- **Steam 連結：** https://store.steampowered.com/app/1492590
+
+**背景與意義：**
+- 時間迴圈機制的中國詮釋
+- 校園霸凌與社會議題
+- Groundhog Day 式結構
+
+---
+
+### 雨港基隆
+
+- **發行年份：** 2014
+- **開發者：** EROTES STUDIO（台灣）
+- **平台：** PC
+- **類型：** 戀愛、歷史、二二八事件
+- **長度：** 10-15 小時
+
+**背景與意義：**
+- 台灣二二八事件背景
+- 歷史與戀愛敘事的結合
+- 台灣本土歷史記憶的 VN 表現
+- 引發歷史題材處理的討論
+
+---
+
+### 女裝網紅主播の生活 / My Life as a Maiden / 女装主播
+
+- **發行年份：** 2019 起（多作）
+- **開發者：** Various（中國獨立）
+- **平台：** PC（Steam）
+- **類型：** 女裝、喜劇、模擬
+
+**背景與意義：**
+- 「女裝」題材在中文 VN 的流行
+- 輕喜劇風格、社群迷因化
+- 低成本製作的商業模式
+
+---
+
+### 橙光平台代表作選
+
+| 作品 | 類型 | 備註 |
+|------|------|------|
+| 逆襲之星途閃耀 | 女性向、娛樂圈 | 改編為電視劇 |
+| 暖雪 | 武俠、解謎 | 橫跨平台（後獨立發行 Steam） |
+| 執行官系列 | 女性向、科幻 | 連載型長篇 |
+| 遇龍 | 女性向、仙俠 | 改編為網劇 |
+| 好想告訴你 | 女性向、校園 | 早期平台代表 |
+
+---
+
 ## 平台與生態
 
 ### 橙光遊戲平台
@@ -233,15 +324,54 @@
 
 ---
 
+## 外部連結與資源
+
+### VNDB 搜尋
+
+- [VNDB 中文原作](https://vndb.org/v?f=022gen4444444Zn) — 原語言為中文的作品
+- [VNDB 中國開發者](https://vndb.org/p?f=6Fw0aTchin-2&s=341) — 中國工作室 / 開發者
+- [VNDB 台灣開發者](https://vndb.org/p?f=6Fw0aTtaiw-2&s=341) — 台灣工作室 / 開發者
+
+### Steam
+
+- [Steam 標籤：Visual Novel + 簡體中文原作](https://store.steampowered.com/search/?tags=3799&category1=998&supportedlang=schinese)
+- [Steam 標籤：Interactive Fiction + 中國開發者](https://store.steampowered.com/search/?tags=11014&developer=China)
+
+### 社群與討論
+
+- [NGA 玩家社區 - AVG/視覺小說版](https://bbs.nga.cn/thread.php?fid=414) — 中國最大的 VN 討論區之一
+- [橙光遊戲官網](https://www.66rpg.com/) — 女性向 UGC 平台
+- [巴哈姆特 - ACG 哈拉區](https://forum.gamer.com.tw/) — 台灣 ACG 討論
+- [PTT C_Chat 版](https://www.ptt.cc/bbs/C_Chat/index.html) — 台灣 ACG 綜合討論
+
+### 獎項與報告
+
+- [台北電玩展 Indie Game Award](https://indie.tgs.tw/) — 台灣獨立遊戲獎
+- [巴哈姆特遊戲大賞](https://prj.gamer.com.tw/acgaward/) — 年度人氣獎項
+- [ChinaJoy 獨立遊戲區](http://www.chinajoy.net/) — 中國遊戲展
+
+---
+
+## 搜尋關鍵字
+
+**中文：** 國產 galgame、國產視覺小說、國G、橙光遊戲、乙女遊戲、文字冒險遊戲、AVG、互動電影、真人 VN
+
+**日文：** 中国産ギャルゲー、中華圏ノベルゲーム、台湾製 ADV
+
+**英文：** Chinese visual novel, Chinese-language VN, Chinese indie VN, Taiwanese visual novel, Chinese otome game, Orange Guang game (橙光), interactive drama China
+
+**平台：** Steam 中文 VN、橙光平台、TapTap、bilibili 遊戲
+
+---
+
 ## 待補充
 
-- 更多橙光平台代表作
 - 香港開發者作品
 - 移動平台獨佔 VN
 - 銷量與營收數據
 - 中國 VN 產業報告
-- 台灣遊戲獎項作品
+- 更多台灣獨立作品
 
 ---
 
-*狀態：初稿，持續擴充中*
+*狀態：持續擴充中*

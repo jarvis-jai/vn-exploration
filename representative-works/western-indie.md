@@ -300,13 +300,164 @@
 
 ---
 
-## 待補充
+## 近年話題作品（2020-2024）
 
-- 更多 itch.io 與 Game Jam 作品
-- 其他語言（西班牙語、葡萄牙語等）的獨立 VN
-- 商業銷量數據（當可獲得時）
-- 開發者訪談與 postmortem 資源連結
+### Sucker for Love: First Date / Date to Die For
+
+- **發行年份：** 2022 / 2023
+- **開發者：** Akabaka / DreadXP
+- **平台：** PC
+- **類型：** 恐怖喜劇、克蘇魯、戀愛
+- **長度：** 2-4 小時（每作）
+- **VNDB 連結：** https://vndb.org/v32884
+
+**背景與意義：**
+- 「與宇宙恐怖約會」的喜劇概念
+- Lovecraft 神話的戀愛遊戲化
+- 恐怖與喜劇的成功融合
 
 ---
 
-*狀態：初稿，持續擴充中*
+### The Coffin of Andy and Leyley
+
+- **發行年份：** 2023
+- **開發者：** Kit9 Studio
+- **平台：** PC
+- **類型：** 恐怖、黑暗喜劇、兄妹
+- **長度：** 3-5 小時（進行中）
+
+**背景與意義：**
+- 獨特的黑色幽默風格
+- 極具爭議的主題處理
+- RPG Maker 製作的成功案例
+- 社群討論熱度極高
+
+---
+
+### Milk inside a bag of milk inside a bag of milk / Milk outside a bag of milk outside a bag of milk
+
+- **發行年份：** 2020 / 2021
+- **開發者：** Nikita Kryukov（俄羅斯）
+- **平台：** PC
+- **類型：** 心理恐怖、精神疾病
+- **長度：** 30 分鐘 / 2 小時
+
+**背景與意義：**
+- 極短篇的精緻實驗
+- 精神疾病體驗的詩意表達
+- 低解析度像素藝術風格
+- 來自俄羅斯的獨立開發
+
+---
+
+### Necrobarista
+
+- **發行年份：** 2020
+- **開發者：** Route 59（澳洲）
+- **平台：** PC, Switch, iOS
+- **類型：** 死亡、咖啡廳、視覺風格
+- **長度：** 5-7 小時
+- **VNDB 連結：** https://vndb.org/v21997
+
+**背景與意義：**
+- 3D 電影風格的 VN 呈現
+- 澳洲墨爾本咖啡文化背景
+- 死亡與告別的主題
+- 視覺風格獲得關注
+
+---
+
+### 1000xRESIST
+
+- **發行年份：** 2024
+- **開發者：** Sunset Visitor（加拿大）
+- **平台：** PC, Switch
+- **類型：** 科幻、敘事冒險
+- **長度：** 8-12 小時
+
+**背景與意義：**
+- 2024 年評論家高度讚譽的作品
+- 華裔加拿大團隊
+- 科幻外殼下的移民與文化議題
+- 介於 VN 與敘事冒險之間
+
+---
+
+## Game Jam 與實驗作品
+
+### Novena Diabolos
+
+- **來源：** NaNoRenO（三月 VN 開發競賽）
+- **連結：** https://itch.io/jam/nanoreno-2023
+- **特點：** 每年三月舉辦的 VN 開發競賽，產出大量實驗作品
+
+### O2A2 VN Jam
+
+- **特點：** 一張背景、兩個角色、200 字內劇本的極限挑戰
+- **連結：** https://itch.io/jam/o2a2-jam
+
+### Yuri Game Jam
+
+- **特點：** 百合主題專門競賽
+- **連結：** https://itch.io/jam/yuri-game-jam
+
+### Horror Game Jam 作品
+
+- 許多恐怖 VN 從 itch.io 恐怖 Jam 起步
+- 如 **Presentable Liberty**、**Imscared** 等先驅
+
+---
+
+## 區域特色作品
+
+### 拉丁美洲
+
+| 作品 | 開發者 | 國家 | 備註 |
+|------|--------|------|------|
+| VA-11 Hall-A | Sukeban Games | 委內瑞拉 | 已列於上方 |
+| Coffee Talk | Toge Productions | 印尼 | 已列於上方 |
+
+### 東南亞
+
+| 作品 | 開發者 | 國家 | 備註 |
+|------|--------|------|------|
+| Ciel Fledge | Studio Namaapa | 印尼 | 養成 + VN 混合 |
+| When the Night Comes | Lunaris Games | 菲律賓 | 戀愛 VN |
+
+### 歐洲
+
+| 作品 | 開發者 | 國家 | 備註 |
+|------|--------|------|------|
+| Milk 系列 | Nikita Kryukov | 俄羅斯 | 已列於上方 |
+| Roadwarden | Moral Anxiety Studio | 波蘭 | 文字冒險 / VN 混合 |
+| World of Horror | panstasz | 波蘭 | 恐怖 + Junji Ito 風格 |
+
+---
+
+## 外部連結與資源
+
+### 發現新作品
+
+- [itch.io Visual Novel 標籤](https://itch.io/games/tag-visual-novel) — 獨立 VN 最大平台
+- [VNDB 英語原作](https://vndb.org/v?f=022gen4444444Zn) — 英語原創 VN 資料庫搜尋
+- [NaNoRenO 歷年作品](https://itch.io/c/231056/nanoreno-2024) — 年度 VN Jam 作品集
+- [r/vndevs](https://www.reddit.com/r/vndevs/) — 開發者社群
+
+### 開發者資源與 Postmortem
+
+- [GDC Vault VN 相關演講](https://www.gdcvault.com/search.php#&conference_id=&category=free&firstfocus=&keyword=visual+novel)
+- [Lemma Soft Forums 開發討論](https://lemmasoft.renai.us/forums/)
+- [Ren'Py 官方 Discord](https://discord.gg/renpy)
+
+---
+
+## 待補充
+
+- 西班牙語、葡萄牙語原創 VN
+- 商業銷量數據（當可獲得時）
+- 更多 Game Jam 代表作品
+- 開發者訪談連結
+
+---
+
+*狀態：持續擴充中*
