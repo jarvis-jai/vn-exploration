@@ -94,11 +94,15 @@
 **詳見：[links.md](./links.md)**
 
 收錄內容：
-- VNDB 排行與統計連結
-- Steam / Itch.io VN 分類頁
-- Reddit 推薦討論串
-- 日本 ErogameScape 資源
-- 中文社群資料庫
+- VNDB 排行與統計連結（按評分、熱門度、投票數、語言、長度篩選）
+- Steam / Itch.io VN 分類頁（標籤組合搜尋）
+- Reddit 推薦討論串（r/visualnovels、r/otomegames）
+- 日本 ErogameScape 資源（批評空間排行、2ch/5ch 討論）
+- 中文社群資料庫（Bangumi、機核、NGA、S1）
+- 長篇評論與深度分析站點（英/日/中）
+- 社群策展與推薦清單（Discord、Twitter 帳號）
+- 播客與影片資源（YouTube、Bilibili 頻道指南）
+- 維基與專門 Wiki（TYPE-MOON、Key、Steins;Gate 等）
 - 搜尋關鍵字索引
 
 ---
