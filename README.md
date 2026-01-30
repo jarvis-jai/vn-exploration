@@ -30,7 +30,8 @@ vn-exploration/
 │   ├── parasocial-dynamics.md    # 擬社會關係與玩家-角色動態
 │   ├── player-typology.md        # 玩家類型學與消費行為
 │   ├── music-and-sound-design.md # 音樂與聲音設計
-│   └── visual-storytelling.md    # 視覺敘事與美術設計
+│   ├── visual-storytelling.md    # 視覺敘事與美術設計
+│   └── meta-reading-literacy.md  # メタ読み：後設閱讀素養
 ├── failure-modes/          # 常見失敗模式
 ├── representative-works/   # 代表作品
 ├── communities/            # 社群與討論區

@@ -26,6 +26,7 @@
 | [music-and-sound-design.md](music-and-sound-design.md) | 音樂與聲音設計 |
 | [visual-storytelling.md](visual-storytelling.md) | 視覺敘事與美術設計 |
 | [replayability-design.md](replayability-design.md) | 重玩價值設計 |
+| [meta-reading-literacy.md](meta-reading-literacy.md) | メタ読み：後設閱讀素養 |
 
 ---
 
