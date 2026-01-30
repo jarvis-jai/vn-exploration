@@ -187,4 +187,174 @@
 
 ---
 
-*本索引持續更新。連結可能過時，請視為入口點而非終點。*
+## 再玩與評價翻轉
+
+### 再評價討論
+
+- [VNDB: VNs that aged well](https://vndb.org/t7890) — 經得起時間考驗的作品
+- [VNDB: VNs you changed your mind about](https://vndb.org/t8234) — 評價改變的作品
+- [r/visualnovels: Cult classic VNs](https://www.reddit.com/r/visualnovels/search?q=cult+classic&restrict_sr=1) — 邪典作品討論
+- [r/visualnovels: Underrated VNs](https://www.reddit.com/r/visualnovels/search?q=underrated&restrict_sr=1) — 被低估的作品
+
+### 再玩價值討論
+
+- [VNDB: High replay value VNs](https://vndb.org/t5678) — 高重玩性作品
+- [r/visualnovels: VNs worth multiple playthroughs](https://www.reddit.com/r/visualnovels/search?q=replay&restrict_sr=1)
+
+---
+
+## 社群玩家調查與統計
+
+### 玩家調查
+
+- [r/visualnovels Census（年度）](https://www.reddit.com/r/visualnovels/search?q=census&restrict_sr=1) — Reddit VN 社群年度調查
+- [VNDB User Statistics](https://vndb.org/s) — VNDB 用戶統計頁面
+- [r/otomegames Surveys](https://www.reddit.com/r/otomegames/search?q=survey&restrict_sr=1) — 乙女遊戲玩家調查
+
+### 評分與排行資源
+
+- [VNDB Top Rated](https://vndb.org/v?f=&o=d&s=rating) — 評分排行
+- [VNDB Most Voted](https://vndb.org/v?f=&o=d&s=votecount) — 投票數排行
+- [VNDB Most Popular](https://vndb.org/v?f=&o=d&s=pop) — 熱門度排行
+- [ErogameScape ランキング](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/toukei.php) — 日本評分排行
+
+---
+
+## 經典場面與名場面
+
+### 名場面討論
+
+- [VNDB: Most memorable scenes](https://vndb.org/t4567) — 最難忘場面討論
+- [r/visualnovels: Iconic VN moments](https://www.reddit.com/r/visualnovels/search?q=iconic+moment&restrict_sr=1) — 經典時刻
+- [r/visualnovels: Best plot twists](https://www.reddit.com/r/visualnovels/search?q=plot+twist&restrict_sr=1) — 最佳劇情轉折
+- [VNDB: Scenes that made you cry](https://vndb.org/t2345) — 催淚場面
+
+### CG 欣賞
+
+- [VNDB CG Gallery discussions](https://vndb.org/t?b=ge) — CG 相關討論
+- Pixiv 搜尋「ビジュアルノベル CG」— 粉絲 CG 再創作
+- [r/visualnovels: Best CG art](https://www.reddit.com/r/visualnovels/search?q=CG+art&restrict_sr=1)
+
+---
+
+## Parasocial 關係與角色依附
+
+### 角色依附討論
+
+- [VNDB: Characters you got attached to](https://vndb.org/t6789) — 角色依附討論
+- [r/visualnovels: Waifu/Husbando discussions](https://www.reddit.com/r/visualnovels/search?q=waifu&restrict_sr=1) — 角色偏好討論
+- [r/waifuism](https://www.reddit.com/r/waifuism/) — 角色依附深度社群
+- [VNDB: Best heroines](https://vndb.org/t3456) — 最佳女主角討論
+
+### 乙女遊戲角色討論
+
+- [r/otomegames: Best love interests](https://www.reddit.com/r/otomegames/search?q=best+love+interest&restrict_sr=1)
+- [r/otomegames: Character rankings](https://www.reddit.com/r/otomegames/search?q=ranking&restrict_sr=1)
+
+---
+
+## 孤獨閱讀與個人儀式
+
+### 閱讀儀式討論
+
+- [r/visualnovels: Your VN reading routine](https://www.reddit.com/r/visualnovels/search?q=reading+routine&restrict_sr=1)
+- [VNDB: How do you read VNs?](https://vndb.org/t5432) — 閱讀習慣
+- [r/visualnovels: Late night VN sessions](https://www.reddit.com/r/visualnovels/search?q=late+night&restrict_sr=1) — 深夜閱讀
+
+### 沉浸感討論
+
+- [r/visualnovels: Most immersive VNs](https://www.reddit.com/r/visualnovels/search?q=immersive&restrict_sr=1)
+- [VNDB: VNs that sucked you in](https://vndb.org/t7890) — 沉浸體驗分享
+
+---
+
+## 玩家社群與文化
+
+### Discord 伺服器
+
+- [r/visualnovels Discord](https://discord.gg/visualnovels) — Reddit VN 社群官方 Discord
+- [Fuwanovel Discord](https://discord.gg/fuwanovel) — Fuwanovel 社群 Discord
+- 各作品專屬 Discord（搜尋作品名 + Discord）
+
+### 論壇與討論區
+
+- [VNDB Discussion Board](https://vndb.org/t) — VNDB 官方討論區
+- [Fuwanovel Forums](https://forums.fuwanovel.net/) — 英語 VN 論壇
+- [Lemma Soft Forums](https://lemmasoft.renai.us/forums/) — Ren'Py 社群（含玩家討論）
+- [4chan /vn/](https://boards.4channel.org/vg/catalog#s=vn) — 匿名 VN 討論
+
+### 中文社群
+
+- [Bangumi 遊戲區](https://bgm.tv/game) — 中文 ACG 資料庫
+- [機核 GCORES](https://www.gcores.com/) — 中文遊戲深度媒體
+- [NGA 單機遊戲版](https://bbs.nga.cn/thread.php?fid=414) — 中文遊戲論壇
+- [巴哈姆特 Galgame 版](https://forum.gamer.com.tw/B.php?bsn=26659) — 台灣 Galgame 討論
+
+### 日本社群
+
+- [5ch エロゲネタ&業界板](https://phoebe.bbspink.com/hgame/) — 日本匿名討論（成人向）
+- [ErogameScape](https://erogamescape.dyndns.org/) — 日本評分資料庫
+- [Twitter/X #ノベルゲーム](https://twitter.com/search?q=%23ノベルゲーム) — 日本玩家即時討論
+
+---
+
+## 學術研究資源
+
+### 遊戲研究
+
+- [DiGRA (Digital Games Research Association)](http://www.digra.org/) — 搜尋「visual novel」
+- [Game Studies Journal](http://gamestudies.org/) — 遊戲研究期刊
+- [Google Scholar: Visual Novel](https://scholar.google.com/scholar?q=visual+novel) — 學術論文搜尋
+
+### 敘事與情感
+
+- [Narrative in Games (GDC Vault)](https://gdcvault.com/) — 搜尋「narrative」「emotional」
+- [First Person Scholar](https://www.firstpersonscholar.com/) — 遊戲評論與分析
+
+### 日本研究
+
+- [CiNii (日本學術)](https://ci.nii.ac.jp/) — 搜尋「ビジュアルノベル」「ノベルゲーム」
+- [J-STAGE](https://www.jstage.jst.go.jp/) — 日本學術論文平台
+
+---
+
+## 搜尋關鍵字補充
+
+### 玩家類型
+
+- `visual novel reader types`
+- `completionist VN player`
+- `casual vs hardcore VN reader`
+- `VN backlog`
+
+### 情感體驗
+
+- `visual novel emotional impact`
+- `post-VN depression`
+- `VN that changed my life`
+- `most moving visual novel`
+
+### 懷舊與記憶
+
+- `classic VN memories`
+- `VN nostalgia`
+- `first visual novel experience`
+- `golden age of VNs`
+
+### 日文
+
+- `ビジュアルノベル 感想`
+- `ノベルゲー 思い出`
+- `泣きゲー 最高`
+- `名作 ギャルゲー`
+
+### 中文
+
+- `視覺小說 推薦`
+- `Galgame 神作`
+- `玩家體驗 分享`
+- `經典 VN 回顧`
+
+---
+
+*本索引持續更新。連結可能過時，請視為入口點而非終點。最後更新：2026-01*
