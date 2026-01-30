@@ -1,103 +1,89 @@
-# 玩家體驗模式（Player Experience）
+# 玩家體驗（Player Experience）
 
-不同的 VN 提供不同的閱讀與互動體驗。本目錄整理常見的體驗類型。
-
----
-
-## 這裡收錄什麼
-
-- 閱讀密度與節奏
-- 互動程度分類
-- 氛圍導向 vs 劇情導向
-- 情感體驗類型
-- 重玩價值設計
-- 聲音與音樂設計
+VN 如何被閱讀、感受、記憶。
 
 ---
 
-## 已有文件
+## 已有專文
 
-| 文件 | 說明 |
+### 核心體驗
+
+| 主題 | 檔案 |
 |------|------|
-| [emotional-engagement.md](emotional-engagement.md) | 情感投入機制 |
-| [voice-performance.md](voice-performance.md) | 聲優與語音演出 |
-| [parasocial-dynamics.md](parasocial-dynamics.md) | 擬社會關係與玩家-角色動態 |
-| [player-typology.md](player-typology.md) | 玩家類型學與消費行為 |
-| [music-and-sound-design.md](music-and-sound-design.md) | 音樂與聲音設計 |
-| [visual-storytelling.md](visual-storytelling.md) | 視覺敘事與美術設計 |
-| [replayability-design.md](replayability-design.md) | 重玩價值設計 |
-| [meta-reading-literacy.md](meta-reading-literacy.md) | メタ読み：後設閱讀素養 |
-| [iconic-scenes-collection.md](iconic-scenes-collection.md) | 名場面收藏：VN 史上的經典瞬間 |
-| [collection-and-preservation.md](collection-and-preservation.md) | 收藏、典藏與保存文化 |
-| [re-evaluation-and-cult-status.md](re-evaluation-and-cult-status.md) | 再評價現象與經典地位的形成 |
-| [solitary-reading-ritual.md](solitary-reading-ritual.md) | 獨處儀式：VN 作為私密閱讀空間 |
-| [generational-memory.md](generational-memory.md) | 世代記憶：不同年代玩家的原風景 |
-| [pilgrimage-seichi-junrei.md](pilgrimage-seichi-junrei.md) | 聖地巡禮：虛構與實境的交疊 |
-| [memory-and-nostalgia.md](memory-and-nostalgia.md) | 記憶與懷舊：VN 消費的時間性體驗 |
+| 情感投入 | [emotional-engagement.md](./emotional-engagement.md) |
+| 擬社會關係 | [parasocial-dynamics.md](./parasocial-dynamics.md) |
+| 玩家類型學 | [player-typology.md](./player-typology.md) |
+
+### 演出與美術
+
+| 主題 | 檔案 |
+|------|------|
+| 聲優演出 | [voice-performance.md](./voice-performance.md) |
+| 音樂設計 | [music-and-sound-design.md](./music-and-sound-design.md) |
+| 視覺敘事 | [visual-storytelling.md](./visual-storytelling.md) |
+
+### 閱讀行為
+
+| 主題 | 檔案 |
+|------|------|
+| 後設閱讀 | [meta-reading-literacy.md](./meta-reading-literacy.md) |
+| 獨處儀式 | [solitary-reading-ritual.md](./solitary-reading-ritual.md) |
+| 重玩設計 | [replayability-design.md](./replayability-design.md) |
+
+### 記憶與懷舊
+
+| 主題 | 檔案 |
+|------|------|
+| 記憶與懷舊 | [memory-and-nostalgia.md](./memory-and-nostalgia.md) |
+| 世代記憶 | [generational-memory.md](./generational-memory.md) |
+| 名場面收藏 | [iconic-scenes-collection.md](./iconic-scenes-collection.md) |
+
+### 收藏與文化
+
+| 主題 | 檔案 |
+|------|------|
+| 收藏文化 | [collection-and-preservation.md](./collection-and-preservation.md) |
+| 聖地巡禮 | [pilgrimage-seichi-junrei.md](./pilgrimage-seichi-junrei.md) |
+| 再評價現象 | [re-evaluation-and-cult-status.md](./re-evaluation-and-cult-status.md) |
 
 ---
 
-## 體驗類型（待填充）
+## 體驗分類
 
 ### 依閱讀密度
 
-- **文字密集型**
-  - 大量敘述與內心獨白
-  - 接近閱讀小說的體驗
-
-- **對話驅動型**
-  - 以角色對話為主
-  - 節奏較快
-
-- **視覺優先型**
-  - 文字精簡
-  - 重視美術與演出
+| 類型 | 特徵 |
+|------|------|
+| 文字密集 | 大量敘述，接近小說 |
+| 對話驅動 | 以對話為主，節奏快 |
+| 視覺優先 | 文字精簡，重美術 |
 
 ### 依互動程度
 
-- **純閱讀**（Kinetic Novel）
-  - 無選擇
-  - 完全線性
+| 類型 | 特徵 |
+|------|------|
+| Kinetic Novel | 無選擇，純閱讀 |
+| 選擇輕量 | 偶爾選項 |
+| 選擇密集 | 頻繁選擇 |
+| 混合型 | 含解謎/養成 |
 
-- **選擇輕量型**
-  - 偶爾出現選項
-  - 選擇主要影響好感度或小細節
+### 依情感
 
-- **選擇密集型**
-  - 頻繁選擇
-  - 選擇顯著影響劇情走向
-
-- **混合型**（含 Gameplay 元素）
-  - 包含解謎、探索、養成等機制
-
-### 依情感體驗
-
-- **治癒 / 放鬆**
-- **緊張 / 懸疑**
-- **催淚 / 感動**
-- **恐怖 / 不安**
-- **燃 / 熱血**
-- **致鬱 / 沉重**
-
-### 依氛圍
-
-- **日常感**
-- **奇幻冒險感**
-- **都會現代感**
-- **復古懷舊感**
-- **超現實 / 夢境感**
+- 治癒 / 放鬆
+- 緊張 / 懸疑
+- 催淚 / 感動
+- 恐怖 / 不安
+- 燃 / 熱血
+- 致鬱 / 沉重
 
 ---
 
-## 待研究問題
+## 未探索領域
 
-- 不同體驗類型的目標受眾
-- 節奏控制的技術手法
-- 重玩設計與收集要素
+- 體驗類型與目標受眾
+- 節奏控制技術
+- 收集要素設計
 
 ---
 
-> This section may remain empty for a long time.
-> Emptiness indicates unexplored space, not missing work.
-
-*狀態：骨架結構，待填充*
+> 空白代表尚未探索，不是遺漏。

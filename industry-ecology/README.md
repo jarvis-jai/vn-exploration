@@ -1,46 +1,47 @@
-# VN 產業生態（Industry Ecology）
+# 產業生態（Industry Ecology）
 
-視覺小說的製作與發行生態，從同人社團到商業公司，從日本國內到全球市場。這個目錄探索「誰在做 VN」「如何運作」「生態如何演變」。
-
----
-
-## 本目錄範圍
-
-- 開發者類型與規模譜系
-- 同人（Doujin）vs 商業生態
-- 知名製作公司的風格與歷史
-- 獨立開發者（西方 Indie）的興起
-- 發行商與平台的角色
-- 開發團隊的組成結構
-- 產業的經濟循環
+誰在做 VN、如何運作、生態如何演變。
 
 ---
 
-## 相關文件
+## 已有專文
 
-- `doujin-commercial-spectrum.md` - 同人與商業的連續光譜
-- `platform-evolution.md` - 平台演化與分發管道變遷
-- `competitors-and-threats.md` - VN 的競爭者與生存威脰分析
-- `fandisc-culture.md` - ファンディスク文化：補充內容經濟學
-- `scenario-writers.md` - 脚本家文化與作家主義的產業結構
-- `vn-composers.md` - VN 作曲家文化：聲音的作者性
-- `western-indie-scene.md` - 西方獨立 VN 開發場景：OELVN 的歷史、工具鏈、美學光譜、代表作品
-- `localization-translation.md` - 翻譯與在地化：粉絲翻譯史、官方翻譯崛起、翻譯挑戰與爭議
-- `crowdfunding-patronage.md` - 眾籌與贊助：Kickstarter 時代、Patreon 模式、資金結構轉變、開發者與贊助者視角
-- `studio-identities.md` - 主要製作公司的風格辨識（待建立）
-- `development-team-structure.md` - 開發團隊的人員組成（待建立）
+### 生態結構
+
+| 主題 | 檔案 |
+|------|------|
+| 同人 vs 商業 | [doujin-commercial-spectrum.md](./doujin-commercial-spectrum.md) |
+| 平台演化 | [platform-evolution.md](./platform-evolution.md) |
+| 競爭者分析 | [competitors-and-threats.md](./competitors-and-threats.md) |
+
+### 人與組織
+
+| 主題 | 檔案 |
+|------|------|
+| 腳本家文化 | [scenario-writers.md](./scenario-writers.md) |
+| 作曲家文化 | [vn-composers.md](./vn-composers.md) |
+| 西方獨立場景 | [western-indie-scene.md](./western-indie-scene.md) |
+
+### 商業模式
+
+| 主題 | 檔案 |
+|------|------|
+| Fandisc 文化 | [fandisc-culture.md](./fandisc-culture.md) |
+| 眾籌與贊助 | [crowdfunding-patronage.md](./crowdfunding-patronage.md) |
+| 翻譯生態 | [localization-translation.md](./localization-translation.md) |
 
 ---
 
-## 待探索方向
+## 未探索領域
 
-- 「畢業」現象：核心成員離開後的公司變化
-- 新人進入產業的路徑
-- Comiket 與 VN 同人圈的關係
-- 跨國合作的案例
-- 眾籌對 VN 開發的影響
-- 「工作室倒閉」的常見模式與後續
+- 工作室風格辨識
+- 團隊人員組成
+- 「畢業」現象
+- 新人進入路徑
+- Comiket 與同人圈
+- 跨國合作
+- 工作室倒閉模式
 
 ---
 
-*狀態：目錄初建*
+> 空白代表尚未探索，不是遺漏。
