@@ -22,6 +22,17 @@
 | steam-review-patterns.md | Steam 評論的典型模式與摘錄 |
 | scenario-writer-discussions.md | 脚本家相關討論與評價摘錄 |
 | localization-debates.md | 翻譯與在地化的典型爭論模式 |
+| [links.md](./links.md) | 一手資料與社群討論的入口連結 |
+
+---
+
+## 相關目錄
+
+| 目錄 | 關聯 |
+|------|------|
+| [communities/](../communities/) | 社群結構與文化分析 |
+| [localization/](../localization/) | 翻譯爭論的背景脈絡 |
+| [player-experience/](../player-experience/) | 玩家體驗的深度探討 |
 
 ---
 
