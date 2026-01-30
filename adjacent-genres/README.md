@@ -37,8 +37,12 @@ VN 的重要先驅與並行類型。從 1970 年代的文字冒險演化至今�
   - 敘事 + 解謎結合
   - 女性向市場重疊
 
-- **代表作品**
-  - （待列舉）
+- **代表系列**
+  - **Mystery Case Files**（Eipix / Big Fish）— HOG 類型開創者，長篇連續劇情
+  - **Enigmatis** 三部曲（Artifex Mundi）— 黑暗懸疑，故事完整度高
+  - **Grim Tales** 系列（Elephant Games）— 黑暗童話改編
+  - **Hidden City**（G5）— 手機 HOG 代表
+  - **Artifex Mundi 作品群** — 以敘事品質著稱的 HOG 發行商
 
 ### 敘事解謎（Narrative Puzzle）
 
@@ -47,7 +51,13 @@ VN 的重要先驅與並行類型。從 1970 年代的文字冒險演化至今�
   - 互動性較高
 
 - **代表作品**
-  - （待列舉）
+  - **Professor Layton 系列**（Level-5）— 解謎 + 敘事的經典結合
+  - **Zero Escape / 極限脫出系列**（打越鋼太郎）— 密室脫出 + VN，敘事詭計
+  - **Danganronpa / 彈丸論破**（Spike Chunsoft）— 推理 + 學級裁判
+  - **The Room 系列**（Fireproof）— 3D 機關盒解謎
+  - **Return of the Obra Dinn**（Lucas Pope）— 推理重建敘事
+  - **Her Story** / **Telling Lies**（Sam Barlow）— FMV 敘事解謎
+  - **The Witness**（Jonathan Blow）— 環境敘事 + 解謎
 
 ### 冒險遊戲（Adventure Game）
 
@@ -100,6 +110,12 @@ VN 的重要先驅與並行類型。從 1970 年代的文字冒險演化至今�
 
 ---
 
+## 資源連結
+
+→ [links.md](./links.md) — 鄰近類型的外部資源、資料庫、社群入口索引
+
+---
+
 ## 待研究問題
 
 - 類型混合的成功案例
@@ -109,4 +125,4 @@ VN 的重要先驅與並行類型。從 1970 年代的文字冒險演化至今�
 
 ---
 
-*狀態：進行中，互動小說已初步填充*
+*狀態：進行中，已新增 links.md 連結索引*
