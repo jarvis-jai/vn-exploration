@@ -60,6 +60,8 @@
 ## 已收錄文件
 
 - **[choice-design.md](choice-design.md)** — 選擇設計的深度探討：選擇的類型學、假選擇、呈現設計、心理學、路線系統、分支管理技術
+- **[nichijou-daily-life.md](nichijou-daily-life.md)** — 日常描寫與生活感的營造：時間循環感、空間場所、日常與主線的關係、描寫技巧、文化脈絡差異、經典作品分析
+- **[common-tropes.md](common-tropes.md)** — 常見敘事套路與慣例
 
 ---
 
