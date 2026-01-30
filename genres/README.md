@@ -23,6 +23,12 @@ VN 的類型分類。
 | Sound Novel | [sound-novel-origins.md](./sound-novel-origins.md) | 類型起源 |
 | 實驗作品 | [forgotten-experiments.md](./forgotten-experiments.md) | 被遺忘的嘗試 |
 
+### 資源索引
+
+| 檔案 | 內容 |
+|------|------|
+| [links.md](./links.md) | 類型資源連結索引（VNDB 標籤、搜尋關鍵字、社群入口） |
+
 ---
 
 ## 類型總覽
