@@ -27,6 +27,7 @@
 | [visual-storytelling.md](visual-storytelling.md) | 視覺敘事與美術設計 |
 | [replayability-design.md](replayability-design.md) | 重玩價值設計 |
 | [meta-reading-literacy.md](meta-reading-literacy.md) | メタ読み：後設閱讀素養 |
+| [iconic-scenes-collection.md](iconic-scenes-collection.md) | 名場面收藏：VN 史上的經典瞬間 |
 
 ---
 
