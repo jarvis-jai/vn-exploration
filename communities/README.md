@@ -22,30 +22,36 @@ VN 相關的社群、論壇、討論區。
 | 粉絲創作 | [fan-creation-ecology.md](./fan-creation-ecology.md) |
 | 批評話語 | [discourse-and-criticism.md](./discourse-and-criticism.md) |
 
+### 資源索引
+
+| 主題 | 檔案 |
+|------|------|
+| 社群連結彙整 | [links.md](./links.md) |
+
 ---
 
 ## 主要平台速查
 
 ### 資料庫
 
-- **VNDB** — 最完整的 VN 資料庫
-- **ErogameScape（批評空間）** — 日本玩家評分
+- **[VNDB](https://vndb.org/)** — 最完整的 VN 資料庫
+- **[ErogameScape（批評空間）](https://erogamescape.dyndns.org/)** — 日本玩家評分
 
 ### 討論區
 
-- **Reddit** — r/visualnovels、r/otomegames
-- **Discord** — 各類伺服器
-- **Fuwanovel** — 歷史悠久的英文論壇
+- **Reddit** — [r/visualnovels](https://www.reddit.com/r/visualnovels/)、[r/otomegames](https://www.reddit.com/r/otomegames/)
+- **Discord** — 各類伺服器（見 [links.md](./links.md)）
+- **[Fuwanovel](https://fuwanovel.net/)** — 歷史悠久的英文論壇
 
 ### 開發者
 
-- **Lemma Soft Forums** — Ren'Py 官方論壇
-- **itch.io** — 開發者 devlog
+- **[Lemma Soft Forums](https://lemmasoft.renai.us/forums/)** — Ren'Py 官方論壇
+- **[itch.io](https://itch.io/games/tag-visual-novel)** — 開發者發布與 devlog
 
 ### 中文
 
-- **Bangumi** — 評分與條目
-- **Bilibili** — 實況與討論
+- **[Bangumi](https://bangumi.tv/)** — 評分與條目
+- **[Bilibili](https://www.bilibili.com/)** — 實況與討論
 
 ---
 
