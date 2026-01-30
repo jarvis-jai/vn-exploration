@@ -90,6 +90,68 @@
 - 數據：首月估計 10 萬+（SteamDB 評論推算）
 - 來源：SteamDB、開發者社群
 
+**The Coffin of Andy and Leyley**
+- 開發者：Kit9 Studio（solo dev）
+- 發行：2023（Early Access）
+- 定價：$9.99
+- 數據：Steam 評論約 3.5 萬+（2024）
+- 特點：RPG Maker + VN 混合，爭議性內容帶來病毒傳播
+- 來源：SteamDB
+
+**Necrobarista**
+- 開發者：Route 59（澳洲）
+- 發行：2020
+- 定價：$21.99
+- 數據：Steam 評論約 2,500+
+- 特點：3D 視覺風格、澳洲團隊
+- 來源：Steam、開發者 GDC 演講
+
+**Boyfriend Dungeon**
+- 開發者：Kitfox Games
+- 發行：2021
+- 定價：$19.99
+- 數據：首週 PC 銷量估計約 10 萬+（含 Game Pass）
+- 特點：Roguelike + 約會模擬混合
+- 來源：Game Developer 訪談
+
+**Lake**
+- 開發者：Gamious
+- 發行：2021
+- 定價：$19.99
+- 數據：Steam 評論約 4,000+
+- 特點：郵差模擬 + 敘事，收入足以支持續作
+- 來源：開發者部落格
+
+**Eliza**
+- 開發者：Zachtronics
+- 發行：2019
+- 定價：$14.99
+- 數據：Steam 評論約 1,500+
+- 特點：AI 諮商主題，知名工作室的 VN 嘗試
+- 來源：Steam
+
+**Spirit Hunter: Death Mark / NG**
+- 發行商：Aksys Games（西方版）
+- 定價：$49.99
+- Steam 評論：各約 500-1,000
+- 特點：恐怖 ADV 系列，主機優先
+
+**Our Life: Beginnings & Always**
+- 開發者：GB Patch Games
+- 發行：2020
+- 模式：免費本篇 + DLC
+- 數據：Steam 評論約 18,000+（免費版）
+- 特點：乙女遊戲、DLC 模式成功案例
+- 來源：Steam、開發者 Tumblr
+
+**Arcade Spirits**
+- 開發者：Fiction Factory Games
+- 發行：2019
+- 定價：$19.99
+- 數據：Steam 評論約 1,200+
+- 特點：復古街機主題、包容性角色設計
+- 來源：Steam、開發者訪談
+
 ---
 
 ### 日本商業 VN（英文版）
@@ -114,6 +176,68 @@
 - 定價：$24.99
 - Steam 評論：約 6,000+
 - 以極高評價獲得長尾效應
+
+**Umineko When They Cry**
+- 發行商：MangaGamer
+- Steam 發行：2016-2017（分卷）
+- 定價：各 $24.99
+- Steam 評論：Question Arc 約 5,000+、Answer Arc 約 3,000+
+- 特點：超長篇、Steam 版有語音補丁爭議
+
+**Danganronpa 系列**
+- 發行商：Spike Chunsoft
+- Steam 發行：2016 起
+- 定價：各 $19.99-29.99
+- Steam 評論：1 代約 3.5 萬+、2 代約 2.5 萬+、V3 約 1.5 萬+
+- 推估總銷量：數百萬（全平台）
+
+**Doki Doki Literature Club Plus!**
+- 發行商：Serenity Forge
+- Steam 發行：2021（付費版）
+- 定價：$14.99
+- Steam 評論：約 4 萬+
+- 特點：免費版成功後的付費升級版
+
+**Higurashi When They Cry**
+- 發行商：MangaGamer
+- Steam 發行：2015-2019（分卷發行）
+- 定價：各 $5.99-7.99
+- 特點：分卷策略、社群自製語音/PS3 畫面補丁
+
+**AI: The Somnium Files**
+- 發行商：Spike Chunsoft
+- Steam 發行：2019
+- 定價：$59.99（首發）
+- Steam 評論：約 6,000+
+- 來自《極限脫出》創作者
+
+**Raging Loop**
+- 發行商：PQube
+- Steam 發行：2019
+- 定價：$29.99
+- Steam 評論：約 2,500+
+- 特點：人狼遊戲 + 循環敘事
+
+**Chaos;Head Noah / Chaos;Child**
+- 發行商：Spike Chunsoft
+- Steam 發行：2022-2023
+- 定價：$24.99
+- Steam 評論：Noah 約 2,000+、Child 約 1,500+
+- 科學 ADV 系列補完
+
+**Aokana: Four Rhythms Across the Blue**
+- 發行商：NekoNyan
+- Steam 發行：2019
+- 定價：$34.99
+- Steam 評論：約 3,000+
+- 特點：sprite 社代表作、運動 + 戀愛
+
+**Riddle Joker**
+- 發行商：NekoNyan
+- Steam 發行：2020
+- 定價：$44.99
+- Steam 評論：約 2,500+
+- 特點：ゆずソフト代表作
 
 ---
 
@@ -148,6 +272,46 @@
 - Steam 評論：約 7,000+
 - 純愛 ADV
 
+**古劍奇譚：木語人**
+- 開發者：網元聖唐
+- 發行：2023
+- 定價：¥68
+- Steam 評論：約 3,000+
+- 特點：AVG + 3D 演出、古風
+
+**女神異聞錄 5 同人作品群**
+- 如《Persona 5: Thievery》等
+- 同人 VN 生態觀察點
+- 大多免費或低價
+
+**白色相簿2（官方中文）**
+- 發行商：Leaf/Aquaplus
+- Steam 發行：2023
+- 定價：¥98（約 $14）
+- Steam 評論：約 8,000+
+- 特點：經典作品官方中文版的延遲需求
+
+**文字遊戲**
+- 開發者：Team9
+- 發行：2021
+- 定價：¥36
+- Steam 評論：約 15,000+
+- 特點：文字解謎 + 敘事，中國獨立
+
+**山桂**
+- 開發者：漫漫長夜工作室
+- 發行：2022
+- 定價：¥58
+- Steam 評論：約 1,500+
+- 特點：中式恐怖 + AVG
+
+**紅燒天堂（Loopers 中文）**
+- 原作：Key/VisualArts
+- 發行：2021
+- 定價：¥50
+- Steam 評論：約 2,000+
+- 特點：Key 社短篇、Ryukishi07 執筆
+
 ---
 
 ## 開發者 Postmortem 資源
@@ -162,6 +326,12 @@
 **推薦演講：**
 - GDC 每年的 Indie Game Summit 常有小型 VN 開發者分享
 - 搜尋 "GDC vault visual novel" 可找到相關演講
+
+**已知相關演講：**
+- "The Making of Slay the Princess"（GDC 2024）
+- "Writing Necrobarista"（Route 59）
+- "Designing Doki Doki Literature Club"（Dan Salvato）
+- "Creating Visual Novels for Western Audiences"（歷年 Indie Summit）
 
 ### Game Developer / Gamasutra
 
@@ -188,6 +358,19 @@
 - https://reddit.com/r/gamedev/
 - 通用獨立遊戲開發
 - "Sales Report" flair 可找銷售分享
+
+**r/VisualNovelDev**
+- https://reddit.com/r/VisualNovelDev/
+- 較新的 VN 開發社群
+- 偶有銷售分享和行銷討論
+
+**Itch.io Devlogs**
+- 許多小型 VN 開發者在 itch.io 寫 devlog
+- 搜尋 "sales" "revenue" "postmortem" 可找分享
+
+**Twitter/X 開發者帳號**
+- 追蹤 VN 開發者常有即時數據分享
+- 搜尋 "#VNDev" "#indiedev" "sales numbers"
 
 ### Lemma Soft Forums
 
@@ -303,6 +486,42 @@
 - 實際：$475,255
 - 結果：三部曲完整發行
 
+**Sharin no Kuni**
+- 平台：Kickstarter
+- 目標：$180,000
+- 實際：$543,114
+- 狀態：長期延遲，爭議案例
+
+**ISLAND（英文版）**
+- 平台：Kickstarter（Frontwing 自營）
+- 目標：$160,000
+- 實際：$257,088
+- 結果：成功發行
+
+**Root Double**
+- 平台：Kickstarter
+- 目標：$135,000
+- 實際：$232,848
+- 結果：成功發行
+
+**The Silver Case（SUDA51）**
+- 平台：Kickstarter
+- 目標：$300,000
+- 實際：$469,578
+- 結果：成功發行，帶動續作
+
+**西方原創 VN 眾籌**
+
+**Highway Blossoms**
+- 平台：Kickstarter
+- 規模：約 $30,000+
+- 結果：成功發行，獲得好評
+
+**Heart of the Woods**
+- 平台：Kickstarter（Studio Élan）
+- 規模：中小型
+- 結果：成功，工作室持續運作
+
 ### 警示案例
 
 （眾籌延期、規模縮水、或未完成的案例存在，但因敏感性不詳列，可搜尋相關討論）
@@ -316,18 +535,41 @@
 
 ## 待補充
 
-- 更多中文原創 VN 的銷量分享
 - Patreon/Fanbox 成人 VN 的收入案例
 - 主機版（Switch）的銷量對比
 - 不同年份的市場變化趨勢
 - 失敗案例的原因分析（需謹慎處理）
+- 韓國 VN 市場數據
+- 東南亞市場（越南、印尼等）的 VN 生態
 
 ---
 
 ## 關鍵字（供後續搜尋）
 
-`visual novel sales numbers`, `VN steam revenue`, `indie vn postmortem`, `visual novel kickstarter`, `ビジュアルノベル 売上`, `galgame 销量`, `Steam 中文 VN 銷量`
+`visual novel sales numbers`, `VN steam revenue`, `indie vn postmortem`, `visual novel kickstarter`, `ビジュアルノベル 売上`, `galgame 销量`, `Steam 中文 VN 銷量`, `VN dev revenue`, `how much did visual novel make`, `steam reviews to sales`, `boxleiter method`, `VN publisher sales`, `NekoNyan sales`, `MangaGamer revenue`, `Sekai Project kickstarter`
 
 ---
 
-*狀態：初稿，持續累積公開案例*
+## 相關連結
+
+### 數據追蹤工具
+- [SteamDB](https://steamdb.info/) - 評論追蹤、價格歷史
+- [Steam Spy](https://steamspy.com/) - 銷量估算（精確度受限）
+- [VG Insights](https://vginsights.com/) - 付費精確數據
+- [Gamalytic](https://gamalytic.com/) - Steam 數據分析
+- [HowLongToBeat](https://howlongtobeat.com/) - 遊戲長度參考
+
+### 討論社群
+- [r/visualnovels](https://reddit.com/r/visualnovels/) - 西方 VN 主社群
+- [r/vndevs](https://reddit.com/r/vndevs/) - 開發者社群
+- [Lemma Soft Forums](https://lemmasoft.renai.us/forums/) - Ren'Py 社群
+- [Fuwanovel](https://fuwanovel.net/) - VN 翻譯與討論
+
+### 行業媒體
+- [Game Developer](https://www.gamedeveloper.com/) - Postmortem 文章
+- [GDC Vault](https://gdcvault.com/) - 演講存檔
+- [Gematsu](https://www.gematsu.com/) - 日本遊戲新聞
+
+---
+
+*狀態：持續累積公開案例，2025-01 大幅擴充*
