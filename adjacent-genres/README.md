@@ -13,13 +13,26 @@
 
 ---
 
-## 鄰近類型（待填充）
+## 目錄
+
+- [互動小說（Interactive Fiction）](./interactive-fiction.md) — IF 與 VN 的譜系、設計借鑑、跨界創作者
+
+---
+
+## 鄰近類型概覽
+
+### 互動小說（Interactive Fiction）
+
+→ 詳見 [interactive-fiction.md](./interactive-fiction.md)
+
+VN 的重要先驅與並行類型。從 1970 年代的文字冒險演化至今，包含 parser-based 與 choice-based 兩大支脈。Choice-based IF（如 Twine 遊戲）與 VN 的設計極為接近，差異主要在視覺呈現。兩個社群有不同的傳統但逐漸融合。
 
 ### 隱藏物件遊戲（Hidden Object）
 
 - **與 VN 的關係**
   - 常有故事驅動元素
   - 敘事 + 解謎結合
+  - 女性向市場重疊
 
 - **代表作品**
   - （待列舉）
@@ -37,31 +50,26 @@
 
 - **傳統點擊冒險**
   - 探索、物品收集、對話
+  - 與 VN 有共同祖先
 
 - **現代敘事冒險**
   - Walking Simulator
   - 互動電影
+  - Telltale 系列作品
 
 ### 養成遊戲（Raising Sim）
 
 - **與 VN 的結合**
   - 養成數值 + 劇情分支
   - 戀愛養成
-
-### 文字冒險 / 互動小說
-
-- **純文字形式**
-  - Interactive Fiction
-  - Text Adventure
-
-- **與 VN 的差異**
-  - 無視覺元素或極少
+  - 《美少女夢工場》傳統
 
 ### RPG 混合
 
 - **JRPG + VN 元素**
   - 大量對話場景
   - 角色關係系統
+  - Persona 系列的對話部分
 
 - **Dating Sim + RPG**
 
@@ -78,11 +86,15 @@
 
 ### 從其他類型借鑑到 VN
 
-- （待研究）
+- IF 的敘事結構分類（Time Cave、Branch and Bottleneck 等）
+- 冒險遊戲的環境探索設計
+- 養成遊戲的數值可視化
 
 ### 從 VN 借鑑到其他類型
 
-- （待研究）
+- 角色刻畫技巧影響現代 IF
+- 對話框呈現方式被廣泛採用
+- 路線/結局系統的影響
 
 ---
 
@@ -91,10 +103,8 @@
 - 類型混合的成功案例
 - 核心玩家 vs 跨類型玩家
 - 混合類型的開發複雜度
+- 各類型社群的交流與隔閡
 
 ---
 
-> This section may remain empty for a long time.
-> Emptiness indicates unexplored space, not missing work.
-
-*狀態：骨架結構，待填充*
+*狀態：進行中，互動小說已初步填充*

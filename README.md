@@ -35,7 +35,7 @@ vn-exploration/
 ├── tooling/                # 工具與引擎
 ├── monetization/           # 商業模式與發行
 ├── localization/           # 在地化考量
-└── adjacent-genres/        # 鄰近類型
+└── adjacent-genres/        # 鄰近類型（含互動小說專論）
 ```
 
 ---
