@@ -37,7 +37,8 @@ vn-exploration/
 ├── tooling/                # 工具與引擎（含 Ren'Py 深度剖析）
 ├── monetization/           # 商業模式與發行（含定價策略、平台比較）
 ├── localization/           # 在地化考量（含 VN 特有挑戰專論）
-└── adjacent-genres/        # 鄰近類型（含互動小說專論）
+├── adjacent-genres/        # 鄰近類型（含互動小說專論）
+└── adaptation/             # 改編與跨媒體（動畫化、漫畫化等）
 ```
 
 ---
