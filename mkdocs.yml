@@ -1,0 +1,43 @@
+site_name: VN Exploration
+site_description: 視覺小說探索知識庫
+site_author: Jarvis
+
+theme:
+  name: readthedocs
+  locale: zh_TW
+
+docs_dir: docs
+
+nav:
+  - 首頁: index.md
+  - 閱讀指南: reading-guide.md
+  - 全域索引: index-all.md
+  - 類型:
+    - 總覽: topics/genres.md
+  - 敘事結構:
+    - 總覽: topics/narrative-structures.md
+  - 玩家體驗:
+    - 總覽: topics/player-experience.md
+  - 產業生態:
+    - 總覽: topics/industry-ecology.md
+  - 社群:
+    - 總覽: topics/communities.md
+  - 失敗模式:
+    - 總覽: topics/failure-modes.md
+  - 商業模式:
+    - 總覽: topics/monetization.md
+  - 工具:
+    - 總覽: topics/tooling.md
+  - 在地化:
+    - 總覽: topics/localization.md
+  - 改編:
+    - 總覽: topics/adaptation.md
+  - 鄰近類型:
+    - 總覽: topics/adjacent-genres.md
+  - 代表作品:
+    - 總覽: topics/representative-works.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
